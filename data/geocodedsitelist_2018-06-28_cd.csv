@@ -1,0 +1,855 @@
+Agency,Date Added,Project,Name_of_Lo,Street_Num,Address,City,Zipcode,County,Target_Aud,Agency_name,lon,lat,loctype,search_add,CD114FP
+2,1/1/2018,,Norcross Elementary School,150,Hunt St.,Norcross,30017,Gwinnett,Families,Open Hand Atlanta,-84.20663,33.94587,rooftop,"150 Hunt St.,Norcross,GA,30017",7
+2,1/1/2018,,Well Spring Living Fowler,5600,W Jones Bridge Rd,Norcross,30092,Gwinett,Adults 18+,Open Hand Atlanta,-84.22758,33.97888,rooftop,"5600 W Jones Bridge Rd,Norcross,GA,30092",7
+2,1/1/2018,,Norcross Mobile Home Village,4498,Buford Highway,Norcross,30319,Gwinett,Adults 18+,Open Hand Atlanta,-84.17573,33.96707,rooftop,"4498 Buford Highway,Norcross,GA,30319",7
+2,1/1/2018,WIC Clinic,Lawrenceville Health Center- WIC,455,455 Grayson Hwy Suite 300,Lawrenceville,30046,Gwinnett,Adults,Open Hand Atlanta,-83.98164,33.93953,rooftop,"455 Grayson Hwy Suite 300,Lawrenceville,GA,30046",7
+2,1/1/2018,"Cooking Matters for Adults, Teens and Kids",Baggett Elementary,2136,Old Norcross Rd.,Lawrenceville,30044,Gwinnett,"Adults, Teens, Kids",Open Hand Atlanta,-84.06751,33.95057,rooftop,"2136 Old Norcross Rd.,Lawrenceville,GA,30044",7
+2,1/1/2018,"Cooking Matters for Adults, Teens and Kids",Beaver Ridge Elementary,1978,Beaver Ruin. Rd.,Norcross,30071,Gwinnett,"Adults, Teens, Kids",Open Hand Atlanta,-84.17306,33.93443,rooftop,"1978 Beaver Ruin. Rd.,Norcross,GA,30071",7
+2,1/1/2018,,Phoenix High School,501,W. Pike St.,Lawrenceville,30046,Gwinnett,Adults and Teens,Open Hand Atlanta,-84.00477,33.96348,rooftop,"501 W. Pike St.,Lawrenceville,GA,30046",7
+2,1/1/2018,"Cooking Matters for Kids, Teens, and Adults",Corners Outreach,2,"Sun Court, Suite 220",Peachtree Corners,30092,Gwinnett,"Adults, Teens, Kids",Open Hand Atlanta,-84.22697,33.96825,,"2 Sun Court, Suite 220,Peachtree Corners,GA,30092",7
+2,1/1/2018,"Cooking Matters for Kids, Adults and Teens","The Place of Forsyth County, Inc.",2550,The Place Circle,Cumming,30040,Forsyth,,Open Hand Atlanta,-84.1026,34.23187,,"2550 The Place Circle,Cumming,GA,30040",7
+2,1/1/2018,"Cooking Matters for Kids, Adults and Teens",Audubon Creek,1111,Amber Drive,Norcross,30071,Gwinnett,,Open Hand Atlanta,-84.18862,33.93628,,"1111 Amber Drive,Norcross,GA,30071",7
+3,1/1/2018,Child Care,Buford Head Start Center/Pre-K,84,Maddox Road,Buford,30518,Gwinette,5 yrs >,HealthMPowers,-83.99825,34.09838,rooftop,"84 Maddox Road,Buford,GA,30518",7
+3,1/1/2018,Child Care,Norcross Head Start,5030,Georgia Belle Court,Norcross,30093,Gwinnett,5 yrs >,HealthMPowers,-84.16504,33.92038,rooftop,"5030 Georgia Belle Court,Norcross,GA,30093",7
+3,1/1/2018,Child Care,Kandolo Baze,1210,Herrington Road,Lawrenceville,30044,Gwinnett,5 yrs >,HealthMPowers,-84.08251,33.95021,rooftop,"1210 Herrington Road,Lawrenceville,GA,30044",7
+3,1/1/2018,Child Care,Sunshine House Hurricane Shoals,208,Hurricane Shoals Rd. NW,Lawrenceville,30046,Gwinnett,5 yrs >,HealthMPowers,-83.99809,33.96804,rooftop,"208 Hurricane Shoals Rd. NW,Lawrenceville,GA,30046",7
+3,1/1/2018,after school,A. Worley Brown Club,5360,Old Norcross Road,Norcross,30071,Gwinnett,18-May,HealthMPowers,-84.19989,33.94673,rooftop,"5360 Old Norcross Road,Norcross,GA,30071",7
+3,1/1/2018,Child Care,Sunshine House Duluth,1494,Pleasant Hill Rd.,Duluth,30096,Gwinnett,5 yrs >,HealthMPowers,-84.12197,33.94261,rooftop,"1494 Pleasant Hill Rd.,Duluth,GA,30096",7
+3,1/1/2018,Child Care,Forsyth EHS/Head Start,133,Samaritan Drive,Cumming,30040,Forsyth,5 yrs >,HealthMPowers,-84.14729,34.20838,rooftop,"133 Samaritan Drive,Cumming,GA,30040",7
+3,1/1/2018,Child Care,Nana's Nook,1706,Scholar Drive,Lawrenceville,30044,Gwinnett,5 yrs >,HealthMPowers,-84.02535,33.9161,rooftop,"1706 Scholar Drive,Lawrenceville,GA,30044",7
+3,1/1/2018,after school,Radloff Middle School,3939,Shackleford Rd,Duluth,30096,Gwinnett County,18-May,HealthMPowers,-84.13796,33.9448,range_interpolated,"3939 Shackleford Rd,Duluth,GA,30096",7
+3,1/1/2018,after school,Lawrenceville Club,382,Stone Mountain St,Lawrenceville,30045,Gwinnett County,18-May,HealthMPowers,-83.99543,33.94213,rooftop,"382 Stone Mountain St,Lawrenceville,GA,30045",7
+3,1/1/2018,Child Care,Mis Pequenos Angeles Family Home Daycare,2600,Treehouse Lane,Lawrenceville,30044,Gwinnett,5 yrs >,HealthMPowers,-84.09634,33.94418,rooftop,"2600 Treehouse Lane,Lawrenceville,GA,30044",7
+3,1/1/2018,Child Care,Leysi A. Guarnizo,1039,Legacy Lane,Lawrenceville,30044,Gwinnett,< 5yrs,HealthMPowers,-84.09607,33.9387,rooftop,"1039 Legacy Lane,Lawrenceville,GA,30044",7
+3,1/1/2018,Middle School,Radloff,3939,Shackleford Rd,Duluth,30096,Gwinnett,8-Jun,HealthMPowers,-84.13796,33.9448,range_interpolated,"3939 Shackleford Rd,Duluth,GA,30096",7
+3,1/1/2018,Child Care,,1039,Legacy Lane,Lawrenceville,30044,Gwinnett,< 5yrs,HealthMPowers,-84.09607,33.9387,rooftop,"1039 Legacy Lane,Lawrenceville,GA,30044",7
+3,1/1/2018,Child Care,Easter Seals Norcross,4335,Steve Reynolds Blvd.,Norcross,30093,Gwinnett,< 5yrs,HealthMPowers,-84.14794,33.92504,rooftop,"4335 Steve Reynolds Blvd.,Norcross,GA,30093",7
+3,1/1/2018,Child Care,Maria Gloria Sierra,1525,Watercreast Circle,Lawrenceville,30043,Gwinnett,< 5yrs,HealthMPowers,-84.01692,33.98072,rooftop,"1525 Watercreast Circle,Lawrenceville,GA,30043",7
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Forsyth County Extension,875,Lanier 400 Pkwy,Cumming,30040,Forsyth,7,UGA,-84.12566,34.21107,,"875 Lanier 400 Pkwy,Cumming,GA,30040",7
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Gwinnett County Extension,750,S. Perry St.,Lawrenceville,30046,Gwinnett,7,UGA,-83.98872,33.94974,,"750 S. Perry St.,Lawrenceville,GA,30046",7
+1,1/1/2018,"Food Talk, Food Talk: Better U",Magnolia Room,200,S. Madison Ave. #C,Douglas,31533,Coffee,Adults 18+,UGA,-82.84886,31.50722,rooftop,"200 S. Madison Ave. #C,Douglas,GA,31533",12
+1,1/1/2018,"Food Talk, Food Talk: Better U",Concerted Services-Douglas,1115,W. Baker Hwy.,Douglas,31533,Coffee,Adults 18+,UGA,-82.86393,31.50129,rooftop,"1115 W. Baker Hwy.,Douglas,GA,31533",12
+1,1/1/2018,"Food Talk, Food Talk: Better U",Coffee High School,159,Trojan Way,Douglas,31533,Coffee,Adults 18+,UGA,-82.86118,31.55223,rooftop,"159 Trojan Way,Douglas,GA,31533",12
+1,1/1/2018,"Food Talk, Food Talk: Better U",Wiregrass GED,706,W. Baker Hwy.,Douglas,31533,Coffee,Adults 18+,UGA,-82.85831,31.50094,rooftop,"706 W. Baker Hwy.,Douglas,GA,31533",12
+1,1/1/2018,"Food Talk, Food Talk: Better U",Douglas County Senior Center,408,W.Ward St.,Douglas,31533,Coffee,Adults 18+,UGA,-82.85532,31.50877,range_interpolated,"408 W.Ward St.,Douglas,GA,31533",12
+2,1/1/2018,,Appling County Headstart,389,E Allen St,Baxley,31513,Appling,Adults 18+,Open Hand Atlanta,-82.3441,31.78668,rooftop,"389 E Allen St,Baxley,GA,31513",12
+2,1/1/2018,,Concerted Services Baxley,389,389 E Allen St,Baxley,31513,Appling,"Individuals, Families",Open Hand Atlanta,-82.3441,31.78668,rooftop,"389 E Allen St,Baxley,GA,31513",12
+2,1/1/2018,,Coastal GA Area CAA Claxton Head Start,720,720 N. Church St. Claxton GA 30417,Claxton,30417,Evans,"Kids, Adults",Open Hand Atlanta,-81.91271,32.17137,rooftop,"720 N. Church St. Claxton GA 30417,Claxton,GA,30417",12
+2,1/1/2018,,Tattnall County Library,129,129 Tattnall St ,Reidville,30453,Tattnall,"Individuals, Families",Open Hand Atlanta,-82.12078,32.08293,rooftop,"129 Tattnall St ,Reidville,GA,30453",12
+2,1/1/2018,,"Concerted Services Senior Center, Candler County",430,430 North Rountree St,Metter,30439,Candler,"Adults 18+, Families",Open Hand Atlanta,-82.06101,32.40234,range_interpolated,"430 North Rountree St,Metter,GA,30439",12
+2,1/1/2018,,"Concerted Services Senior Center, Tattnall County ",144,144 West Brazell St,Reidsville,30453,Tattnall,"Adults 18+, Families",Open Hand Atlanta,-82.1199,32.08533,range_interpolated,"144 West Brazell St,Reidsville,GA,30453",12
+2,1/1/2018,Cooking Matters for Adults,Bulloch County Concerted Services Senior Center,515,Denmark St.,Statesboro,30458,Statesboro,Adults,Open Hand Atlanta,-81.79904,32.44898,rooftop,"515 Denmark St.,Statesboro,GA,30458",12
+3,1/1/2018,Middle School,Appling Middle School,2997,2997 Blackshear Hwy,Baxley,31513,Bibb,8-Jun,HealthMPowers,-82.34127,31.72237,range_interpolated,"2997 Blackshear Hwy,Baxley,GA,31513",12
+3,1/1/2018,Elem,Craig-Houghton,1001,4th St,Augusta,30901,Richmond,K-5,HealthMPowers,-81.96185,33.46255,rooftop,"4th St,Augusta,GA,30901",12
+3,1/1/2018,Elem,Barton Chapel,2329,Barton Chapel Rd,Augusta,30906,Richmond,K-5,HealthMPowers,-82.08894,33.44165,rooftop,"2329 Barton Chapel Rd,Augusta,GA,30906",12
+3,1/1/2018,Elem,Blakeney ES,100,Olympic Dr,Waynesboro,30830,Burke,5-Mar,HealthMPowers,-81.99172,33.07954,rooftop,"100 Olympic Dr,Waynesboro,GA,30830",12
+3,1/1/2018,Elem,Garrett,1100,Eisenhower Dr,Augusta,30904,Richmond,K-5,HealthMPowers,-82.01194,33.50952,rooftop,"1100 Eisenhower Dr,Augusta,GA,30904",12
+3,1/1/2018,Elem,Lamar Milledge,510,Eve St,Augusta,30904,Richmond,K-5,HealthMPowers,-81.99667,33.48162,rooftop,"510 Eve St,Augusta,GA,30904",12
+3,1/1/2018,Elem,Jamestown ES,3637,Hiers Blvd,Hephzibah,30815,Richmond,K-5,HealthMPowers,-82.094,33.39176,range_interpolated,"3637 Hiers Blvd,Hephzibah,GA,30815",12
+3,1/1/2018,Elem,Hephzibah,2542,Highway 88,Hephzibah,30815,Richmond,K-5,HealthMPowers,-82.09881,33.31177,rooftop,"2542 Highway 88,Hephzibah,GA,30815",12
+3,1/1/2018,Elem,A. Brian Merry,415,Boy Scout Rd,Augusta,30909,Richmond,K-5,HealthMPowers,-82.03963,33.49607,rooftop,"415 Boy Scout Rd,Augusta,GA,30909",12
+3,1/1/2018,Elem,Rollins,2160,Mura Dr,Augusta,30906,Richmond,K-5,HealthMPowers,-82.03371,33.40063,rooftop,"2160 Mura Dr,Augusta,GA,30906",12
+3,1/1/2018,Elem,Intermediate Literacy and Math Center,1215,Northwood Dr.,Augusta,30909,Richmond,5-Apr,HealthMPowers,-82.01601,33.51659,rooftop,"1215 Northwood Dr.,Augusta,GA,30909",12
+3,1/1/2018,Child Care,Evans County,720,N. Church St.,Claxton,30417,Evans,5 yrs >,HealthMPowers,-81.91498,32.17402,rooftop,"720 N. Church St.,Claxton,GA,30417",12
+3,1/1/2018,Elem,Monte Sano,2164,Richmond Ave,Augusta,30904,Richmond,K-5,HealthMPowers,-82.0158,33.46803,rooftop,"2164 Richmond Ave,Augusta,GA,30904",12
+3,1/1/2018,Elem,Waynesboro Primary,352,Southside Dr.,Waynesboro,30830,Burke,K-2,HealthMPowers,-81.99412,33.08117,rooftop,"352 Southside Dr.,Waynesboro,GA,30830",12
+3,1/1/2018,Elem,Tobacco Road,2397,Tobacco Rd,Augusta,30906,Richmond,K-5,HealthMPowers,-82.05628,33.37549,rooftop,"2397 Tobacco Rd,Augusta,GA,30906",12
+3,1/1/2018,Elem,Hains,1820,Windsor Spring Rd,Augusta,30906,Richmond,K-5,HealthMPowers,-82.01398,33.41209,rooftop,"1820 Windsor Spring Rd,Augusta,GA,30906",12
+3,1/1/2018,Elem,Windsor Spring,2534,Windsor Spring Rd,Augusta,30906,Richmond,k-5,HealthMPowers,-82.05874,33.39289,rooftop,"2534 Windsor Spring Rd,Augusta,GA,30906",12
+3,1/1/2018,Elem,Sue Reynolds,3840,Wrightsboro Rd,Augusta,30909,Richmond,K-5,HealthMPowers,-82.10931,33.46865,rooftop,"3840 Wrightsboro Rd,Augusta,GA,30909",12
+3,1/1/2018,Food Retail,KJ's Market IGA,208,W 6th St,Waynesboro,30830,Burke,Adults 18+,HealthMPowers,-82.01628,33.08822,,"208 W 6th St,Waynesboro,GA,30830",12
+4,1/1/2018,Worksite & Harvest of the Month,"CSRA Economic Opportunity Authority, Inc.",1261,Greene Street,Augusta,30903,Richmond,18+SNAP-ED eligible,DPH,-81.97599,33.47696,rooftop,"1261 Greene Street,Augusta,GA,30903",12
+4,1/1/2018,Worksite & Harvest of the Month,Augusta Parks & Recreation Department,2027,Lumpkin Road,Augusta,30916,Richmond,18+ SNAP-eligible,DPH,-82.02019,33.41932,rooftop,"2027 Lumpkin Road,Augusta,GA,30916",12
+4,1/1/2018,Community Garden & Pick It Try It,Icebox Urban Farm,1736,Fenwick Street,Augusta,30904,Richmond,"Familes and 18+; SNAP- eligible; target of 1,600 individuals reached at this site",DPH,-81.99552,33.47794,rooftop,"1736 Fenwick Street,Augusta,GA,30904",12
+4,1/1/2018,Community Garden & Pick It Try It,Richmond County Health Department Teaching Gardens,950,Laney Walker Blvd,Augusta,30901,Richmond,Familes and 18+; SNAP- eligible; target of 400 individuals reached at this site,DPH,-81.97544,33.46454,rooftop,"950 Laney Walker Blvd,Augusta,GA,30901",12
+4,1/1/2018,Community Garden & Pick It Try It,The Incubator Gardens at the Clubhouse,540,Telfair Street,Augusta,30901,Richmond,Familes and 18+; SNAP- eligible; target of 100 individuals reached at this site,DPH,-81.96238,33.46993,rooftop,"540 Telfair Street,Augusta,GA,30901",12
+4,1/1/2018,Community Garden & Pick It Try It,The Master's Table Teaching Gardens,702,Fenwick Street,Augusta,30901,Richmond,Familes and 18+; SNAP- eligible; target of 300 individuals reached at this site.,DPH,-81.96694,33.46854,rooftop,"702 Fenwick Street,Augusta,GA,30901",12
+4,1/1/2018,Community Garden & Pick It Try It,The Blueberries for Ms. Willie Initiative (Harrisburg community),109,Eve Street,Augusta,30904,Richmond,Familes and 18+; SNAP- eligible; target of 400 individuals reached at this site,DPH,-81.99514,33.48712,rooftop,"109 Eve Street,Augusta,GA,30904",12
+4,1/1/2018,Worksite & Harvest of the Month,"Robin Builders, Inc",552,S. State Street,Lyons,30436,Toombs,18+; SNAP- eligible,DPH,-82.32468,32.19336,rooftop,"552 S. State Street,Lyons,GA,30436",12
+4,1/1/2018,Worksite & Harvest of the Month,Savannah Luggage Works,3428,Hwy 297,Vidalia,30474,Toombs,18+; SNAP- eligible,DPH,-82.40725,32.2792,range_interpolated,"3428 Hwy 297,Vidalia,GA,30474",12
+4,1/1/2018,Worksite & Harvest of the Month,Thai Union Chicken of the Sea Canning & US Pet Co.,129,North Commerce Drive,Lyons,30436,Toombs,18+; SNAP- eligible,DPH,-82.32953,32.24073,rooftop,"129 North Commerce Drive,Lyons,GA,30436",12
+4,1/1/2018,Worksite & Harvest of the Month,Telamon Corporation,111,Oliver Lane,Glennville,30427,Tattnall,18+; SNAP- eligible,DPH,-81.93181,31.92617,rooftop,"111 Oliver Lane,Glennville,GA,30427",12
+4,1/1/2018,Community Garden & Pick It Try It,Heritage Gardens of Tattnall,146,West Brazell Street,Reidsville,30453,Tattnall,Familes and 18+; SNAP- eligible,DPH,-82.12134,32.0848,range_interpolated,"146 West Brazell Street,Reidsville,GA,30453",12
+4,1/1/2018,Community Garden & Pick It Try It,Tattnall County Cooperative Extension,200,A. South Main Street,Reidsville,30453,Tattnall,Familes and 18+; SNAP- eligible,DPH,-82.11307,32.08143,rooftop,"200 A. South Main Street,Reidsville,GA,30453",12
+4,1/1/2018,Worksite & Harvest of the Month,Tattnall County Library,129,Tattnall Street,Reidsville,30453,Tattnall,18+; SNAP- eligible,DPH,-82.12078,32.08293,rooftop,"129 Tattnall Street,Reidsville,GA,30453",12
+4,1/1/2018,Community Garden & Pick It Try It,Next to Dublin City Hall and Market on Madison,100,"South Church Street, at corner of Church and Madison Street",Dublin,31021,Laurens,Familes and 18+; SNAP- eligible,DPH,-82.90842,32.53836,range_interpolated,"100 South Church Street, at corner of Church and Madison Street,Dublin,GA,31021",12
+4,1/1/2018,Community Garden & Pick It Try It,Community Garden enhancement on the school site,911,Martin Luther King Jr. Drive,Dublin,31021,Laurens,Familes and 18+; SNAP- eligible,DPH,-82.90256,32.5254,rooftop,"911 Martin Luther King Jr. Drive,Dublin,GA,31021",12
+4,1/1/2018,Community Gardens,Bayvale Elementary School,3309,Milledgeville Road,Augusta,30909,Richmond County,Familes and 18+; SNAP- eligible,DPH,-82.05323,33.44908,,"3309 Milledgeville Road,Augusta,GA,30909",12
+4,1/1/2018,Community Gardens,Storehouse Pantry,3126,Parrish Road,Augusta,30907,Richmond County,Familes and 18+; SNAP- eligible,DPH,-82.05816,33.51725,,"3126 Parrish Road,Augusta,GA,30907",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Appling County Extension,83,Oak St.,Baxley,31513,Appling,12,UGA,-82.34519,31.77622,,"83 Oak St.,Baxley,GA,31513",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Bulloch County Extension,151,Langston Chapel Rd.,Statesboro,30458,Bulloch,12,UGA,-81.8078,32.39934,,"151 Langston Chapel Rd.,Statesboro,GA,30458",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Candler County Extension,1075,"E. Hiawatha St., Suite B",Metter,30439,Candler,12,UGA,-82.03802,32.39142,,"1075 E. Hiawatha St., Suite B,Metter,GA,30439",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Coffee County Extension,709,E. Ward St.,Douglas,31533,Coffee,12,UGA,-82.84118,31.50876,,"709 E. Ward St.,Douglas,GA,31533",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Effingham County Extension,284,Hwy. #119 South,Springfield,31329,Effingham,12,UGA,-81.31667,32.36838,,"284 Hwy. #119 South,Springfield,GA,31329",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Evans County Extension,102,Daniel St.,Claxton,30417,Evans,12,UGA,-81.90646,32.16324,,"102 Daniel St.,Claxton,GA,30417",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Jeff davis County Extension,14,Jeff Davis St.,Hazlehurst,31539,Jeff davis,12,UGA,-82.60081,31.8626,,"14 Jeff Davis St.,Hazlehurst,GA,31539",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Jenkins County Extension,434,E. Barney Ave.,Millen,30442,Jenkins,12,UGA,-81.93677,32.80876,,"434 E. Barney Ave.,Millen,GA,30442",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Laurens County Extension,1511-A,Telfair St.,Dublin,31021,Laurens,12,UGA,-82.91833,32.52319,,"1511-A Telfair St.,Dublin,GA,31021",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Montgomery County Extension,130,West Broad St.,Mount Vernon,30445,Montgomery,12,UGA,-82.59644,32.17494,,"130 West Broad St.,Mount Vernon,GA,30445",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Screven County Extension,321,Rocky Ford Rd.,Sylvania,30467,Screven,12,UGA,-81.6513,32.74914,,"321 Rocky Ford Rd.,Sylvania,GA,30467",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Tattnall County Extension,209,Bolton St.,Glennville,30427,Tattnall,12,UGA,-81.92382,31.93307,,"209 Bolton St.,Glennville,GA,30427",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Toombs County Extension,200,"Courthouse Square, Suite 4",Lyons,30436,Toombs,12,UGA,-82.32179,32.20435,,"200 Courthouse Square, Suite 4,Lyons,GA,30436",12
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Wheeler County Extension,16,W. Forest Ave.  Suite 109,Alamo,30411,Wheeler,12,UGA,-82.78321,32.14879,,"16 W. Forest Ave.  Suite 109,Alamo,GA,30411",12
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Richmond County Extension,602,Greene Street,Augusta,30901,Richmond,12,UGA,-81.96296,33.47175,,"602 Greene Street,Augusta,GA,30901",12
+3,5/15/2018,Farmers Market,Burke County Harvest Bright Farmer's Market: Southern Bank,855,N Liberty St,Waynesboro,30830,Burke,Adults 18+,HealthMPowers,-82.01981,33.09513,,"855 N Liberty St,Waynesboro,GA,30830",12
+3,5/15/2018,Farmers Market,Burke County Harvest Bright Farmer's Market: Early Head Start,518,College St,Waynesboro,30830,Burke,Adults 18+,HealthMPowers,-82.02615,33.09241,,"518 College St,Waynesboro,GA,30830",12
+4,5/30/2018,Community Garden & Pick It Try It,Montgomery County Government,310,West Broad Street,Mount Vernon,30445,Montgomery,18+ SNAP-eligible,DPH,-82.59775,32.1759,,"310 West Broad Street,Mount Vernon,GA,30445",12
+1,1/1/2018,"Food Talk, Food Talk:Better U",Kinship Care Resource Center,849,Battle Creek Rd.,Jonesboro,30236,Clayton,Adults 18+,UGA,-84.36449,33.55402,rooftop,"849 Battle Creek Rd.,Jonesboro,GA,30236",13
+1,1/1/2018,"Food Talk, Food Talk:Better U",South Clayton Recreation Center,1837,McDonough Rd.,Hampton,30228,Clayton,Adults 18+,UGA,-84.33162,33.44768,rooftop,"1837 McDonough Rd.,Hampton,GA,30228",13
+1,1/1/2018,"Food Talk, Food Talk:Better U",24/7 Dads,1117,Battle Creek Rd.,Jonesboro,30236,Clayton,Adults 18+,UGA,-84.35445,33.55206,rooftop,"1117 Battle Creek Rd.,Jonesboro,GA,30236",13
+1,1/1/2018,"Food Talk, Food Talk: Better U",ClaytonCounty Board of Health,1117,Battlecreek Rd.,Jonesboro,30236,Clayton,Adults 18+,UGA,-84.35445,33.55206,rooftop,"1117 Battlecreek Rd.,Jonesboro,GA,30236",13
+1,1/1/2018,"Food Talk, Food Talk: Better U",Salvation Army - Clayton County,130,Spring St.,Jonesboro,30236,Clayton,Adults 18+,UGA,-84.35746,33.52534,rooftop,"130 Spring St.,Jonesboro,GA,30236",13
+1,1/1/2018,"Food Talk, Food Talk: Better U",Bobby Dodd,221,Stockbridge Rd.,Jonesboro,30236,Clayton,Adults 18+,UGA,-84.34859,33.52569,rooftop,"221 Stockbridge Rd.,Jonesboro,GA,30236",13
+1,1/1/2018,"Food Talk, Food Talk:Better U, Food Talk:Farmers Market",Riverdale Library,420,Valley Hill Rd.,Riverdale,30274,Clayton,Adults 18+,UGA,-84.40398,33.57011,rooftop,"420 Valley Hill Rd.,Riverdale,GA,30274",13
+1,1/1/2018,Food Talk and Food Talk: Better U,Sheltering Arms,5020,Stonewall Tell Rd,College Park,30349,Fulton,Adults 18+,UGA,-84.55245,33.59988,rooftop,"5020 Stonewall Tell Rd,College Park,GA,30349",13
+1,1/1/2018,"FT, FTBU, FTFM, Outreach",Sheltering Arms - Oakley Township Center,7210,Oakley Terrace,Union City,30291,Fulton,Adults 18+,UGA,-84.52896,33.55699,rooftop,"7210 Oakley Terrace,Union City,GA,30291",13
+1,1/1/2018,"FTFM, Outreach",Mundy Mills High School (location of a health/wellness event),9652,Fayetteville Rd,Jonesboro,30228,Clayton,Adults 18+,UGA,-84.38394,33.49147,,"9652 Fayetteville Rd,Jonesboro,GA,30228",13
+1,4/17/2018,FTFM,Jonesboro Farmers Market,155,Lee Street,Jonesboro,30236,Clayton,,UGA,-84.35714,33.52548,,"155 Lee Street,Jonesboro,GA,30236",13
+1,5/7/2018,"FTFM, Outreach",Palmetto Neighborhood Senior Center,510,Turner Avenue,Palmetto,30268,Fulton,13,UGA,-84.66862,33.52481,,"510 Turner Avenue,Palmetto,GA,30268",13
+2,1/1/2018,,FANN Program at Walton Crossing,1820,"Mulkey Rd SW, Austell, GA 30106",Austell,30106,Cobb,"Families, Adults",Open Hand Atlanta,-84.60764,33.861,,"1820 Mulkey Rd SW, Austell, GA 30106,Austell,GA,30106",13
+2,1/1/2018,,Pebblebrook High School- Family Program,991,Old Alabama Road,Mableton,30126,Cobb,teens 14-18 and Adults,Open Hand Atlanta,-84.58185,33.80688,rooftop,"991 Old Alabama Road,Mableton,GA,30126",13
+2,1/1/2018,,Clay Elementary School,730,Boggs Rd,Mableton,30126,Cobb,Kids,Open Hand Atlanta,-84.57561,33.80479,rooftop,"730 Boggs Rd,Mableton,GA,30126",13
+2,1/1/2018,Communities In Schools of Marietta/Cobb County,South Cobb High School,1920,Clay Rd. SW,Austell,30106,Cobb,Teens,Open Hand Atlanta,-84.61047,33.83335,rooftop,"1920 Clay Rd. SW,Austell,GA,30106",13
+2,1/1/2018,,Sweetwater Mission: Food Pantry,6289,Veterans Memorial Hwy #12a,Austell,30168,Cobb,Adults,Open Hand Atlanta,-84.73783,33.75563,range_interpolated,"6289 Veterans Memorial Hwy #12a,Austell,GA,30168",13
+2,1/1/2018,Cooking Matters for Adults,Walton Reserve Apartments,1500,Walton Reserve Blvd.,Austell,30168,Cobb,Adults,Open Hand Atlanta,-84.60133,33.78124,,"1500 Walton Reserve Blvd.,Austell,GA,30168",13
+2,4/17/2018,"Cooking Matters for Adults, Teens, and Kids",Hands of Hope Clinic,1010,Hospital Drive Bldg. B,Stockbridge,30281,Henry,"Adults, Kids and Teens",Open Hand Atlanta,-84.22583,33.50949,,"1010 Hospital Drive Bldg. B,Stockbridge,GA,30281",13
+3,1/1/2018,Elem,Oliver,1725,Cheryl Leigh Dr,Riverdale,30296,Clayton,K-5,HealthMPowers,-84.4465,33.57778,rooftop,"1725 Cheryl Leigh Dr,Riverdale,GA,30296",13
+3,1/1/2018,Child Care,Pure Love Learning Center,6120,Hwy 85,Riverdale,30274,Clayton,5 yrs >,HealthMPowers,-84.40893,33.58786,rooftop,"6120 Hwy 85,Riverdale,GA,30274",13
+3,1/1/2018,Elem,Pointe South,8482,Thomas Rd,Riverdale,30274,Clayton,K-5,HealthMPowers,-84.41126,33.52346,rooftop,"8482 Thomas Rd,Riverdale,GA,30274",13
+3,1/1/2018,Middle School,Jonesboro Middle School,1308,Arnold St.,Jonesboro,30236,Clayton,8-Jun,HealthMPowers,-84.34848,33.52084,rooftop,"1308 Arnold St.,Jonesboro,GA,30236",13
+3,1/1/2018,Child Care,Harvest Rain Academy,51,Senoia Road,Fairburn,30213,Fulton,5 yrs >,HealthMPowers,-84.58384,33.5624,rooftop,"51 Senoia Road,Fairburn,GA,30213",13
+3,1/1/2018,Child Care,Mrs. Green's Learning Academy,680,Chatham Trail,Jonesboro,30238,Clayton,5 yrs >,HealthMPowers,-84.413,33.5161,rooftop,"680 Chatham Trail,Jonesboro,GA,30238",13
+3,1/1/2018,Elem,Church Street,7013,Church St,Riverdale,30274,Clayton,K-5,HealthMPowers,-84.41808,33.56336,rooftop,"7013 Church St,Riverdale,GA,30274",13
+3,1/1/2018,Middle School,Sequoyah Middle School,95,95 Valley Hill Rd SW,Riverdale,30274,Clayton,8-Jun,HealthMPowers,-84.38711,33.56473,rooftop,"95 Valley Hill Rd SW,Riverdale,GA,30274",13
+3,1/1/2018,Elem,Campbell ES,91,Elder St,Fairburn,30213,Fulton,k-5,HealthMPowers,-84.57478,33.57289,rooftop,"91 Elder St,Fairburn,GA,30213",13
+3,1/1/2018,Elem,Hawthrone,10750,English Rd,Hampton,30228,Clayton,K-5,HealthMPowers,-84.36616,33.46178,rooftop,"10750 English Rd,Hampton,GA,30228",13
+3,1/1/2018,Child Care,Deborah Quinntella Bolden,713,Erin Drive,Stockbridge,30281,Henry,5 yrs >,HealthMPowers,-84.17768,33.5686,rooftop,"713 Erin Drive,Stockbridge,GA,30281",13
+3,1/1/2018,Elem,Kemp ES,10990,Folsom Rd,Hampton,30228,Clayton,5-Mar,HealthMPowers,-84.35732,33.45555,rooftop,"10990 Folsom Rd,Hampton,GA,30228",13
+3,1/1/2018,after school,Matthews Club,785,Fontaine Rd. SW,Mableton,30126,Cobb County,18-May,HealthMPowers,-84.57635,33.82123,rooftop,"785 Fontaine Rd. SW,Mableton,GA,30126",13
+3,1/1/2018,Elem,Pleasant Grove,150,Reagan Rd,Stockbridge,30281,Henry,K-5,HealthMPowers,-84.13941,33.55018,rooftop,"150 Reagan Rd,Stockbridge,GA,30281",13
+3,1/1/2018,Elem,Riverdale,6253,Garden Walk Blvd,Riverdale,30274,Clayton,K-5,HealthMPowers,-84.39295,33.58466,rooftop,"6253 Garden Walk Blvd,Riverdale,GA,30274",13
+3,1/1/2018,Elem,River’s Edge,205,North Bridge Rd,Fayetteville,30215,Clayton,K-5,HealthMPowers,-84.38964,33.42046,rooftop,"205 North Bridge Rd,Fayetteville,GA,30215",13
+3,1/1/2018,after school,Douglas County Club,8828,Gurly Rd,Douglasville,30134,Douglas County,18-May,HealthMPowers,-84.77216,33.74142,range_interpolated,"8828 Gurly Rd,Douglasville,GA,30134",13
+3,1/1/2018,Child Care,Amodestri Childcare & Academy,11782,Hastings Bridge Rd.,Hampton,30228,Henry,5 yrs >,HealthMPowers,-84.30907,33.43422,range_interpolated,"11782 Hastings Bridge Rd.,Hampton,GA,30228",13
+3,1/1/2018,Elem,Arnold,216,Stockbridge Rd,Jonesboro,30236,Clayton,K-5,HealthMPowers,-84.34789,33.52424,rooftop,"216 Stockbridge Rd,Jonesboro,GA,30236",13
+3,1/1/2018,Child Care,Inspiring Scholars Academy,7425,Hwy 78,Winston,30187,Douglas,5 yrs >,HealthMPowers,-84.81755,33.72913,rooftop,"7425 Hwy 78,Winston,GA,30187",13
+3,1/1/2018,Middle School,Kendrick Middle School,7971,Kendrick Rd,Jonesboro,30238,Clayton,8-Jun,HealthMPowers,-84.38759,33.53662,rooftop,"7971 Kendrick Rd,Jonesboro,GA,30238",13
+3,1/1/2018,Elem,Suder,1400,Lake Jodeco Rd,Jonesboro,30236,Clayton,K-5,HealthMPowers,-84.34562,33.51508,rooftop,"1400 Lake Jodeco Rd,Jonesboro,GA,30236",13
+3,1/1/2018,Elem,Lake Ridge,7900,Lake Ridge Cir,Riverdale,30296,Clayton,K-5,HealthMPowers,-84.4322,33.53949,rooftop,"7900 Lake Ridge Cir,Riverdale,GA,30296",13
+3,1/1/2018,Elem,Lee Street,178,Lee St,Jonesboro,30236,Clayton,K-5,HealthMPowers,-84.35627,33.5242,rooftop,"178 Lee St,Jonesboro,GA,30236",13
+3,1/1/2018,Child Care,Douglas County Head Start (Ninth District),3833,Longview Drive,Douglasville,30135,Douglas,5 yrs >,HealthMPowers,-84.70141,33.74416,rooftop,"3833 Longview Drive,Douglasville,GA,30135",13
+3,1/1/2018,Middle School,Lovejoy Middle School,1588,Lovejoy Rd,Hampton,30228,Clayton,8-Jun,HealthMPowers,-84.34031,33.44285,rooftop,"1588 Lovejoy Rd,Hampton,GA,30228",13
+3,1/1/2018,Middle School,Riverdale Middle School,400,400 Roberts Dr,Riverdale,30274,Clayton,8-Jun,HealthMPowers,-84.40705,33.56321,,"400 Roberts Dr,Riverdale,GA,30274",13
+3,1/1/2018,Elem,Kemp Primary,1090,McDonough Rd,Hampton,30228,Clayton,K-2,HealthMPowers,-84.35707,33.45385,rooftop,"1090 McDonough Rd,Hampton,GA,30228",13
+3,1/1/2018,Elem,James Jackson ES,7711,Mount Zion Blvd.,Jonesboro,30236,Clayton,K-5,HealthMPowers,-84.34083,33.54586,rooftop,"7711 Mount Zion Blvd.,Jonesboro,GA,30236",13
+3,1/1/2018,Elem,Tara,937,Mount Zion Rd,Morrow,30260,Clayton,K-5,HealthMPowers,-84.36021,33.57169,rooftop,"937 Mount Zion Rd,Morrow,GA,30260",13
+3,1/1/2018,Elem,Swint,500,Highway 138 SE,Jonesboro,30238,Clayton,K-5,HealthMPowers,-84.37543,33.53493,rooftop,"500 Highway 138 SE,Jonesboro,GA,30238",13
+3,1/1/2018,Middle School,Mundy's Mill Middle School,1251,Mundys Mill Rd,Jonesboro,30238,Clayton,8-Jun,HealthMPowers,-84.35116,33.48671,rooftop,"1251 Mundys Mill Rd,Jonesboro,GA,30238",13
+3,1/1/2018,Elem,Callaway,120,Oriole Dr,Jonesboro,30238,Clayton,K-5,HealthMPowers,-84.39388,33.53693,rooftop,"120 Oriole Dr,Jonesboro,GA,30238",13
+3,1/1/2018,Elem,Eddie White Academy,11808,Panhandle Rd,Hampton,30228,Clayton,K-5,HealthMPowers,-84.36112,33.43002,rooftop,"11808 Panhandle Rd,Hampton,GA,30228",13
+3,1/1/2018,Child Care,Lenora Respert FDCH,855,Wagon Wheel Circle,Fayetteville,30214,Henry,5 yrs >,HealthMPowers,-84.48001,33.52865,rooftop,"855 Wagon Wheel Circle,Fayetteville,GA,30214",13
+3,1/1/2018,Child Care,Inspiring Scholars Academy,2345,Pope Road,Douglasville,30135,Douglas,5 yrs >,HealthMPowers,-84.69625,33.74427,rooftop,"2345 Pope Road,Douglasville,GA,30135",13
+3,1/1/2018,Elem,Brown ES,9771,Poston Rd,Jonesboro,30238,Clayton,K-5,HealthMPowers,-84.36396,33.49473,rooftop,"9771 Poston Rd,Jonesboro,GA,30238",13
+3,1/1/2018,Child Care,Heavenly Angels HomeDay,9145,Raven Drive,Jonesboro,30238,Clayton,5 yrs >,HealthMPowers,-84.41415,33.50633,rooftop,"9145 Raven Drive,Jonesboro,GA,30238",13
+3,1/1/2018,after school,Grant Club,875,Six Flags Drive,Austell,30168,Fulton County,18-May,HealthMPowers,-84.58702,33.75596,rooftop,"875 Six Flags Drive,Austell,GA,30168",13
+3,1/1/2018,Elem,Kilpatrick,7534,Tara Rd,Jonesboro,30236,Clayton,K-5,HealthMPowers,-84.35743,33.5484,rooftop,"7534 Tara Rd,Jonesboro,GA,30236",13
+3,1/1/2018,Middle School,Pointe South Middle School,8495,Thomas Rd,Jonesboro,30238,Clayton,8-Jun,HealthMPowers,-84.40893,33.52109,range_interpolated,"8495 Thomas Rd,Jonesboro,GA,30238",13
+3,1/1/2018,Elem,Harper,93,Valley Hill Rd SW,Riverdale,30274,Clayton,K-5,HealthMPowers,-84.38935,33.56456,rooftop,"93 Valley Hill Rd SW,Riverdale,GA,30274",13
+3,1/1/2018,Middle School,M.D. Roberts Middle School,1905,Walt Stephens Rd,Jonesboro,30236,Clayton,8-Jun,HealthMPowers,-84.3312,33.52204,rooftop,"1905 Walt Stephens Rd,Jonesboro,GA,30236",13
+3,1/1/2018,Child Care,Mattie Matthews,298,Country Club Drive,Jonesboro,30238,Clayton,< 5yrs,HealthMPowers,-84.40106,33.5007,rooftop,"298 Country Club Drive,Jonesboro,GA,30238",13
+3,1/1/2018,Child Care,,298,Country Club Drive,Jonesboro,30238,Clayton,< 5yrs,HealthMPowers,-84.40106,33.5007,rooftop,"298 Country Club Drive,Jonesboro,GA,30238",13
+4,1/1/2018,Community Garden & Pick It Try It,Clayton County Board of Health,1117,Battlecreek Road,Jonesboro,30236,Clayton,18+; SNAP- eligible,DPH,-84.35445,33.55206,rooftop,"1117 Battlecreek Road,Jonesboro,GA,30236",13
+4,1/1/2018,Community Garden & Pick It Try It,Kinship Care,849,Battlecreek Road,Jonesboro,30236,Clayton,18+; SNAP- eligible,DPH,-84.36449,33.55402,rooftop,"849 Battlecreek Road,Jonesboro,GA,30236",13
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Clayton County Extension,1262,Government Cir.,Jonesboro,30236,Clayton,13,UGA,-84.34956,33.53629,,"1262 Government Cir.,Jonesboro,GA,30236",13
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Douglas County Extension,6279,Fairburn Rd.,Douglasville,30134,Douglas,13,UGA,-84.73684,33.75132,,"6279 Fairburn Rd.,Douglasville,GA,30134",13
+1,1/1/2018,"Food Talk, Food Talk:Better U",Bartow Headstart,15,Felton Place St.,Cartersville,30121,Bartow,Adults 18+,UGA,-84.7928,34.19521,range_interpolated,"15 Felton Place St.,Cartersville,GA,30121",11
+1,1/1/2018,"Food Talk, Food Talk:Better U",The Cove,15,Liberty Square Dr.,Cartersville,30121,Bartow,Adults 18+,UGA,-84.78238,34.21433,range_interpolated,"15 Liberty Square Dr.,Cartersville,GA,30121",11
+1,1/1/2018,"Food Talk, Food Talk:Better U",Paxen,121,E. Felton Rd.,Cartersville,30120,Bartow,Adults 18+,UGA,-84.79446,34.19631,rooftop,"121 E. Felton Rd.,Cartersville,GA,30120",11
+1,1/1/2018,"Food Talk, Food Talk:Better U",Adairsville United Methodist Church,102,S. Main St.,Adairsville,30103,Bartow,Adults 18+,UGA,-84.93457,34.36797,rooftop,"102 S. Main St.,Adairsville,GA,30103",11
+1,1/1/2018,"Food Talk, Food Talk:Better U",Bartow Family Resources,200,Leake St.,Cartersville,30120,Bartow,Adults 18+,UGA,-84.80031,34.16202,rooftop,"200 Leake St.,Cartersville,GA,30120",11
+1,1/1/2018,"Food Talk, Food Talk:Better U",Allatoona Resource Center,6503,Glade Rd. SE,Acworth,30101,Bartow,Adults 18+,UGA,-84.68116,34.11373,rooftop,"6503 Glade Rd. SE,Acworth,GA,30101",11
+1,1/1/2018,"Food Talk, Food Talk:Better U",Hamilton Mill Crossing,116,Hamilton Crossing Rd. NW,Cartersville,30120,Bartow,Adults 18+,UGA,-84.86603,34.23926,rooftop,"116 Hamilton Crossing Rd. NW,Cartersville,GA,30120",11
+1,1/1/2018,"Food Talk, Food Talk:Better U",Episcopal Food Pantry,205,W. Cherokee Ave.,Cartersville,30120,Bartow,Adults 18+,UGA,-84.80102,34.16558,rooftop,"205 W. Cherokee Ave.,Cartersville,GA,30120",11
+1,1/1/2018,"Food Talk, Food Talk:Better U",Rollins Child Development,676,Henderson Dr.,Cartersville,30120,Bartow,Adults 18+,UGA,-84.81745,34.15264,rooftop,"676 Henderson Dr.,Cartersville,GA,30120",11
+1,1/1/2018,Outreach,Cartersville First Baptist Church,241,Douthit Ferry Rd,Cartersville,30120,Bartow,Adults 18+,UGA,-84.82573,34.14718,rooftop,"241 Douthit Ferry Rd,Cartersville,GA,30120",11
+1,1/1/2018,Food Talk and FT Better U,Kingston Baptist,40,Main St,Kingston,30145,Bartow,Adults 18+,UGA,-84.94383,34.235,range_interpolated,"40 Main St,Kingston,GA,30145",11
+1,1/1/2018,,Cartersville Boys and Girls Clubs,642,Henderson Dr,Cartersville,30120,Bartow,Adults 18+,UGA,-84.81738,34.15395,rooftop,"642 Henderson Dr,Cartersville,GA,30120",11
+1,1/1/2018,FTBU,Shangri La Park,69,Gilreath Rd NW,Cartersville,30121,Bartow,Adults 18+,UGA,-84.81362,34.22701,,"69 Gilreath Rd NW,Cartersville,GA,30121",11
+1,4/16/2018,,Tranquility House,501,N Museum Drive,Cartersville,30120,Bartow,,UGA,-84.79625,34.16832,,"501 N Museum Drive,Cartersville,GA,30120",11
+2,1/1/2018,,Cobb Senior Center,1150,1150 Powder Springs,Marietta,30064,Cobb,,Open Hand Atlanta,-84.57416,33.92627,rooftop,"1150 Powder Springs,Marietta,GA,30064",11
+2,1/1/2018,Cooking Matters for Teens,Osborne High School,2451,Favor Road SW,Marietta,30060,Cobb,Teens,Open Hand Atlanta,-84.56571,33.89147,rooftop,"2451 Favor Road SW,Marietta,GA,30060",11
+2,1/1/2018,,Davis Direction Foundation,32,N Fairground Street NE,Marietta,30060,Cobb,,Open Hand Atlanta,-84.53539,33.95148,rooftop,"32 N Fairground Street NE,Marietta,GA,30060",11
+2,1/1/2018,Cooking Matters for Adults,Walton Ridenour Apartments,1425,Ridenour Blvd.,Kennesaw,30152,Cobb,Adults,Open Hand Atlanta,-84.59141,33.99393,,"1425 Ridenour Blvd.,Kennesaw,GA,30152",11
+2,1/1/2018,"Cooking Matters for Adults, Teens and Kids,","Yells, Inc.: Community Action Café",779,Franklin Gateway SE,Marietta,30067,Cobb,"Teens, Kids, and Adults",Open Hand Atlanta,-84.5009,33.93373,,"779 Franklin Gateway SE,Marietta,GA,30067",11
+2,1/1/2018,"Cooking Matters for Kids, Adults and Teens",Girls Inc. of Greater Atlanta,461,Manget St.,Marietta,30060,Cobb,,Open Hand Atlanta,-84.53913,33.94109,,"461 Manget St.,Marietta,GA,30060",11
+2,3/23/2018,Cooking Matters for Adults,Cobb Senior Services- North Cobb Neighborhood Senior Center,4100,South Main St.,Acworth,30101,Cobb,Adults,Open Hand Atlanta,-84.67884,34.06667,,"4100 South Main St.,Acworth,GA,30101",11
+3,1/1/2018,after school,Mimms Club,1082,Univeter Road,Canton,30115,Cherokee,18-May,HealthMPowers,-84.49431,34.19312,rooftop,"1082 Univeter Road,Canton,GA,30115",11
+3,1/1/2018,Child Care,Cobb/Allgood Head Start Pre-K (Ninth District),461,Allgood Rd NE,Marietta,30060,Cobb,5 yrs >,HealthMPowers,-84.53972,33.9628,rooftop,"461 Allgood Rd NE,Marietta,GA,30060",11
+3,1/1/2018,Middle School,Campbell MS,3295,Atlanta Road SE,Smyrna,30080,Cobb,8-Jun,HealthMPowers,-84.49801,33.87296,rooftop,"3295 Atlanta Road SE,Smyrna,GA,30080",11
+3,1/1/2018,Child Care,Bright Beginnings ,782,Franklin Road,Marietta,30067,Cobb,5 yrs >,HealthMPowers,-84.50068,33.93248,rooftop,"782 Franklin Road,Marietta,GA,30067",11
+3,1/1/2018,Child Care,Cherokee County/Ralph Bunche preschool,400,Belletta Drive,Canton,30114,Cherokee,5 yrs >,HealthMPowers,-84.48878,34.26025,rooftop,"400 Belletta Drive,Canton,GA,30114",11
+3,1/1/2018,after school,Anderson Club,529,Manget Street,Marietta,30060,Cobb,18-May,HealthMPowers,-84.53912,33.93968,rooftop,"529 Manget Street,Marietta,GA,30060",11
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Cherokee County Extension,1130,Bluffs Pkwy,Canton,30114,Cherokee,11,UGA,-84.47149,34.26794,,"1130 Bluffs Pkwy,Canton,GA,30114",11
+1,6/14/2018,"FT, FTBU, Outreach","Tallatoona CAP, Inc.",140,Douglas Street,Cartersville,30120,Bartow,11,UGA,-84.79527,34.17244,,"140 Douglas Street,Cartersville,GA,30120",11
+2,1/1/2018,,Magnolia House,1601,"Alice St, Ste A",Waycross,31502,Ware,"Families, Adults",Open Hand Atlanta,-82.34925,31.22245,rooftop,"1601 Alice St, Ste A,Waycross,GA,31502",1
+2,1/1/2018,,Urban Hope,1601,1601 Barnard St,Savannah,31401,Chatam,Kids,Open Hand Atlanta,-81.10097,32.06148,rooftop,"1601 Barnard St,Savannah,GA,31401",1
+2,1/1/2018,,WIC Farmer Market,2747,2747 4th St,Brunswick,31520,Glynn,Adults 18+,Open Hand Atlanta,-81.47973,31.18171,rooftop,"2747 4th St,Brunswick,GA,31520",1
+2,1/1/2018,,WIC Farmer Market,1183,1183 Bultman Ave,Hinesville,31310,Liberty,Adults 18+,Open Hand Atlanta,-81.59397,31.87019,rooftop,"1183 Bultman Ave,Hinesville,GA,31310",1
+2,1/1/2018,,Senior Citizens Inc.,3025,3025 Bull St,Savannah,31405,Chatam,Adults 18+,Open Hand Atlanta,-81.10408,32.04962,rooftop,"3025 Bull St,Savannah,GA,31405",1
+2,1/1/2018,,Savannah's Children Museum,655,Louisville Rd,Savannah,31401,Chatam,kids 5-12,Open Hand Atlanta,-81.10151,32.07548,rooftop,"655 Louisville Rd,Savannah,GA,31401",1
+2,1/1/2018,,Waycross Housing Authority,1460,1460 N Augusta Ave,Waycross,31503,Wayne,kids 5-12,Open Hand Atlanta,-82.38451,31.23393,rooftop,"1460 N Augusta Ave,Waycross,GA,31503",1
+2,1/1/2018,,Children’s Specialist Hospital- Memorial Health,4700,4700 Waters Avenue,Savannah,31404,Chatam,families,Open Hand Atlanta,-81.08948,32.02999,rooftop,"4700 Waters Avenue,Savannah,GA,31404",1
+2,1/1/2018,,Safe Harbor Children's Center,2215,2215 Gloucester Street,Brunswick,31520,Glynn,Teens 14-18,Open Hand Atlanta,-81.48288,31.15273,,"2215 Gloucester Street,Brunswick,GA,31520",1
+2,1/1/2018,,Pierce County High School - Special Education Program,4850,"4850 County Farm Rd,",Blackshear,31516,Pierce,Teens 14-18,Open Hand Atlanta,-82.21632,31.34433,rooftop,"4850 County Farm Rd,,Blackshear,GA,31516",1
+2,1/1/2018,,Unison Behavioral Health,310,Williams Street,Waycross,31501,Ware,Adults,Open Hand Atlanta,-82.35664,31.20968,rooftop,"310 Williams Street,Waycross,GA,31501",1
+2,1/1/2018,,Gasden Elementary School,919,May St,Savannah,31415,Chatam,Kids,Open Hand Atlanta,-81.10596,32.06821,rooftop,"919 May St,Savannah,GA,31415",1
+2,1/1/2018,,Butler Elementary School,1909,1909 Cynthia St,Savannah,31415,Chatam,Kids,Open Hand Atlanta,-81.12587,32.0639,rooftop,"1909 Cynthia St,Savannah,GA,31415",1
+2,1/1/2018,,Coastal WIC,1395,Eisenhower Dr.,Savannah,31406,Chatam,Adults 18+,Open Hand Atlanta,-81.09184,32.00312,rooftop,"1395 Eisenhower Dr.,Savannah,GA,31406",1
+2,1/1/2018,Cooking Matters for Kids,Haven Elementary,5111,Dillon Ave.,Savannah,31405,Chatham,Kids,Open Hand Atlanta,-81.1241,32.03432,rooftop,"5111 Dillon Ave.,Savannah,GA,31405",1
+2,1/1/2018,Cooking Matters for Kids,E. Broad Elementary,404,E. Broad St.,Savannah,31401,Chatham,Kids,Open Hand Atlanta,-81.08688,32.07137,range_interpolated,"404 E. Broad St.,Savannah,GA,31401",1
+2,1/1/2018,Cooking Matters for Teens,Mercer Middle School,201,201 Rommel Ave.,Savannah,31408,Chatham,Teens,Open Hand Atlanta,-81.16135,32.11211,range_interpolated,"201 Rommel Ave.,Savannah,GA,31408",1
+2,1/1/2018,Cooking Matters for Teens,Performance Initiatives,2021,Rommel Ave,Savannah,31404,Chatham,Teens,Open Hand Atlanta,-81.06289,32.04985,bing,"2021 Rommel Ave,Savannah,GA,31404",1
+2,1/1/2018,,Williams Court Apartments,1900,Lincoln Street,Savannah,31401,Chatam,Adults,Open Hand Atlanta,-81.09575,32.05727,rooftop,"1900 Lincoln Street,Savannah,GA,31401",1
+2,1/1/2018,,Clinch County Senior Citizen Center,101,S. College St. #C,Homerville,31634,Clinch,Adults,Open Hand Atlanta,-82.75018,31.03428,rooftop,"101 S. College St. #C,Homerville,GA,31634",1
+2,1/1/2018,,Liberty Early Head Start,200,Brantley Drive,Hinesville,31313,Liberty,Adults,Open Hand Atlanta,-81.59877,31.82309,rooftop,"200 Brantley Drive,Hinesville,GA,31313",1
+2,1/1/2018,Cooking Matters for Teens,Park Place Outreach,514,East Henry Street,Savannah,31405,Chatham,Teens,Open Hand Atlanta,-81.09184,32.0619,rooftop,"514 East Henry Street,Savannah,GA,31405",1
+2,3/23/2018,Cooking Matters for Adults (55+),Savannah Gardens Senior Residences,501,Pennsylvania Ave.,Savannah,31404,Chatham,Adults,Open Hand Atlanta,-81.05996,32.0624,,"501 Pennsylvania Ave.,Savannah,GA,31404",1
+2,3/23/2018,Cooking Maters for Teens and Kids,Safe Harbor Children's Center,1526,Norwich Street,Brunswick,31520,Glynn,Kids and Teens,Open Hand Atlanta,-81.49146,31.1509,,"1526 Norwich Street,Brunswick,GA,31520",1
+2,4/3/2018,Cooking Matters for Kids,Gould Elementary,4910,Pineland Drive,Savannah,31405,Chatham,Kids,Open Hand Atlanta,-81.18651,32.04901,,"4910 Pineland Drive,Savannah,GA,31405",1
+3,1/1/2018,High School,Wayne County HS,1,Jacket Dr.,Jesup,31545,Wayne,12-Sep,HealthMPowers,-81.91887,31.61733,rooftop,"1 Jacket Dr.,Jesup,GA,31545",1
+3,1/1/2018,Child Care,Glynn County Head Start Program,1,One Community Action Drive Ste. D,Brunswick,31520,Glynn,5 yrs >,HealthMPowers,-81.47873,31.18211,rooftop,"1 One Community Action Drive Ste. D,Brunswick,GA,31520",1
+3,1/1/2018,Child Care,McIntosh Head Start,1,One Community Action Drive Ste. D,Brunswick,31520,Glynn,5 yrs >,HealthMPowers,-81.47873,31.18211,rooftop,"1 One Community Action Drive Ste. D,Brunswick,GA,31520",1
+3,1/1/2018,Food Retail,US Food Store,315,Augusta Ave,Savannah,31415,Chatham,Adults 18+,HealthMPowers,-81.12847,32.0896,range_interpolated,"315 Augusta Ave,Savannah,GA,31415",1
+3,1/1/2018,Child Care,Brunswick,419,Benedict Rd.,Glynn County Head Start,31520,Glynn,5 yrs >,HealthMPowers,-81.47873,31.18211,rooftop,"419 Benedict Rd.,Glynn County Head Start,GA,31520",1
+3,1/1/2018,Elem,Windsor Forest ES,414,Briar Cliff Circle,Savannah,31419,Chatham,K-5,HealthMPowers,-81.14346,31.97484,rooftop,"414 Briar Cliff Circle,Savannah,GA,31419",1
+3,1/1/2018,Elem,Hodge ES,975,Clinch Street,Savannah,31405,Chatham,K-5,HealthMPowers,-81.11665,32.0474,range_interpolated,"975 Clinch Street,Savannah,GA,31405",1
+3,1/1/2018,Elem,Rice Creek (3-5),100,Mulberry Ave,Port Wentworth,31407,Chatham,5-Mar,HealthMPowers,-81.19449,32.21885,rooftop,"100 Mulberry Ave,Port Wentworth,GA,31407",1
+3,1/1/2018,Middle School,Rice Creek (6-8),100,Mulberry Ave,Port Wentworth,31407,Chatham,8-Jun,HealthMPowers,-81.19449,32.21885,rooftop,"100 Mulberry Ave,Port Wentworth,GA,31407",1
+3,1/1/2018,Middle School,Martha Puckett Middle School,475,Durrence Rd,Jesup,31545,Wayne,8-Jun,HealthMPowers,-81.91515,31.61672,rooftop,"475 Durrence Rd,Jesup,GA,31545",1
+3,1/1/2018,Food Retail,Food Truck 912: WW Law Community Center,909,E. Bolton St,Savannah,31401,Chatham,Adults 18+,HealthMPowers,-81.08294,32.06258,rooftop,"909 E. Bolton St,Savannah,GA,31401",1
+3,1/1/2018,Child Care,Liberty County Head Start,9099,E.B. Cooper,Liberty,31320,Liberty,5 yrs >,HealthMPowers,-81.4628,31.7475,range_interpolated,"9099 E.B. Cooper,Liberty,GA,31320",1
+3,1/1/2018,Middle School,Hubert Middle School [COMMUNITY],768,Grant St,Chatham,31401,Chatham,8-Jun,HealthMPowers,-81.08493,32.06623,rooftop,"768 Grant St,Chatham,GA,31401",1
+3,1/1/2018,Elem,Pooler ES,308,Holly Ave,Pooler,31322,Chatham,K-5,HealthMPowers,-81.25208,32.12112,rooftop,"308 Holly Ave,Pooler,GA,31322",1
+3,1/1/2018,Child Care,ABC Child Development Center with Head Start Classroom,305,South Baker Street,Alma,31510,Bacon,5 yrs >,HealthMPowers,-82.45643,31.53923,rooftop,"305 South Baker Street,Alma,GA,31510",1
+3,1/1/2018,Elem,Shuman ES,415,Goebel Ave,Savannah,31404,Chatham,K-5,HealthMPowers,-81.06683,32.06182,rooftop,"415 Goebel Ave,Savannah,GA,31404",1
+3,1/1/2018,Elem,Port Wentworth (K-2),507,S Coastal Hwy,Port Wentworth,31407,Chatham,K-2,HealthMPowers,-81.15884,32.14164,rooftop,"507 S Coastal Hwy,Port Wentworth,GA,31407",1
+3,1/1/2018,Child Care,Port Wentworth Elementary,507,South Coastal Highway,Port Wentworth,31407,Chatham,5 yrs >,HealthMPowers,-81.15884,32.14164,rooftop,"507 South Coastal Highway,Port Wentworth,GA,31407",1
+3,1/1/2018,Elem,Southwest ES,6020,Ogeechee Rd,Savannah,31419,Savannah,K-5,HealthMPowers,-81.26239,32.00005,rooftop,"6020 Ogeechee Rd,Savannah,GA,31419",1
+3,1/1/2018,Food Retail,Food Truck 912: Savannah Gardens (Affordable Housing Units),515,Pennsylvania Ave,Savannah,31404,Chatham,Adults 18+,HealthMPowers,-81.06054,32.06118,rooftop,"515 Pennsylvania Ave,Savannah,GA,31404",1
+3,1/1/2018,Middle School,Arthur Williams Middle School,1175,S US Highway 301,Jesup,31546,Wayne,8-Jun,HealthMPowers,-81.87183,31.58536,rooftop,"1175 S US Highway 301,Jesup,GA,31546",1
+3,1/1/2018,Food Retail,Food Truck 912: Sustainable Fellwood (Affordable Housing Units),1401,Fellwood Drive,Savannah,31415,Chatham,Adults 18+,HealthMPowers,-81.11473,32.08608,rooftop,"1401 Fellwood Drive,Savannah,GA,31415",1
+3,1/1/2018,Elem,Otis Brock III,1804,Stratford St,Savannah,31401,Chatham,K-5,HealthMPowers,-81.12805,32.0861,rooftop,"1804 Stratford St,Savannah,GA,31401",1
+3,1/1/2018,Food Retail,Food Truck 912: Sheppards Gas and Food Mart,1302,W. Gwinnett St,Savannah,31415,Chatham,Adults 18+,HealthMPowers,-81.11445,32.07203,rooftop,"1302 W. Gwinnett St,Savannah,GA,31415",1
+3,1/1/2018,Food Retail,Food Truck 912: Department of Family and Children Services,761,Wheaton St,Savannah,31401,Chatham,Adults 18+,HealthMPowers,-81.08324,32.0698,rooftop,"761 Wheaton St,Savannah,GA,31401",1
+3,1/1/2018,Food Retail,Waters Market,4402,Waters Ave,Savannah,31404,Chatham,Adults 18+,HealthMPowers,-81.09027,32.03531,rooftop,"4402 Waters Ave,Savannah,GA,31404",1
+3,3/29/2018,Food Retail,Food Farm 912: Lady Bamford,1410,Richards St,Savannah,31415,Chatham,Adults 18+,HealthMPowers,-81.11741,32.08519,,"1410 Richards St,Savannah,GA,31415",1
+4,1/1/2018,Worksite & Harvest of the Month,Concerted Services,2100,Riverside Avenue,Waycross,31501,Ware,18+; SNAP- eligible,DPH,-82.35322,31.23809,rooftop,"2100 Riverside Avenue,Waycross,GA,31501",1
+4,1/1/2018,Community Garden & Pick It Try It,Waycross Middle School,700,Central Avenue,Waycross,31501,Ware,Familes and 18+; SNAP- eligible,DPH,-82.34038,31.21363,rooftop,"700 Central Avenue,Waycross,GA,31501",1
+4,1/1/2018,Community Garden & Pick It Try It,Ware County Middle School,2301,Cherokee Street,Waycross,31503,Ware,Familes and 18+; SNAP- eligible,DPH,-82.39466,31.23385,rooftop,"2301 Cherokee Street,Waycross,GA,31503",1
+4,1/1/2018,Worksite & Harvest of the Month,Childer's Family YMCA,1634,Plant Avenue,Waycross,31501,Ware,18+; SNAP- eligible,DPH,-82.34562,31.22105,rooftop,"1634 Plant Avenue,Waycross,GA,31501",1
+4,1/1/2018,Worksite & Harvest of the Month,Enmarket,2112,Rankin Street,Savannah,31415,Chatham,18+; SNAP- eligible,DPH,-81.12147,32.09499,rooftop,"2112 Rankin Street,Savannah,GA,31415",1
+4,1/1/2018,Worksite & Harvest of the Month,"Coastal Georgia Area Community Action Authority, Inc.",1,Community Action Drive,Brunswick,31520,Camden,18+; SNAP- eligible,DPH,-81.47873,31.18211,rooftop,"1 Community Action Drive,Brunswick,GA,31520",1
+4,1/1/2018,Community Garden & Pick It Try It,Alfred E. Beach High School,3001,Hopkins Street,Savannah,31405,Chatham,Familes and 18+; SNAP- eligible,DPH,-81.11589,32.05479,rooftop,"3001 Hopkins Street,Savannah,GA,31405",1
+4,1/1/2018,Community Garden & Pick It Try It,Robert W. Groves High School,100,Wheathill Road,Savannah,31408,Chatham,Familes and 18+; SNAP- eligible,DPH,-81.15667,32.10734,rooftop,"100 Wheathill Road,Savannah,GA,31408",1
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Bacon County Extension,203,S. Dixon St.,Alma,31510,Bacon,1,UGA,-82.4691,31.54119,,"203 S. Dixon St.,Alma,GA,31510",1
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Bryan County Extension,131,N. College St.,Pembroke,31321,Bryan,1,UGA,-81.62188,32.13751,,"131 N. College St.,Pembroke,GA,31321",1
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Camden County Extension,1409,Georgia Ave.,Woodbine,31569,Camden,1,UGA,-81.71777,30.9539,,"1409 Georgia Ave.,Woodbine,GA,31569",1
+1,5/10/2018,"FT, FTBU, TFM, Outreach",Charlton County Extension,55,Kingsland Dr.,Folkston,31537,Charlton,1,UGA,-81.9902,30.83451,,"55 Kingsland Dr.,Folkston,GA,31537",1
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Clinch County Extension,313,"West Dame Ave., Suite A",Homerville,31634,Clinch,1,UGA,-82.75261,31.03512,,"313 West Dame Ave., Suite A,Homerville,GA,31634",1
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Liberty County Extension,100,Main St.  Suite 1200,Hinesville,31313,Liberty,1,UGA,-81.59584,31.84758,,"100 Main St.  Suite 1200,Hinesville,GA,31313",1
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Long County Extension,479,S. McDonald St.  Suite C,Ludowici,31316,Long,1,UGA,-81.74109,31.70782,,"479 S. McDonald St.  Suite C,Ludowici,GA,31316",1
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Mcintosh County Extension,102,Jefferson St.,Darien,31305,Mcintosh,1,UGA,-81.43375,31.37139,,"102 Jefferson St.,Darien,GA,31305",1
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Pierce County Extension,711,Hendry St.,Blackshear,31516,Pierce,1,UGA,-82.24742,31.30013,,"711 Hendry St.,Blackshear,GA,31516",1
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Wayne County Extension,1900,Sunset Blvd.,Jesup,31545,Wayne,1,UGA,-81.91481,31.58688,,"1900 Sunset Blvd.,Jesup,GA,31545",1
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Coastal GA Botanical Gardens,2,Canebrake Road,Savannah,31419,Chatham,1,UGA,-81.26986,31.99848,,"2 Canebrake Road,Savannah,GA,31419",1
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Echols County Extension,109,Courthouse Street,Statenville,31648,Echols,1,UGA,-83.02726,30.70274,,"109 Courthouse Street,Statenville,GA,31648",1
+2,6/19/2018,Cooking Matters for Adults,Mercy Housing-Rose of Sharon,322,E. Taylor St.,Savannah,31401,Chatham,Adults,Open Hand Atlanta,-81.09077,32.07084,,"322 E. Taylor St.,Savannah,GA,31401",1
+2,6/19/2018,Cooking Matters for Adults,Cloverdale Community Center,1919,Cynthia Street,Savannah,31415,Chatam,Adults,Open Hand Atlanta,-81.12488,32.06392,,"1919 Cynthia Street,Savannah,GA,31415",1
+4,5/30/2018,Community Garden & Pick It Try It,Center Elementary School (Heritage Gardens of Waycross,2114,Dorothy Street,Waycross,31501,Ware,Families and 18+; SNAP Ed eligible,DPH,-82.35558,31.23711,,"2114 Dorothy Street,Waycross,GA,31501",1
+4,6/14/2018,Worksite & Harvest of the Month,Gateway Behavioral Health Services (GBHS- Brunswick location),600,Coastal Village Drive,Brunswick,31520,Glynn,18+; SNAP- eligible,DPH,-81.49618,31.22086,,"600 Coastal Village Drive,Brunswick,GA,31520",1
+4,6/14/2018,Worksite & Harvest of the Month,Gateway Behavioral Health Services (GBHS- Savannah location),6,Mall Court,Savannah,31406,Chatham,18+; SNAP- eligible,DPH,-81.10584,32.00178,,"6 Mall Court,Savannah,GA,31406",1
+4,6/14/2018,Community Gardens,WayGreen Local Fare Market,1460,North Augusta Avenue,Waycross,31503,Ware,Familes and 18+; SNAP- eligible,DPH,-82.38451,31.23393,,"1460 North Augusta Avenue,Waycross,GA,31503",1
+4,6/14/2018,Community Gardens,Destination Church,301,Bruunell Street,Waycross,31503,Ware,Familes and 18+; SNAP- eligible,DPH,-82.35402,31.21355,,"301 Bruunell Street,Waycross,GA,31503",1
+2,1/1/2018,,Positive Direction,524,Oak Street,Dawson,39842,Terrell,"Adults, Teens, Kids",Open Hand Atlanta,-84.44196,31.76658,rooftop,"524 Oak Street,Dawson,GA,39842",2
+2,1/1/2018,,Maya's Residential Home,920,4th Street,Cairo,39828,Grady,Adults,Open Hand Atlanta,-84.21198,30.88615,range_interpolated,"4th Street,Cairo,GA,39828",2
+3,1/1/2018,High School,Bainbridge HS,1,Bearcat Blvd,Bainbridge,39819,Decatur,12-Sep,HealthMPowers,-84.48109,30.88595,rooftop,"1 Bearcat Blvd,Bainbridge,GA,39819",2
+3,1/1/2018,Middle School,Ballard Hudson Middle School,1070,Anthony Rd,Macon,31204,Bibb,8-Jun,HealthMPowers,-83.65785,32.81861,rooftop,"1070 Anthony Rd,Macon,GA,31204",2
+3,1/1/2018,Elem,Hartley ES,2230,Anthony Rd,Macon,31204,Bibb,K-5,HealthMPowers,-83.67893,32.82132,rooftop,"2230 Anthony Rd,Macon,GA,31204",2
+3,1/1/2018,Elem,Southfield ES,4375,Bloomfield Drive Ext,Macon,31206,Bibb,K-5,HealthMPowers,-83.68807,32.78137,rooftop,"4375 Bloomfield Drive Ext,Macon,GA,31206",2
+3,1/1/2018,Elem,Brookdale ES,3600,Brookdale Ave,Macon,31204,Bibb,K-5,HealthMPowers,-83.68534,32.85194,rooftop,"3600 Brookdale Ave,Macon,GA,31204",2
+3,1/1/2018,Elem,Alexander II ES,1156,College St,Macon,31201,Bibb,K-5,HealthMPowers,-83.64496,32.83283,rooftop,"1156 College St,Macon,GA,31201",2
+3,1/1/2018,Elem,Veterans,4901,Faubus Avenue,Macon,31204,Bibb,K-5,HealthMPowers,-83.71503,32.81362,rooftop,"4901 Faubus Avenue,Macon,GA,31204",2
+3,1/1/2018,Elem,Burdell-Hunt ES,972,Fort Hill St,Macon,31211,Bibb,K-5,HealthMPowers,-83.61322,32.85316,rooftop,"972 Fort Hill St,Macon,GA,31211",2
+3,1/1/2018,Elem,Skyview ES,5700,Fulton Mill Rd,Lizella,31052,Bibb,K-5,HealthMPowers,-83.75764,32.75103,rooftop,"5700 Fulton Mill Rd,Lizella,GA,31052",2
+3,1/1/2018,Elem,Riley ES,3522,Greenbriar Rd,Macon,31204,Bibb,K-5,HealthMPowers,-83.68982,32.83418,range_interpolated,"3522 Greenbriar Rd,Macon,GA,31204",2
+3,1/1/2018,Middle School,Weaver Middle School,2570,Heath Rd,Macon,31206,Bibb,8-Jun,HealthMPowers,-83.74256,32.8251,rooftop,"2570 Heath Rd,Macon,GA,31206",2
+3,1/1/2018,Middle School,Miller Magnet Middle School,751,Hendley St,Macon,31204,Bibb,8-Jun,HealthMPowers,-83.65842,32.83928,rooftop,"751 Hendley St,Macon,GA,31204",2
+3,1/1/2018,Elem,Bruce ES,3660,Houston Ave,Macon,31206,Bibb,K-5,HealthMPowers,-83.65129,32.79856,rooftop,"3660 Houston Ave,Macon,GA,31206",2
+3,1/1/2018,Elem,Heard ES,6515,Houston Rd,Macon,31216,Bibb,K-5,HealthMPowers,-83.6874,32.72326,rooftop,"6515 Houston Rd,Macon,GA,31216",2
+3,1/1/2018,Elem,Union ES,4831,Mamie Carter Dr,Macon,31210,Bibb,K-5,HealthMPowers,-83.72357,32.83538,range_interpolated,"4831 Mamie Carter Dr,Macon,GA,31210",2
+3,1/1/2018,Elem,Bernd ES,4160,Ocmulgee East Blvd,Macon,31217,Bibb,K-5,HealthMPowers,-83.56781,32.81424,rooftop,"4160 Ocmulgee East Blvd,Macon,GA,31217",2
+3,1/1/2018,Elem,Elcan King,725,Louise St,Bainbridge,39819,Decatur County,K-4,HealthMPowers,-84.56883,30.89383,rooftop,"725 Louise St,Bainbridge,GA,39819",2
+3,1/1/2018,Elem,Potter Street,725,Potter St,Bainbridge,39819,Decatur County,K-4,HealthMPowers,-84.57404,30.89982,range_interpolated,"725 Potter St,Bainbridge,GA,39819",2
+3,1/1/2018,Elem,Ingram-Pye ES,855,Anthony Road,Macon,31204,Bibb,K-5,HealthMPowers,-83.65224,32.82043,rooftop,"855 Anthony Road,Macon,GA,31204",2
+3,1/1/2018,Elem,Williams ES,325,Pursley St,Macon,31201,Bibb,K-5,HealthMPowers,-83.64654,32.84516,rooftop,"325 Pursley St,Macon,GA,31201",2
+3,1/1/2018,Middle School,Hutto Middle School,1201,Martin Luther King Jr Dr,Bainbridge,39817,Decatur  County,6-May,HealthMPowers,-84.55886,30.90901,rooftop,"1201 Martin Luther King Jr Dr,Bainbridge,GA,39817",2
+3,1/1/2018,Elem,John Johnson,1947,S West St,Bainbridge,39819,Decatur County,K-4,HealthMPowers,-84.5763,30.88486,range_interpolated,"1947 S West St,Bainbridge,GA,39819",2
+3,1/1/2018,Elem,Porter ES,5802,School Rd,Macon,31206,Bibb,K-5,HealthMPowers,-83.69208,32.73709,rooftop,"5802 School Rd,Macon,GA,31206",2
+3,1/1/2018,Middle School,Bain Bridge Middle School,1301,E. College St,Bainbridge,39819,Decatur  County,8-Jul,HealthMPowers,-84.55651,30.8984,rooftop,"1301 E. College St,Bainbridge,GA,39819",2
+3,1/1/2018,Middle School,Rutland Middle School,6260,Skipper Rd,Macon,31216,Bibb,8-Jun,HealthMPowers,-83.71874,32.73681,range_interpolated,"6260 Skipper Rd,Macon,GA,31216",2
+3,1/1/2018,Elem,Martin Luther King,1301,Shurling Dr,Macon,31211,Bibb,K-5,HealthMPowers,-83.60051,32.85968,range_interpolated,"1301 Shurling Dr,Macon,GA,31211",2
+3,1/1/2018,Elem,Jones Wheat,1401,E Shortwell St,Bainbridge,39819,Decatur County,K-4,HealthMPowers,-84.55606,30.90385,range_interpolated,"1401 E Shortwell St,Bainbridge,GA,39819",2
+3,1/1/2018,Elem,Heritage ES,6050,Thomaston Rd,Macon,31220,Bibb,K-5,HealthMPowers,-83.75821,32.84281,rooftop,"6050 Thomaston Rd,Macon,GA,31220",2
+3,1/1/2018,Elem,Heritage ES,6050,Thomaston Rd,Macon,31220,Bibb,K-5,HealthMPowers,-83.7558,32.84574,range_interpolated,"6050 Thomaston Rd,Macon,GA,31220",2
+3,1/1/2018,Elem,Vineville ES,2260,Vineville Ave,Macon,31204,Bibb,K-5,HealthMPowers,-83.65565,32.84468,rooftop,"2260 Vineville Ave,Macon,GA,31204",2
+3,1/1/2018,Elem,West Bainbridge,915,Zorn Rd,Bainbridge,39817,Decatur County,K-4,HealthMPowers,-84.61254,30.93325,range_interpolated,"915 Zorn Rd,Bainbridge,GA,39817",2
+3,1/1/2018,Elem,Sherwood Acres ES,2201,Doncaster Way,Albany,31707,Dougherty,k-5,HealthMPowers,-84.19856,31.6078,rooftop,"2201 Doncaster Way,Albany,GA,31707",2
+3,3/29/2018,Food Retail,My Store,2073,Pio Nono Ave,Macon,31206,Bibb,Adults 18+,HealthMPowers,-83.66314,32.82213,,"2073 Pio Nono Ave,Macon,GA,31206",2
+3,3/29/2018,Food Retail,Family Supermarket,2965,Houston Ave,Macon,31206,Bibb,Adults 18+,HealthMPowers,-83.64827,32.80786,,"2965 Houston Ave,Macon,GA,31206",2
+4,1/1/2018,Community Garden & Pick It Try It,Bill Miller Commuity Center,312,Vick Street,Albany,31705,Dougherty,School aged children and 18+ SNAP-eligible,DPH,-84.13152,31.54998,rooftop,"312 Vick Street,Albany,GA,31705",2
+4,1/1/2018,Community Garden & Pick It Try It,Carver Sports Complex,1021,S. Mckinley Street,Albany,31701,Dougherty,School aged children and 18+ SNAP-eligible,DPH,-84.16617,31.56393,range_interpolated,"1021 S. Mckinley Street,Albany,GA,31701",2
+4,1/1/2018,Community Garden & Pick It Try It,Boys & Girls Club,1309,North Jefferson,Albany,31701,Dougherty,School aged children and 18+ SNAP-eligible,DPH,-84.15678,31.59457,rooftop,"1309 North Jefferson,Albany,GA,31701",2
+4,1/1/2018,Community Garden & Pick It Try It,Girls Inc,701,Park Place,Albany,31701,Dougherty,School aged girls and 18+ SNAP-eligible,DPH,-84.15997,31.58637,rooftop,"701 Park Place,Albany,GA,31701",2
+4,1/1/2018,Community Gardens,Jackson Heights Community Center,1100,Jordan,Albany,31705,Dougherty,Familes and 18+; SNAP- eligible,DPH,-84.11801,31.58749,range_interpolated,"1100 Jordan,Albany,GA,31705",2
+4,1/1/2018,Community Gardens,Thornton Community Center,210,Thornton,Albany,31705,Dougherty,Familes and 18+; SNAP- eligible,DPH,-84.10573,31.5724,rooftop,"210 Thornton,Albany,GA,31705",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Baker County Extension,398,GA Hwy 37 SW,Newton,39870,Baker,2,UGA,-84.34893,31.31173,,"398 GA Hwy 37 SW,Newton,GA,39870",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Bibb County Extension,145,First Street,Macon,31201,Bibb,2,UGA,-83.62797,32.84096,,"145 First Street,Macon,GA,31201",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Calhoun County Extension,10971,Dickey Street,Morgan,39866,Calhoun,2,UGA,-84.60071,31.53681,,"10971 Dickey Street,Morgan,GA,39866",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Crawford County Extension,100,Wright Ave.,Roberta,31078,Crawford,2,UGA,-84.01081,32.72108,,"100 Wright Ave.,Roberta,GA,31078",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Crisp County Extension,110,"West 13th Ave., Suite C",Cordele,31015,Crisp,2,UGA,-83.78343,31.96723,,"110 West 13th Ave., Suite C,Cordele,GA,31015",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Dooly County Extension,402,"Hawkinsville Road, Suite 8",Vienna,31092,Dooly,2,UGA,-83.77991,32.09599,,"402 Hawkinsville Road, Suite 8,Vienna,GA,31092",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Dougherty County Extension,125,"Pine Avenue, Suite 100",Albany,31701,Dougherty,2,UGA,-84.15036,31.5789,,"125 Pine Avenue, Suite 100,Albany,GA,31701",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Lee County Extension,107,107 Main Street,Leesburg,31763,Lee,2,UGA,-84.17094,31.73223,,"107 Main Street,Leesburg,GA,31763",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Macon County Extension,105,S. Sumter Street,Oglethorpe,31068,Macon,2,UGA,-84.05731,32.28565,,"105 S. Sumter Street,Oglethorpe,GA,31068",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Marion County Extension,111,Baker Street,Buena Vista,31803,Marion,2,UGA,-84.5198,32.31907,,"111 Baker Street,Buena Vista,GA,31803",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Mitchell County Extension,4590,Highway 37 East,Camilla,31730,Mitchell,2,UGA,-84.20939,31.23218,,"4590 Highway 37 East,Camilla,GA,31730",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Peach County Extension,700,"Spruce Street, Wing A",Fort Valley,31030,Peach,2,UGA,-83.88329,32.54545,,"700 Spruce Street, Wing A,Fort Valley,GA,31030",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Quitman County Extension,57,"Kaigler Road, Suite 1",Georgetown,39854,Quitman,2,UGA,-85.08357,31.88156,,"57 Kaigler Road, Suite 1,Georgetown,GA,39854",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Seminole County Extension,207,East Crawford Street,Donalsonville,39845,Seminole,2,UGA,-84.87985,31.04307,,"207 East Crawford Street,Donalsonville,GA,39845",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Sumter County Extension,127,William Bowen Pointe,Americus,31719,Sumter,2,UGA,-84.25187,32.05569,,"127 William Bowen Pointe,Americus,GA,31719",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Taylor County Extension,7,Ivy Street,Butler,31006,Taylor,2,UGA,-84.2365,32.55653,,"7 Ivy Street,Butler,GA,31006",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Terrell County Extension,955,Forrester Drive,Dawson,39842,Terrell,2,UGA,-84.43662,31.75979,,"955 Forrester Drive,Dawson,GA,39842",2
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Webster County Extension,7235,Washington Street,Preston,31824,Webster,2,UGA,-84.54089,32.06042,,"7235 Washington Street,Preston,GA,31824",2
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Decatur County Extension,101,AG Lane,Bainbridge,39817,Decatur,2,UGA,-84.55791,30.91531,,"101 AG Lane,Bainbridge,GA,39817",2
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Grady County Extension,65,"11th Avenue, NE",Cairo,39828,Grady,2,UGA,-84.20094,30.88789,,"11th Avenue, NE,Cairo,GA,39828",2
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Muscogee County Extension-Columbus Government Ctr Annex,420,10th Street,Columbus,31901,Muscogee,2,UGA,-84.9871,32.46477,,"10th Street,Columbus,GA,31901",2
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Randolph County Extension,103,East Church Street,Cuthbert,39840,Randolph,2,UGA,-84.79049,31.7734,,"103 East Church Street,Cuthbert,GA,39840",2
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Stewart County Extension,211,Health Department Road,Lumpkin,31815,Stewart,2,UGA,-84.79875,32.03973,,"211 Health Department Road,Lumpkin,GA,31815",2
+3,5/15/2018,Food Retail,Kitchen Pride,3101,Columbus Rd,Macon,31204,Bibb,Adults 18+,HealthMPowers,-83.67729,32.82673,,"3101 Columbus Rd,Macon,GA,31204",2
+3,5/15/2018,Food Retail,ABC Food Market,1194,Martin Luther King JR Blvd,Macon,31201,Bibb,Adults 18+,HealthMPowers,-83.6333,32.82553,,"1194 Martin Luther King JR Blvd,Macon,GA,31201",2
+4,5/14/2018,Community Gardens,Empty Lot,3819,Gillionville Road,Albany,31701,Dougherty,Familes and 18+; SNAP- eligible,DPH,-84.24974,31.58659,,"3819 Gillionville Road,Albany,GA,31701",2
+4,5/14/2018,Community Gardens,Empty Lot,2421,Harvey Road,Albany,31701,Dougherty,Familes and 18+; SNAP- eligible,DPH,-84.16572,31.5356,,"2421 Harvey Road,Albany,GA,31701",2
+4,5/14/2018,Community Gardens,Empty Lot,400,Plum Street,Albany,31705,Dougherty,Familes and 18+; SNAP- eligible,DPH,-84.14048,31.58092,,"400 Plum Street,Albany,GA,31705",2
+4,5/14/2018,Community Gardens,FEMA Parcel,1200,Martin Luther King Drive,Albany,31701,Dougherty,Familes and 18+; SNAP- eligible,DPH,-84.15436,31.56217,,"1200 Martin Luther King Drive,Albany,GA,31701",2
+2,1/1/2018,,Meriwether WIC Clinic,51,Gay Connector Rd,Greenville,30222,Meriwether,Adults 18+,Open Hand Atlanta,-84.71202,33.04173,rooftop,"51 Gay Connector Rd,Greenville,GA,30222",3
+2,1/1/2018,,Troup County WIC Clinic,900,Dallis St,LaGrange,30240,Troup,Adults 18+,Open Hand Atlanta,-85.04733,33.0271,rooftop,"900 Dallis St,LaGrange,GA,30240",3
+2,1/1/2018,,Carroll WIC Clinic,1004,Newman Road,Carrollton,30116,Carroll,Adults 18+,Open Hand Atlanta,-85.04589,33.56735,rooftop,"1004 Newman Road,Carrollton,GA,30116",3
+2,1/1/2018,,Lamar County WIC Clinic,118,Academy Drive,Barnesville,30204,Lamar,Adults 18+,Open Hand Atlanta,-84.14728,33.03496,rooftop,"118 Academy Drive,Barnesville,GA,30204",3
+2,1/1/2018,,Spalding WIC Clinic,1007,Memorial Dr,Griffin,30223,Spalding,Adults 18+,Open Hand Atlanta,-84.24731,33.24101,rooftop,"1007 Memorial Dr,Griffin,GA,30223",3
+2,1/1/2018,,Upson WIC Clinic,314,E Lee St,Thomaston,30286,Upson,Adults 18+,Open Hand Atlanta,-84.32262,32.88566,range_interpolated,"314 E Lee St,Thomaston,GA,30286",3
+2,1/1/2018,,Villa Rica WIC Clinic,201,Cleghorn Street,Villa Rica,30180,Carroll,Adults 18+,Open Hand Atlanta,-84.9099,33.73471,rooftop,"201 Cleghorn Street,Villa Rica,GA,30180",3
+2,4/3/2018,"Cooking Matters for Adults, Teens, and Kids",LaGrange Housing Authority,201,Chatham St.,LaGrange,30240,Troup,Kids and Teens,Open Hand Atlanta,-85.03016,33.023,,"201 Chatham St.,LaGrange,GA,30240",3
+3,1/1/2018,Child Care,Upson County Head Start/EHS,76,Atwater Place,Thomaston,30286,Upson,5 yrs >,HealthMPowers,-84.3392,32.95109,range_interpolated,"76 Atwater Place,Thomaston,GA,30286",3
+3,1/1/2018,Child Care,Henry County Head Start Center; Early Head Start and Pre-K Center/EHS,84,Carter Ave,Locust Grove,30248-3611,Henry,5 yrs >,HealthMPowers,-84.11326,33.34799,rooftop,"84 Carter Ave,Locust Grove,GA,30248-3611",3
+3,1/1/2018,Child Care,Pike County Head Start,10,Hall Street,Zebulon,30295,Pike,5 yrs >,HealthMPowers,-84.34368,33.09534,rooftop,"10 Hall Street,Zebulon,GA,30295",3
+3,1/1/2018,Elem,Wesley Lakes,685,McDonough Pkwy,McDonough,30253,Henry,K-5,HealthMPowers,-84.16998,33.44745,rooftop,"685 McDonough Pkwy,McDonough,GA,30253",3
+3,1/1/2018,after school,Carroll County Club,106,Pearl St,Carrollton,30117,Carroll County,18-May,HealthMPowers,-85.08201,33.5816,range_interpolated,"106 Pearl St,Carrollton,GA,30117",3
+3,1/1/2018,after school,Newnan Club,72,Wesley Street,Newnan,30263,Newnan,18-May,HealthMPowers,-84.80669,33.37695,rooftop,"72 Wesley Street,Newnan,GA,30263",3
+3,1/1/2018,Child Care,Spalding County Head Start,390A,Wilson Rd,Griffin,30224,Spaulding,5 yrs >,HealthMPowers,-84.23313,33.22889,rooftop,"390A Wilson Rd,Griffin,GA,30224",3
+3,1/1/2018,Child Care,Lamar County,630,Zebulon Street,Barnsville,30204,Lamar,5 yrs >,HealthMPowers,-84.16778,33.053,rooftop,"630 Zebulon Street,Barnsville,GA,30204",3
+3,1/1/2018,after school,,55,Savannah Street,Newnan,30263,Coweta,18-May,HealthMPowers,-84.7934,33.37027,rooftop,"55 Savannah Street,Newnan,GA,30263",3
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Harris County Extension,121,N. Old College St.,Hamilton,31811,Harris,3,UGA,-84.87521,32.75949,,"121 N. Old College St.,Hamilton,GA,31811",3
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Heard County Extension,101,Glover,Franklin,30217,Heard,3,UGA,-85.10359,33.2769,,"101 Glover,Franklin,GA,30217",3
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Meriwether County Extension,126,North Court Sqaure,Greenville,30222,Meriwether,3,UGA,-84.71285,33.02838,,"126 North Court Sqaure,Greenville,GA,30222",3
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Pike County Extension,74,Gwyn Street,Zebulon,30295,Pike,3,UGA,-84.34406,33.10103,,"74 Gwyn Street,Zebulon,GA,30295",3
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Spalding County Extension,835,Memorial Drive,Griffin,30224,Spalding,3,UGA,-84.24941,33.24431,,"835 Memorial Drive,Griffin,GA,30224",3
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Upson County Extension,305,"S. Hightower St., Suite 170",Thomaston,30286,Upson,3,UGA,-84.32523,32.89045,,"305 S. Hightower St., Suite 170,Thomaston,GA,30286",3
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Fayette County Extension,140,Stonewall Ave West,Fayetteville,30214,Fayette,3,UGA,-84.45706,33.447,,"140 Stonewall Ave West,Fayetteville,GA,30214",3
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Troup County Extension,114,Church Street,LaGrange,30240,Troup,3,UGA,-85.03175,33.04024,,"114 Church Street,LaGrange,GA,30240",3
+2,6/19/2018,Cooking Matters for Adults,Healing Bridge Clinic,215,Willow Bend Road,Peachtree City,30269,Fayette,Adults,Open Hand Atlanta,-84.58449,33.3979,,"215 Willow Bend Road,Peachtree City,GA,30269",3
+4,5/16/2018,Worksite & Harvest of the Month,OFS Optics,10,Brightwave Blvd.,Carrollton,30117,Carroll,18+; SNAP- eligible,DPH,-85.10756,33.61198,,"10 Brightwave Blvd.,Carrollton,GA,30117",3
+1,1/1/2018,"Food Talk, Food Talk: Better U",Genesis Alliance Mental Health,4540,Memorial Dr.,Decatur,30032,DeKalb,Adults 18+,UGA,-84.24294,33.78074,rooftop,"4540 Memorial Dr.,Decatur,GA,30032",4
+1,1/1/2018,"FT, FTBU, FTFM, Outreach",Oakhurst Medical Center,5582,Memorial Drive,Stone Mountain,30083,DeKalb,Adults 18+,UGA,-84.20967,33.80168,rooftop,"5582 Memorial Drive,Stone Mountain,GA,30083",4
+1,1/1/2018,,Genesis Alliance Mental Health,4540,Memorial Dr. # C,Decatur,30032,DeKalb,Adults 18+,UGA,-84.24294,33.78074,rooftop,"4540 Memorial Dr. # C,Decatur,GA,30032",4
+1,1/1/2018,Outreach,Covington Library,3500,Covington Highway,Decatur,30032,DeKalb,Adults 18+,UGA,-84.25084,33.76727,rooftop,"3500 Covington Highway,Decatur,GA,30032",4
+1,1/1/2018,Outreach,Salem-Panola Library,5137,Salem Road,Lithonia,30038,DeKalb,Adults 18+,UGA,-84.17795,33.67808,rooftop,"5137 Salem Road,Lithonia,GA,30038",4
+1,1/1/2018,Outreach,Wesley Chapel-William C. Brown Library,2861,Wesley Chapel Road,Decatur,30034,DeKalb,Adults 18+,UGA,-84.22115,33.70432,rooftop,"2861 Wesley Chapel Road,Decatur,GA,30034",4
+1,1/1/2018,Outreach,Hairston Crossing Library,4911,Redan Road,Stone Mountain,30088,DeKalb,Adults 18+,UGA,-84.19201,33.75886,rooftop,"4911 Redan Road,Stone Mountain,GA,30088",4
+1,1/1/2018,Outreach,Stone Mountain-Sue Kellogg Library,952,Leon St,Stone Mountain,30083,DeKalb,Adults 18+,UGA,-84.1713,33.80616,rooftop,"952 Leon St,Stone Mountain,GA,30083",4
+1,1/1/2018,Outreach,Lithonia-Davidson Library,6821,Church St,Lithonia,30058,DeKalb,Adults 18+,UGA,-84.10909,33.71225,rooftop,"6821 Church St,Lithonia,GA,30058",4
+1,1/1/2018,Outreach,Clarkston Library,951,N Indian Creek Dr,Clarkston,30021,DeKalb,Adults 18+,UGA,-84.2387,33.80494,rooftop,"951 N Indian Creek Dr,Clarkston,GA,30021",4
+1,1/1/2018,Outreach,Salvation Army Atlanta Peachtree Corps,3500,Sherrydale Lane,Decatur,30032,DeKalb,Adults 18+,UGA,-84.24657,33.74632,,"3500 Sherrydale Lane,Decatur,GA,30032",4
+1,4/17/2018,FTFM,Society o St. Vincent De Paul,4871,Memorial Drive,Stone Mountain,30083,DeKalb,,UGA,-84.23142,33.78755,,"4871 Memorial Drive,Stone Mountain,GA,30083",4
+1,4/17/2018,FTFM,"K.D. Moore Community Development, Inc.",3999,Church Street,Clarkston,30021,DeKalb,,UGA,-84.23772,33.81119,,"3999 Church Street,Clarkston,GA,30021",4
+1,4/17/2018,FTFM,Fairfield Baptist Church,6133,Redan Road,Lithonia,30088,DeKalb,,UGA,-84.14708,33.7465,,"6133 Redan Road,Lithonia,GA,30088",4
+1,4/17/2018,FTFM,Berean Christian Church,2201,Young Road,Stone Mountain,30088,DeKalb,,UGA,-84.17163,33.73859,,"2201 Young Road,Stone Mountain,GA,30088",4
+1,1/1/2018,FTFM,Stephenson High School,701,Stephenson Rd,Stone Mountain,30087,DeKalb,4,UGA,-84.12455,33.7746,,"701 Stephenson Rd,Stone Mountain,GA,30087",4
+1,1/1/2018,FTFM,Elizabeth Andrews High School,1701,Mountain Industrial Blvd,Stone Mountain,30083,DeKalb,4,UGA,-84.19465,33.83259,,"1701 Mountain Industrial Blvd,Stone Mountain,GA,30083",4
+1,1/1/2018,FTFM,Stone Mountain High School,4555,Central Dr,Stone Mountain,30083,DeKalb,4,UGA,-84.20202,33.81061,,"4555 Central Dr,Stone Mountain,GA,30083",4
+2,1/1/2018,,Families First,1150,Cole Dr. Sw,Lilburn,30047,Gwinett,Adults,Open Hand Atlanta,-84.1114,33.85314,rooftop,"1150 Cole Dr. Sw,Lilburn,GA,30047",4
+2,1/1/2018,,Family Support Circle,3893,Kensington Rd,Decatur,30032,DeKalb,Teens 14-18,Open Hand Atlanta,-84.23684,33.76616,rooftop,"3893 Kensington Rd,Decatur,GA,30032",4
+2,1/1/2018,,Decatur Housing Authority,750,Commerce Drive Suite 110,Decatur,30030,DeKalb,Adults,Open Hand Atlanta,-84.29373,33.77825,rooftop,"750 Commerce Drive Suite 110,Decatur,GA,30030",4
+2,1/1/2018,,CETPA  http://www.cetpa.org,4650,"4650 Jimmy Carter Blvd., Suite 113",Norcross,30093,Gwinett,kids and teens,Open Hand Atlanta,-84.19375,33.88487,rooftop,"4650 Jimmy Carter Blvd., Suite 113,Norcross,GA,30093",4
+2,1/1/2018,,"R.E.A.C.H. Community Development Center, Inc",6212,Memorial Drive,Stone Mountain,30083,DeKalb,"Kids, Adults",Open Hand Atlanta,-84.18752,33.80807,rooftop,"6212 Memorial Drive,Stone Mountain,GA,30083",4
+2,1/1/2018,,DeKalb County WIC,395,Glendale Road,Scottdale,30079,DeKalb,Adults 18+,Open Hand Atlanta,-84.25369,33.78724,range_interpolated,"395 Glendale Road,Scottdale,GA,30079",4
+2,1/1/2018,ACFB Food Pantry Partner- Adults,Covington UMC Food Pantry,1113,Conyers St SW,Covington,30014,Newton,Adults,Open Hand Atlanta,-83.85988,33.59404,rooftop,"1113 Conyers St SW,Covington,GA,30014",4
+2,1/1/2018,Cooking Matters for Teens and Kids,"Because We Care Enterprise, After School Program",4893,Memorial Dr.,Stone Mountain,30083,DeKalb,Teens,Open Hand Atlanta,-84.23095,33.7885,rooftop,"4893 Memorial Dr.,Stone Mountain,GA,30083",4
+2,1/1/2018,"Cooking Matters for Kids, Teens, and Adults",Conyers Housing Authority,1214,Summer Circle,Conyers,30012,Rockdale,"Adults, Teens, Kids",Open Hand Atlanta,-84.02668,33.67586,,"1214 Summer Circle,Conyers,GA,30012",4
+2,5/7/2018,Cooking Matters for Teens and Adults,DeKalb CSB Program-Winn Way,455,Winn Way,Decatur,30030,DeKalb,Teens and Adults,Open Hand Atlanta,-84.27837,33.78795,,"455 Winn Way,Decatur,GA,30030",4
+3,1/1/2018,Child Care,Early Edu-Care & Development Center,1127,Cimarron Court,Clarkston,30021,Dekalb,5 yrs >,HealthMPowers,-84.21868,33.81195,rooftop,"1127 Cimarron Court,Clarkston,GA,30021",4
+3,1/1/2018,Child Care,Loving Arms,2900,Athena Lane #48E,Lithonia,30038,Dekalb,5 yrs >,HealthMPowers,-84.14494,33.69789,rooftop,"2900 Athena Lane #48E,Lithonia,GA,30038",4
+3,1/1/2018,Child Care,Newton County Head Start,25,Lovers Lane,Covington,30016,Newton,5 yrs >,HealthMPowers,-83.92134,33.55634,rooftop,"25 Lovers Lane,Covington,GA,30016",4
+3,1/1/2018,Child Care,Lethia P. Walker,2297,Cherokee Valley Circle,Lithonia,30058,Dekalb,5 yrs >,HealthMPowers,-84.13991,33.72465,rooftop,"2297 Cherokee Valley Circle,Lithonia,GA,30058",4
+3,1/1/2018,Child Care,Choice Academy Child Care Center,5440,Covington Hwy,Decatur,30035,Dekalb,5 yrs >,HealthMPowers,-84.19169,33.73083,rooftop,"5440 Covington Hwy,Decatur,GA,30035",4
+3,1/1/2018,Child Care,Pleasant Family Childcare,3941,Harvest Hill Road,Decatur,30034,Dekalb,5 yrs >,HealthMPowers,-84.22772,33.69067,rooftop,"3941 Harvest Hill Road,Decatur,GA,30034",4
+3,1/1/2018,Elem,Stoneview,2629,Huber St,Lithonia,30058,Dekalb,K-5,HealthMPowers,-84.1196,33.70809,rooftop,"2629 Huber St,Lithonia,GA,30058",4
+3,1/1/2018,Elem,Peachcrest,1530,Joy Ln,Decatur,30032,Dekalb,K-5,HealthMPowers,-84.24553,33.74756,rooftop,"1530 Joy Ln,Decatur,GA,30032",4
+3,1/1/2018,Child Care,Wandas Family Childcare,4143,Lindsey Drive,Decatur,30035,Dekalb,5 yrs >,HealthMPowers,-84.22003,33.73136,rooftop,"4143 Lindsey Drive,Decatur,GA,30035",4
+3,1/1/2018,Child Care,Marian D. Peart,771,Pennybrook Lane,Stone Mountain,30087,Dekalb,5 yrs >,HealthMPowers,-84.15401,33.79328,rooftop,"771 Pennybrook Lane,Stone Mountain,GA,30087",4
+3,1/1/2018,after school,East Dekalb Club,1839,Phillips Rd,Lithonia,30058,Dekalb,18-May,HealthMPowers,-84.13283,33.73802,rooftop,"1839 Phillips Rd,Lithonia,GA,30058",4
+3,1/1/2018,Middle School,Lithonia MS,2451,Randall Ave,Lithonia,30058,Dekalb,8-Jun,HealthMPowers,-84.11034,33.71478,rooftop,"2451 Randall Ave,Lithonia,GA,30058",4
+3,1/1/2018,after school,Barksdale Club,1015,O'Kelly Street,Conyers,30012,Rockdale,18-May,HealthMPowers,-84.015,33.66072,rooftop,"1015 O'Kelly Street,Conyers,GA,30012",4
+3,1/1/2018,Child Care,Ring Around the Rosey FDCH,487,Rue Montaigne,Stone Mountain,30083,Dekalb,5 yrs >,HealthMPowers,-84.21916,33.78295,rooftop,"487 Rue Montaigne,Stone Mountain,GA,30083",4
+3,1/1/2018,Elem,Princeton,1321,S. Deshon Road,Lithonia,30058,Dekalb,K-5,HealthMPowers,-84.11467,33.7616,rooftop,"1321 S. Deshon Road,Lithonia,GA,30058",4
+3,1/1/2018,Child Care,Barbara Roland,1497,Spruce Ridge Way,Stone Mountain,30044,Dekalb,5 yrs >,HealthMPowers,-84.20036,33.74847,rooftop,"1497 Spruce Ridge Way,Stone Mountain,GA,30044",4
+3,1/1/2018,Elem,Graves,1700,Graves Rd,Norcross,30093,Gwinett,K-5,HealthMPowers,-84.21618,33.89542,rooftop,"1700 Graves Rd,Norcross,GA,30093",4
+3,1/1/2018,Child Care,All Our Children,4086,Windermere Drive,Lithonia,30038,Dekalb,5 yrs >,HealthMPowers,-84.15492,33.65957,rooftop,"4086 Windermere Drive,Lithonia,GA,30038",4
+3,1/1/2018,Child Care,Loving Child Care Services LLC,5060,Wycliffe Dr.,Stone Mountain,30087,Dekalb,5 yrs >,HealthMPowers,-84.08402,33.79984,rooftop,"5060 Wycliffe Dr.,Stone Mountain,GA,30087",4
+3,1/1/2018,Child Care,Rockbridge Care and Learning Center,4733,Rockbridge Road,Stone Mountain,30083,,< 5yrs,HealthMPowers,-84.19978,33.786,rooftop,"4733 Rockbridge Road,Stone Mountain,GA,30083",4
+1,1/1/2018,"Food Talk, Food Talk:Better U",RHEMA,1850,Danielsville Rd.,Athens,30601,Clarke,Adults 18+,UGA,-83.35267,33.99962,rooftop,"1850 Danielsville Rd.,Athens,GA,30601",9
+1,1/1/2018,"Food Talk, Food Talk:Better U",Greater Bethel Episcopal Church,250,Rose St.,Athens,30601,Clarke,Adults 18+,UGA,-83.36505,34.04582,range_interpolated,"250 Rose St.,Athens,GA,30601",9
+1,1/1/2018,HCCG: Pre-K Classrooms,Clarke County School District: Winterville Elementary School,305,Cherokee Rd.,Winterville,30683,Clarke,Pre-K children (3-5)  Pre_K Teachers 18+  Parents 18+,UGA,-83.28978,33.96994,rooftop,"305 Cherokee Rd.,Winterville,GA,30683",9
+1,1/1/2018,"Food Talk, Food Talk: Better U",Brooks Hill,185,Penland St.,Ellijay,30540,Gilmer,Adults 18+,UGA,-84.48632,34.7053,rooftop,"185 Penland St.,Ellijay,GA,30540",9
+1,1/1/2018,"Food Talk, Food Talk: Better U",Gilmer County Extension Office,1123,Progress Rd.,Eljay,30540,Gilmer,Adults 18+,UGA,-84.48984,34.67641,rooftop,"1123 Progress Rd.,Eljay,GA,30540",9
+1,1/1/2018,Easter Seals: Head Start Classrooms,Easter Seals of Northeast Georgia: Madison County Head Start,85,Rock Quarry Rd.,Danielsville,30633,Madison,Head Start children (3-5)  Head Start Teachers 18+  Parents 18+,UGA,-83.21499,34.13661,rooftop,"85 Rock Quarry Rd.,Danielsville,GA,30633",9
+1,1/1/2018,Food Talk and FT Better U,Fannin Food Pantry,101,Industrial Park Rd.,Blue Ridge,30513,Fannin,Adults 18+,UGA,-84.31135,34.88434,rooftop,"101 Industrial Park Rd.,Blue Ridge,GA,30513",9
+1,1/1/2018,Outreach Event,Georgia Mountains Health Services,165,Blue Ridge Overlook,Blue Ridge,30513,Fannin,Adults 18+,UGA,-84.32639,34.87569,rooftop,"165 Blue Ridge Overlook,Blue Ridge,GA,30513",9
+1,1/1/2018,Food eTalk,Elbert County Extension,1088,Rickersville,Elberton,30635,Elbert,Adults 18+,UGA,-82.85621,34.13114,,"1088 Rickersville,Elberton,GA,30635",9
+1,1/1/2018,Food eTalk,Elbert Primary School,1019,Falling Creek Circle,Elberton,30635,Elbert,Adults 18+,UGA,-82.84747,34.08453,,"1019 Falling Creek Circle,Elberton,GA,30635",9
+1,1/1/2018,Food eTalk,Elbert County Middle School,1108,Athens Tech Rd,Elberton,30635,Elbert,Adults 18+,UGA,-82.89374,34.10619,,"1108 Athens Tech Rd,Elberton,GA,30635",9
+1,1/1/2018,Food eTalk,Elbert County High School,600,Abernathy Circle,Elberton,30635,Elbert,Adults 18+,UGA,-82.88441,34.10849,,"600 Abernathy Circle,Elberton,GA,30635",9
+1,1/1/2018,"FT, FTBU",Fannin Senior Life Services Center,440,W 1st Street,Blue Ridge,30513,Gilmer,Adults 18+,UGA,-84.32565,34.86715,,"440 W 1st Street,Blue Ridge,GA,30513",9
+1,3/23/2018,"FTFM, Outreach",Garden View Funeral Home,605,605 Olympic Drive,Athens,30601,Clarke,Adults 18+,UGA,-83.34479,33.96729,,"605 Olympic Drive,Athens,GA,30601",9
+1,3/23/2018,"FT, FTBU, FeT, FTFM, Outreach",New Covenant Worship Center,1425,1425 Newton Bridge Road,Athens,30607,Clarke,Adults 18+,UGA,-83.40602,34.01742,,"1425 Newton Bridge Road,Athens,GA,30607",9
+1,4/17/2018,"FT, FTBU, Outreach",Gilmer Public Library,268,Calvin Jackson Drive,Ellijay,30540,Gilmer,,UGA,-84.50595,34.68568,,"268 Calvin Jackson Drive,Ellijay,GA,30540",9
+1,4/17/2018,"FT, FTBU, Outreach",Georgia Mountains Health - Ellijay,772,"Maddox Drive, #122",Ellijay,30540,Gilmer,,UGA,-84.4824,34.67818,,"772 Maddox Drive, #122,Ellijay,GA,30540",9
+2,1/1/2018,,Rabun County Middle School,95,Wildcat Pride Way,Tiger,30576,Rabun,teens,Open Hand Atlanta,-83.42148,34.82639,bing,"95 Wildcat Pride Way,Tiger,GA,30576",9
+2,1/1/2018,,Rabun County Elementary School - Afterschool Program,1115,1115 Boggs Mountain Rd,Tiger,30576,Rabun,Kids,Open Hand Atlanta,-83.40692,34.82568,rooftop,"1115 Boggs Mountain Rd,Tiger,GA,30576",9
+2,1/1/2018,,Prevent Child Abuse Habersham,122,Laurel Drive,Clarkesville,30523,Habersham,Families,Open Hand Atlanta,-83.52124,34.60965,rooftop,"122 Laurel Drive,Clarkesville,GA,30523",9
+2,1/1/2018,,Rabun County Primary School,801,East Boggs Mountain Road,Tiger,30576,Rabun,kids,Open Hand Atlanta,-83.41118,34.82339,bing,"801 East Boggs Mountain Road,Tiger,GA,30576",9
+2,1/1/2018,,Rabun County High School,230,Wildcat Hill,Tiger,30576,Rabun,teens,Open Hand Atlanta,-83.42198,34.82713,rooftop,"230 Wildcat Hill,Tiger,GA,30576",9
+2,1/1/2018,,Rabun County Senior Center,2832,Old 441 S,Tiger,30578,Rabun,Adults,Open Hand Atlanta,-83.42803,34.8581,range_interpolated,"2832 Old 441 S,Tiger,GA,30578",9
+2,1/1/2018,,Brooks Lane,1203,Old 441 S,Clayton,30525,Clayton,Adults,Open Hand Atlanta,-83.41822,34.86349,range_interpolated,"1203 Old 441 S,Clayton,GA,30525",9
+2,1/1/2018,WIC Clinic,Hall County Health Department- WIC,1290,Athens Street,Gainesville,30507,Hall,Adults,Open Hand Atlanta,-83.80281,34.2874,rooftop,"1290 Athens Street,Gainesville,GA,30507",9
+2,1/1/2018,,Your Time Fitness,745,N. Main St.,Clayton,30525,Rabun,Adults,Open Hand Atlanta,-83.39694,34.88824,rooftop,"745 N. Main St.,Clayton,GA,30525",9
+2,1/1/2018,,Hart County High School,59,5th St.,Hartwell,30643,Hart,Teens and Adults,Open Hand Atlanta,-82.9232,34.34794,rooftop,"5th St.,Hartwell,GA,30643",9
+2,1/1/2018,,Hart County Middle School,176,Powell Rd.,Hartwell,30643,Hart,Teens and Adults,Open Hand Atlanta,-82.92102,34.35007,rooftop,"176 Powell Rd.,Hartwell,GA,30643",9
+2,1/1/2018,,Hartwell Elementary School,147,College Ave.,Hartwell,30643,Hart,Kids and Adults,Open Hand Atlanta,-82.92805,34.34966,rooftop,"147 College Ave.,Hartwell,GA,30643",9
+2,1/1/2018,,North Hart Elementary School,124,Ankerich Rd.,Bowersville,30516,Hart,Kids and Adults,Open Hand Atlanta,-83.00252,34.37458,rooftop,"124 Ankerich Rd.,Bowersville,GA,30516",9
+2,1/1/2018,,South Hart Elementary School,121,E&M Dairy Rd.,Hartwell,30643,Hart,Kids and Adults,Open Hand Atlanta,-82.95082,34.29183,bing,"121 E&M Dairy Rd.,Hartwell,GA,30643",9
+2,1/1/2018,,South Jackson Elementary,1630,New Kings Bridge Rd.,Athens,30607,Clarke,Adults and Kids,Open Hand Atlanta,-83.47613,34.06944,range_interpolated,"1630 New Kings Bridge Rd.,Athens,GA,30607",9
+2,1/1/2018,"Cooking Matters for Adults, Teens and Kids, and Cooking Matters at the Store",NE GA Food Bank,861,Newton Bridge Rd.,Athens,303607,Clarke,"Teens, Kids, and Adults",Open Hand Atlanta,-83.40195,34.00246,,"861 Newton Bridge Rd.,Athens,GA,303607",9
+3,1/1/2018,Child Care,Hart County Head Start Center/EHS/Pre-K,    500,    North Richardson Street  P O Box 956    ,Hartwell,30643,Hart,5 yrs >,HealthMPowers,-82.92683,34.35978,range_interpolated,"    500     North Richardson Street  P O Box 956    ,Hartwell,GA,30643",9
+3,1/1/2018,Child Care,Dawson County Head Start Pre/K,407,Allen,Dawsonville,30534,Dawson,5 yrs >,HealthMPowers,-84.10559,34.41921,range_interpolated,"407 Allen,Dawsonville,GA,30534",9
+3,1/1/2018,Elem,Sugar Hill ES,3259,Athens Hwy,Gainesville,30507,Hall,k-5,HealthMPowers,-83.74465,34.2324,rooftop,"3259 Athens Hwy,Gainesville,GA,30507",9
+3,1/1/2018,Child Care,EE Butler Head Start,1300,Athens Street,Gainsville,30507,Hall,5 yrs >,HealthMPowers,-83.80142,34.28741,rooftop,"1300 Athens Street,Gainsville,GA,30507",9
+3,1/1/2018,Child Care,Franklin County Head Start Pre/K,84,Hartwell Road,Lavonia,30553,Franklin,5 yrs >,HealthMPowers,-83.0979,34.43249,range_interpolated,"84 Hartwell Road,Lavonia,GA,30553",9
+3,1/1/2018,Child Care,Angels In Motion,260,Cherokee Road,Winterville,30683,Clarke,5 yrs >,HealthMPowers,-83.29031,33.97099,range_interpolated,"260 Cherokee Road,Winterville,GA,30683",9
+3,1/1/2018,Child Care,Banks County Head Start/Pre-K,335,Evans Street,Homer,30547,Banks,5 yrs >,HealthMPowers,-83.49797,34.32398,rooftop,"335 Evans Street,Homer,GA,30547",9
+3,1/1/2018,Child Care,Fannin Head Start,8731,Lakewood Hwy,Mineral Bluff,30559,Fannin,5 yrs >,HealthMPowers,-84.27496,34.91359,range_interpolated,"8731 Lakewood Hwy,Mineral Bluff,GA,30559",9
+3,1/1/2018,Child Care,Gilmer County Head Start,305,Calvin Jackson Dr.,Ellijay,30540,Gilmer,5 yrs >,HealthMPowers,-84.50394,34.68455,rooftop,"305 Calvin Jackson Dr.,Ellijay,GA,30540",9
+3,1/1/2018,Child Care,Habersham Head Start Center/Pre-K,291,Light Street,Baldwin,30511,Habersham,5 yrs >,HealthMPowers,-83.53343,34.49838,rooftop,"291 Light Street,Baldwin,GA,30511",9
+3,1/1/2018,Child Care,Lumpkin County Head Start / Pre K,126,Mechanicsville Rd.,Dahlonega,30533,Lumpkin,5 yrs >,HealthMPowers,-83.97689,34.53001,range_interpolated,"126 Mechanicsville Rd.,Dahlonega,GA,30533",9
+3,1/1/2018,Child Care,Pickens County Head Start Center/Pre-K,        529,North Head Start Road P O Box 469    ,Tate,30177,Pickens,5 yrs >,HealthMPowers,-84.37631,34.40779,rooftop,"        529 North Head Start Road P O Box 469    ,Tate,GA,30177",9
+3,1/1/2018,Child Care,White County Head Start Center,676,Claude Sims Road,Cleveland,30528,White,5 yrs >,HealthMPowers,-83.78798,34.6052,rooftop,"676 Claude Sims Road,Cleveland,GA,30528",9
+3,1/1/2018,Child Care,Rabun Head Start Center,1236,Old Hwy 411,Clayton,30525,Rabun,5 yrs >,HealthMPowers,-83.40658,34.85991,bing,"1236 Old Hwy 411,Clayton,GA,30525",9
+3,1/1/2018,Child Care,Towns County Head Start,1150,Konaheth Road,Hiawassee,30546,Towns,5 yrs >,HealthMPowers,-83.73148,34.93111,rooftop,"1150 Konaheth Road,Hiawassee,GA,30546",9
+3,1/1/2018,Child Care,Union County Pre-School,226,School Street,Blairsville,30512,Union,5 yrs >,HealthMPowers,-83.95478,34.87516,range_interpolated,"226 School Street,Blairsville,GA,30512",9
+3,1/1/2018,Child Care,Stephens County Head Start,176,South Broad Street,Toccoa,30577,Stephens,5 yrs >,HealthMPowers,-83.33309,34.57768,range_interpolated,"176 South Broad Street,Toccoa,GA,30577",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Banks County Extension,413,Evans St.,Homer,30547,Banks,9,UGA,-83.50008,34.32282,,"413 Evans St.,Homer,GA,30547",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Dawson County Extension,298,Academy Ave.,Dawsonville,30534,Dawson,9,UGA,-84.11958,34.42021,,"298 Academy Ave.,Dawsonville,GA,30534",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Fannin County Extension,205,"Church St., Suite 1",Blue Ridge,30513,Fannin,9,UGA,-84.32646,34.8648,,"205 Church St., Suite 1,Blue Ridge,GA,30513",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Franklin County Extension,280,"Busha Rd., Suite A",Carnesville,30521,Fulton,9,UGA,-83.22271,34.37735,,"280 Busha Rd., Suite A,Carnesville,GA,30521",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Hall County Extension,734,E. Crescent Drive,Gainesville,30501,Hall,9,UGA,-83.79064,34.31409,,"734 E. Crescent Drive,Gainesville,GA,30501",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Lumpkin County Extension,26,Johnson Street,Dahlonega,30533,Lumpkin,9,UGA,-83.98198,34.5348,,"26 Johnson Street,Dahlonega,GA,30533",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Madison County Extension,97,Sunset Dr.,Danielsville,30633,Madison,9,UGA,-83.21484,34.13079,,"97 Sunset Dr.,Danielsville,GA,30633",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Pickens County Extension,109,Depot Street,Jasper,30143,Pickens,9,UGA,-84.42825,34.46923,,"109 Depot Street,Jasper,GA,30143",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Rabun County Extension,41,"Jo Dotson Circle, Suite 1",Clayton,30525,Rabun,9,UGA,-83.40478,34.87976,,"41 Jo Dotson Circle, Suite 1,Clayton,GA,30525",9
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Union County Extension,165,Wellborn Street Box 5,Blairsville,30512,Union,9,UGA,-83.95572,34.8778,,"165 Wellborn Street Box 5,Blairsville,GA,30512",9
+1,5/17/2018,"FT, FTBU, FTFM, Outreach",Fannin Health Department -  WIC,95,Ouida Street,Blue Ridge,30513,Gilmer,9,UGA,-84.32343,34.85733,,"95 Ouida Street,Blue Ridge,GA,30513",9
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Hart County Extension,200,Arthur Street,Hartwell,30643,Hart,9,UGA,-82.93931,34.34923,,"200 Arthur Street,Hartwell,GA,30643",9
+1,6/14/2018,"FT, FTBU, Outreach",Pickens County Library,100,Library Lane,Jasper,30143,Pickens,9,UGA,-84.42142,34.47446,,"100 Library Lane,Jasper,GA,30143",9
+1,6/22/2018,"FT, FTBU, FTFM, Outreach",Gilmer Food Pantry,5273,GA-52,Ellijay,30536,Gilmer,9,UGA,-84.4257,34.65231,,"5273 GA-52,Ellijay,GA,30536",9
+2,1/1/2018,WIC Clinic,Rome WIC District 1-1,1309,Redmond Rd.,Rome,30165,Flyod,Adults,Open Hand Atlanta,-85.20347,34.28286,rooftop,"1309 Redmond Rd.,Rome,GA,30165",14
+3,1/1/2018,after school,Paulding Club,335A,Academy Drive,Dallas,30132,Paulding,18-May,HealthMPowers,-84.83196,33.91063,rooftop,"335A Academy Drive,Dallas,GA,30132",14
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Dade County Extension,114,Pace Drive,Trenton,30752,Dade,14,UGA,-85.51888,34.87,,"114 Pace Drive,Trenton,GA,30752",14
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Haralson County Extension,4266,Georgia Hwy 120,Buchanan,30113,Haralson,14,UGA,-85.18912,33.80247,,"4266 Georgia Hwy 120,Buchanan,GA,30113",14
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Polk County Extension,20,N. Main St.,Cedartown,30125,Polk,14,UGA,-85.25432,34.0141,,"20 N. Main St.,Cedartown,GA,30125",14
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Walker County Extension,102,E. Napier St.,LaFayette,30728,Walker,14,UGA,-85.28134,34.70365,,"102 E. Napier St.,LaFayette,GA,30728",14
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Chattooga County Extension,10011,Commerce St.,Summerville,30747,Chattoga,14,UGA,-85.34862,34.48014,,"10011 Commerce St.,Summerville,GA,30747",14
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Gordon County Extension,1,McDaniel Station Rd SW,Calhoun,30701,Gordon,14,UGA,-84.96423,34.48744,,"1 McDaniel Station Rd SW,Calhoun,GA,30701",14
+1,5/17/2018,"FT, FTBU, F+B30:K39eT, FTFM, Outreach",Paulding County Extension,530,West memorial Drive,Dallas,30132,Paulding,14,UGA,-84.85113,33.92045,,"530 West memorial Drive,Dallas,GA,30132",14
+1,1/1/2018,"Food Talk, Food Talk: Better U",ATCO-Senior Center,25,Relihan St.,Pearson,31642,Coffee,Adults 18+,UGA,-82.84512,31.29207,range_interpolated,"25 Relihan St.,Pearson,GA,31642",8
+1,1/1/2018,"Food Talk, Food Talk: Better U",Willacoochee Senior Center,68,Boone St.,Wilacoochee,31650,Coffee,Adults 18+,UGA,-83.04969,31.33957,rooftop,"68 Boone St.,Wilacoochee,GA,31650",8
+1,1/1/2018,"Food Talk, Food Talk: Better U",Concerted Services-Pearson,818,E. Austin Ave.,Pearson,31642,Coffee,Adults 18+,UGA,-82.84385,31.29368,range_interpolated,"818 E. Austin Ave.,Pearson,GA,31642",8
+1,1/1/2018,"Food Talk, Food Talk: Better U",ATCO-Wiregrass,59,N. Pearson St.,Pearson,31642,Coffee,Adults 18+,UGA,-82.85065,31.29892,range_interpolated,"59 N. Pearson St.,Pearson,GA,31642",8
+2,1/1/2018,,Berrien High School- Community Learning Center Afterschool Program,500,E Smith Ave.,Nashville,31639,Berrien,Teens,Open Hand Atlanta,-83.24521,31.21922,rooftop,"500 E Smith Ave.,Nashville,GA,31639",8
+2,1/1/2018,,Family Connections in Berrien Schools/Communities in Schools,1015,Exum Road,Nashville,31639,Berrien,"Families, Teens",Open Hand Atlanta,-83.26704,31.19258,range_interpolated,"1015 Exum Road,Nashville,GA,31639",8
+2,1/1/2018,,Pearson Farmer Market,89,89 Main St S,Pearson,31642,Atkinson,Adults 18+,Open Hand Atlanta,-82.85276,31.29705,range_interpolated,"89 Main St S,Pearson,GA,31642",8
+2,1/1/2018,,4H,636,636 E Austin Ave,Pearson,31642,Atkinson,kids 5-17,Open Hand Atlanta,-82.84251,31.29265,rooftop,"636 E Austin Ave,Pearson,GA,31642",8
+2,1/1/2018,,Pearson Senior Center,75,Relihan Street,Pearson,31642,Atkinson,Adults,Open Hand Atlanta,-82.84512,31.29207,range_interpolated,"75 Relihan Street,Pearson,GA,31642",8
+2,1/1/2018,,Tift Tower,311,311 East Second Street,Tifton,31794,Tift,,Open Hand Atlanta,-83.50735,31.45419,range_interpolated,"311 East Second Street,Tifton,GA,31794",8
+2,1/1/2018,,J. L. Newbern Middle School,2015,E. Park Avenue,Valdosta,31602,Lowndes,Teens,Open Hand Atlanta,-83.25069,30.86536,rooftop,"2015 E. Park Avenue,Valdosta,GA,31602",8
+2,1/1/2018,,Pines Family Campus,305,Smith Street,Valdosta,31601,Lowndes,Adults,Open Hand Atlanta,-83.2709,30.811,rooftop,"305 Smith Street,Valdosta,GA,31601",8
+2,1/1/2018,,Harvey's Supermarket,775,Hwy 12 W,Haira,31632,Lowndes,Adults,Open Hand Atlanta,-83.17879,30.99211,range_interpolated,"775 Hwy 12 W,Haira,GA,31632",8
+2,1/1/2018,,Winn-Dixie Supermarket,4036,Bemiss Rd.,Valdosta,31601,Lowndes,Adults,Open Hand Atlanta,-83.2617,30.91021,rooftop,"4036 Bemiss Rd.,Valdosta,GA,31601",8
+2,1/1/2018,,Winn-Dixie Supermarket,1105,Madison Highway,Valdosta,31601,Lowndes,Adults,Open Hand Atlanta,-83.27352,30.81751,rooftop,"1105 Madison Highway,Valdosta,GA,31601",8
+2,1/1/2018,,Hahira Head Start,403,Main St,Hahira,3162,Lowndes,Adults,Open Hand Atlanta,-83.36565,30.99193,rooftop,"403 Main St,Hahira,GA,3162",8
+2,1/1/2018,"Cooking Matters for Kids, Teens",Georgia Sherriff's Boy Ranch,5671,Boys Ranch Rd.,Hahira,31632,Lowndes,"Adults,Teens, Kids",Open Hand Atlanta,-83.28903,31.01956,,"5671 Boys Ranch Rd.,Hahira,GA,31632",8
+2,4/17/2018,Cooking Matters for Kids,High Hope Child Development Center,2732,S. Central Avenue,Tifton,31794,Tift,Kids,Open Hand Atlanta,-83.5175,31.43686,,"2732 S. Central Avenue,Tifton,GA,31794",8
+2,4/17/2018,"Cooking Matters for Adults, Teens, and Kids",Southside Recreation Center,604,S. Oak Street,Valdosta,31601,Lowndes,"Adults, Kids and Teens",Open Hand Atlanta,-83.2808,30.8245,,"604 S. Oak Street,Valdosta,GA,31601",8
+2,4/17/2018,"Cooking Matters for Teens, Kids, and Adults",David S. Waller Unit- Boys and Girls Club,215,W. North Street,Valdosta,31602,Lowndes,"Adults, Kids and Teens",Open Hand Atlanta,-83.28404,30.83606,,"215 W. North Street,Valdosta,GA,31602",8
+2,4/17/2018,"Cooking Matters for Teens, Kids, and Adults",Don Reames Boys and Girls Club,614,N. Toombs Street,Valdosta,31602,Lowndes,"Adults, Kids and Teens",Open Hand Atlanta,-83.28384,30.83669,,"614 N. Toombs Street,Valdosta,GA,31602",8
+2,4/17/2018,"Cooking Matters for Teens, Kids, and Adults",Lake Laurie Boys and Girls Club,3628,Lake Laurie Drive,Valdosta,31605,Lowndes,"Adults, Kids and Teens",Open Hand Atlanta,-83.28231,30.89732,,"3628 Lake Laurie Drive,Valdosta,GA,31605",8
+2,4/17/2018,Cooking Matters for Teens and Adults,Worth County Middle School,1305,North Isabella Street,Sylvester,31791,Worth,"Adults, Teens",Open Hand Atlanta,-83.83496,31.54793,,"1305 North Isabella Street,Sylvester,GA,31791",8
+2,4/17/2018,Cooking Matters for Kids and Adults,"South Tifton Learning Center, Inc.",2304,Dorminey St,Tifton,31794,Tift,"Kids, Adults",Open Hand Atlanta,-83.52278,31.4399,,"2304 Dorminey St,Tifton,GA,31794",8
+3,1/1/2018,Elem,Taylor ES,2976,Crestline Dr,Macon,31204,Bibb,K-5,HealthMPowers,-83.67796,32.87628,rooftop,"2976 Crestline Dr,Macon,GA,31204",8
+3,1/1/2018,Middle School,Howard Middle School,6600,Forsyth Rd,Macon,31210,Bibb,8-Jun,HealthMPowers,-83.77446,32.90971,range_interpolated,"6600 Forsyth Rd,Macon,GA,31210",8
+3,1/1/2018,Elem,Lane,990,Newport Rd,Macon,31210,Bibb,K-5,HealthMPowers,-83.69488,32.89159,rooftop,"990 Newport Rd,Macon,GA,31210",8
+3,1/1/2018,Elem,Springdale,4965,Northside Dr,Macon,31210,Bibb,k-5,HealthMPowers,-83.71973,32.90498,rooftop,"4965 Northside Dr,Macon,GA,31210",8
+3,1/1/2018,Elem,Carter ES,5910,Zebulon Rd,Macon,31210,Bibb,K-5,HealthMPowers,-83.757,32.87845,rooftop,"5910 Zebulon Rd,Macon,GA,31210",8
+4,1/1/2018,Worksite & Harvest of the Month,"Sunset Farm Foods, Inc",1201,Madison Hwy,Valdosta,31601,Lowndes,18+; SNAP- eligible,DPH,-83.27503,30.81637,rooftop,"1201 Madison Hwy,Valdosta,GA,31601",8
+4,1/1/2018,Worksite & Harvest of the Month,Langdale Forest Products,1202,Madison Hwy,Valdosta,31601,Lowndes,18+; SNAP- eligible,DPH,-83.27631,30.81647,rooftop,"1202 Madison Hwy,Valdosta,GA,31601",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Ben Hill County Extension,406,West Palm Street,Fitzgerald,31750,Ben Hill,8,UGA,-83.25892,31.70978,,"406 West Palm Street,Fitzgerald,GA,31750",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Berrien County Extension,516A,"County Farm Rd, Suite 1",Nashville,31639,Berrien,8,UGA,-83.26486,31.19175,,"516A County Farm Rd, Suite 1,Nashville,GA,31639",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Bleckley County Extension,165,E. Peacock St.,Cochran,31014,Bleckley,8,UGA,-83.34536,32.38577,,"165 E. Peacock St.,Cochran,GA,31014",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Brooks County Extension,400,East Courtland Avenue,Quitman,31643,Brooks,8,UGA,-83.55532,30.79818,,"400 East Courtland Avenue,Quitman,GA,31643",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Colquitt County Extension,350,Veterans Parkway North,Moultrie,31788,Colquitt,8,UGA,-83.75852,31.185,,"350 Veterans Parkway North,Moultrie,GA,31788",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Dodge County Extension,230,"Foster Street, Suite A",Eastman,31023,Dodge,8,UGA,-83.17368,32.19799,,"230 Foster Street, Suite A,Eastman,GA,31023",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Lanier County Extension,162,West Thigpen Avenue,Lakeland,31635,Lanier,8,UGA,-83.07651,31.04095,,"162 West Thigpen Avenue,Lakeland,GA,31635",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Monroe County Extension,90,"Martin L. King, Jr. Drive",Forsyth,31029,Monroe,8,UGA,-83.94625,33.03201,,"90 Martin L. King, Jr. Drive,Forsyth,GA,31029",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Telfair County Extension,91,"Telfair Ave., Suite E",McRae,31055,Telfair,8,UGA,-82.89805,32.061,,"91 Telfair Ave., Suite E,McRae,GA,31055",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Thomas County Extension,227,West Jefferson Street,Thomasville,31799,Thomas,8,UGA,-83.98284,30.83704,,"227 West Jefferson Street,Thomasville,GA,31799",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Tift County Extension,1468,Carpenter Road South,Tifton,31793,Tift,8,UGA,-83.54634,31.46773,,"1468 Carpenter Road South,Tifton,GA,31793",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Twiggs County Extension,31,Magnolia St. North,Jeffersonville,31044,Twiggs,8,UGA,-83.34641,32.68801,,"31 Magnolia St. North,Jeffersonville,GA,31044",8
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Wilcox County Extension,667,Second Avenue,Rochelle,31079,Wilcox,8,UGA,-83.45601,31.94981,,"667 Second Avenue,Rochelle,GA,31079",8
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Houston County Extension,801,Main Street,Perry,31069,Houston,8,UGA,-83.73382,32.45781,,"801 Main Street,Perry,GA,31069",8
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Pulaski County Extension,87,N. Lumpkin St.,Hawkinsville,31036,Pulaski,8,UGA,-83.46932,32.28532,,"87 N. Lumpkin St.,Hawkinsville,GA,31036",8
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Southwest District Office,2360,Rainwater Road,Tifton,31793,Tift,8,UGA,-83.53077,31.47462,,"2360 Rainwater Road,Tifton,GA,31793",8
+2,5/16/2018,Cooking Matters for Teens and Adults,Valdosta Middle School,110,Burton Ave.,Valdosta,31602,Lowndes,Teens and Adults,Open Hand Atlanta,-83.2909,30.86755,,"110 Burton Ave.,Valdosta,GA,31602",8
+2,6/19/2018,"Cooking Matters for Kids, Teens",Delta Innovative School,1081,Barwick Road,Quitman,31643,Brooks,"Kids, Teens",Open Hand Atlanta,-83.56549,30.81304,,"1081 Barwick Road,Quitman,GA,31643",8
+1,1/1/2018,"Food Talk, Food Talk:Better U",Habitat for Humanity,532,Barber St.,Athens,30901,Clarke,Adults 18+,UGA,-83.38604,33.96785,rooftop,"532 Barber St.,Athens,GA,30901",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",PALS,1860,Barnett Shoals Rd.,Athens,30605,Clarke,Adults 18+,UGA,-83.34119,33.92503,rooftop,"1860 Barnett Shoals Rd.,Athens,GA,30605",10
+1,1/1/2018,HCCG: Pre-K Classrooms,Clarke County School District: Barnett Shoals Elementary School,3220,Barnett Shoals Rd.,Athens,30605,Clarke,Pre-K children (3-5)  Pre_K Teachers 18+  Parents 18+,UGA,-83.33806,33.90214,rooftop,"3220 Barnett Shoals Rd.,Athens,GA,30605",10
+1,1/1/2018,HCCG: Pre-K Classrooms,Clarke County School District: Chase Street Elementary School,757,Chase St.,Athens,30601,Clarke,Pre-K children (3-5)  Pre_K Teachers 18+  Parents 18+,UGA,-83.39418,33.96468,rooftop,"757 Chase St.,Athens,GA,30601",10
+1,1/1/2018,HCCG: Pre-K Classrooms,Clarke County School District: Barrow Elementary School,100,Pinecrest Dr.,Athens,30605,Clarke,Pre-K children (3-5)  Pre_K Teachers 18+  Parents 18+,UGA,-83.38265,33.94201,rooftop,"100 Pinecrest Dr.,Athens,GA,30605",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",Athens Community on Aging,135,Hoyt St.,Athens,30601,Clarke,Adults 18+,UGA,-83.37949,33.96437,rooftop,"135 Hoyt St.,Athens,GA,30601",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",Advantage Behavioral Health Center,250,North Ave.,Athens,30601,Clarke,Adults 18+,UGA,-83.36502,33.97173,rooftop,"250 North Ave.,Athens,GA,30601",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",Diversions Center,2725,Lexington Rd.,Athens,30606,Clarke,Adults 18+,UGA,-83.33154,33.94308,rooftop,"2725 Lexington Rd.,Athens,GA,30606",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",Goodwill Career Center,4070,Lexington Rd.,Athens,30605,Clarke,Adults 18+,UGA,-83.32304,33.93694,rooftop,"4070 Lexington Rd.,Athens,GA,30605",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",Live Forward,240,North Ave.,Athens,30601,Clarke,Adults 18+,UGA,-83.36763,33.97054,rooftop,"240 North Ave.,Athens,GA,30601",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",Mercy Health Center,700,Oglethorpe Ave.,Athens,30606,Clarke,Adults 18+,UGA,-83.41247,33.96311,rooftop,"700 Oglethorpe Ave.,Athens,GA,30606",10
+1,1/1/2018,HCCG: Pre-K Classrooms,Clarke County School District: Gaines Elementary School,900,Gaines School Rd.,Athens,30605,Clarke,Pre-K children (3-5)  Pre-K Teachers 18+  Parents 18+,UGA,-83.33716,33.92975,rooftop,"900 Gaines School Rd.,Athens,GA,30605",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",New Joy,496,Resse St.,Athens,30601,Clarke,Adults 18+,UGA,-83.38586,33.9569,rooftop,"496 Resse St.,Athens,GA,30601",10
+1,1/1/2018,HCCG: Pre-K Classrooms,Clarke County School District: Oglethorpe Elementary School,1150,Oglethorpe Ave.,Athens,30606,Clarke,Pre-K children (3-5)  Pre_K Teachers 18+  Parents 18+,UGA,-83.42263,33.96337,rooftop,"1150 Oglethorpe Ave.,Athens,GA,30606",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",Timothy Woods Apartments,2085,S.Miledge St.,Athens,30605,Clarke,Adults 18+,UGA,-83.37775,33.92372,rooftop,"2085 S.Miledge St.,Athens,GA,30605",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",Athens Housing Authority,300,S.Rock Springs St.,Athens,30601,Clarke,Adults 18+,UGA,-83.39329,33.951,rooftop,"300 S.Rock Springs St.,Athens,GA,30601",10
+1,1/1/2018,HCCG: Pre-K Classrooms,Clarke County School District: Cleveland Road Elementary School,1700,Cleveland Rd.,Bogart,30622,Clarke,Pre-K children (3-5)  Pre_K Teachers 18+  Parents 18+,UGA,-83.50515,33.96706,rooftop,"1700 Cleveland Rd.,Bogart,GA,30622",10
+1,1/1/2018,"Food Talk, Food Talk:Better U",Hope Haven,2152,West Broad St.,Athens,30601,Clarke,Adults 18+,UGA,-83.40698,33.9509,rooftop,"2152 West Broad St.,Athens,GA,30601",10
+1,1/1/2018,HCCG: Pre-K Classrooms,Clarke County School District: Whit Davis Elementary School,1450,Whit Davis Rd.,Athens,30605,Clarke,Pre-K children (3-5)  Pre_K Teachers 18+  Parents 18+,UGA,-83.31722,33.90429,rooftop,"1450 Whit Davis Rd.,Athens,GA,30605",10
+1,1/1/2018,HCCG: Pre-K Classrooms,Clarke County School District: Timothy Road Elementary School,1900,Timothy Rd.,Athens,30606,Clarke,Pre-K children (3-5)  Pre-K Teachers 18+  Parents 18+,UGA,-83.44629,33.9373,rooftop,"1900 Timothy Rd.,Athens,GA,30606",10
+1,1/1/2018,HCCG: ECE Collaborative,Clarke County School District Office of Early Learning,440-2,Dearing Extension,Athens,30606,Clarke,Pre-K Teachers 18+,UGA,-83.40078,33.95017,rooftop,"440-2 Dearing Extension,Athens,GA,30606",10
+1,1/1/2018,HCCG: ECE Collaborative,Clarke County School District Office of Early Learning,440-2,Dearing Extension,Athens,30606,Clarke,Pre-K Teachers 18+,UGA,-83.40078,33.95017,rooftop,"440-2 Dearing Extension,Athens,GA,30606",10
+1,1/1/2018,HCCG: ECE Collaborative,Clarke County School District Office of Early Learning,440-2,Dearing Extension,Athens,30606,Clarke,Pre-K Teachers 18+,UGA,-83.40078,33.95017,rooftop,"440-2 Dearing Extension,Athens,GA,30606",10
+1,1/1/2018,HCCG: ECE Collaborative,Clarke County School District Office of Early Learning,440-2,Dearing Extension,Athens,30606,Clarke,Pre-K Teachers 18+,UGA,-83.40078,33.95017,rooftop,"440-2 Dearing Extension,Athens,GA,30606",10
+1,1/1/2018,HCCG: ECE Collaborative,Clarke County School District Office of Early Learning,440-2,Dearing Extension,Athens,30606,Clarke,Pre-K Teachers 18+,UGA,-83.40078,33.95017,rooftop,"440-2 Dearing Extension,Athens,GA,30606",10
+1,1/1/2018,HCCG: ECE Collaborative,Clarke County School District Office of Early Learning,440-2,Dearing Extension,Athens,30606,Clarke,Pre-K Teachers 18+,UGA,-83.40078,33.95017,rooftop,"440-2 Dearing Extension,Athens,GA,30606",10
+1,1/1/2018,HCCG: ECE Collaborative,Clarke County School District Office of Early Learning,440-2,Dearing Extension,Athens,30606,Clarke,Pre-K Teachers 18+,UGA,-83.40078,33.95017,rooftop,"440-2 Dearing Extension,Athens,GA,30606",10
+1,1/1/2018,HCCG: ECE Collaborative,Clarke County School District Office of Early Learning,440-2,Dearing Extension,Athens,30606,Clarke,Pre-K Teachers 18+,UGA,-83.40078,33.95017,rooftop,"440-2 Dearing Extension,Athens,GA,30606",10
+1,1/1/2018,Food Talk: Farmers Market and Outreach Event,St. Mary's Hospital,1230,Baxter St,Athens,30606,Clarke,Adults 18+,UGA,-83.40557,33.94769,rooftop,"1230 Baxter St,Athens,GA,30606",10
+1,1/1/2018,Food Talk: Farmers Market and Outreach Event,Rashe's Cuisine,211,Tallassee Rd,Athens,30606,Clarke,Adults 18+,UGA,-83.43065,33.96583,rooftop,"211 Tallassee Rd,Athens,GA,30606",10
+1,1/1/2018,"FT, FTBU, FTFM, Outreach",Bishop Park,705,Sunset Drive,Athens,30606,Clarke,Adults 18+,UGA,-83.41213,33.96446,rooftop,"705 Sunset Drive,Athens,GA,30606",10
+1,1/1/2018,FTFM,Creature Comforts,271,W. Hancock Ave,Athens,30601,Clarke,Adults 18+,UGA,-83.38019,33.95896,rooftop,"271 W. Hancock Ave,Athens,GA,30601",10
+1,1/1/2018,"FT, FTBU, Outreach",Sparrow's Nest,745,Prince Ave,Athens,30606,Clarke,Adults 18+,UGA,-83.38984,33.96108,rooftop,"745 Prince Ave,Athens,GA,30606",10
+1,1/1/2018,"FT, FTBU, Outreach",Fourth Street Village Apartments,690,Fourth Street,Athens,30601,Clarke,Adults 18+,UGA,-83.35952,33.9707,rooftop,"690 Fourth Street,Athens,GA,30601",10
+1,1/1/2018,"FT, FTBU, FTFM, Outreach",Bethel Midtown Village,155,Hickman Dr,Athens,30601,Clarke,Adults 18+,UGA,-83.3785,33.96207,rooftop,"155 Hickman Dr,Athens,GA,30601",10
+1,1/1/2018,"FT, FTBU, FTFM, Outreach",Downtown Academy,180,Pulaski St,Athens,30601,Clarke,Adults 18+,UGA,-83.38003,33.95735,range_interpolated,"180 Pulaski St,Athens,GA,30601",10
+1,3/23/2018,"FTFM, Outreach",Boys and Girls Club of Athens,705,705 Fourth Street,Athens,30601,Clarke,Adults 18+,UGA,-83.36132,33.9713,,"705 Fourth Street,Athens,GA,30601",10
+1,3/23/2018,"FTFM, Outreach",Boy and Girls Club - HT Edwards,440-4,440-4 Dearing Extension,Athens,30606,Clarke,Adults 18+,UGA,-83.40039,33.95033,,"440-4 Dearing Extension,Athens,GA,30606",10
+1,3/23/2018,"FT, FTBU, FeT, FTFM, Outreach",Ebenezer Baptist West,205,205 N. Chase Street,Athens,30606,Clarke,Adults 18+,UGA,-83.39175,33.95503,,"205 N. Chase Street,Athens,GA,30606",10
+1,3/23/2018,"FT, FTBU, FeT, FTFM, Outreach",First AME Church,521,521 Hull Street,Athens,30601,Clarke,Adults 18+,UGA,-83.37923,33.96078,,"521 Hull Street,Athens,GA,30601",10
+1,3/23/2018,"FT, FTBU, FeT, FTFM, Outreach",Hill Chapel Baptist,1962,1692 W. Hancock Ave,Athens,30606,Clarke,Adults 18+,UGA,-83.39854,33.95154,,"1692 W. Hancock Ave,Athens,GA,30606",10
+1,3/23/2018,"FT, FTBU, FeT, FTFM, Outreach",Nelly B. Community Center,200,200 Zatella Lane,Athens,30606,Clarke,Adults 18+,UGA,-83.35244,33.95824,,"200 Zatella Lane,Athens,GA,30606",10
+1,3/23/2018,"FT, FTBU, FeT, FTFM, Outreach",Athens Neighborhood Health Center,402,402 McKinley Drive,Athens,30601,Clarke,Adults 18+,UGA,-83.35471,33.95851,,"402 McKinley Drive,Athens,GA,30601",10
+2,1/1/2018,WIC Clinic,Oglethorpe County Health Department,305,Union Point Rd.,Lexington,30648,Oglethorpe,Adults,Open Hand Atlanta,-83.11951,33.87031,rooftop,"305 Union Point Rd.,Lexington,GA,30648",10
+2,1/1/2018,"Cooking Matters for Teens, Kids",Strong4Life- Camp Twin Lakes,210,"S. Broad Street, Unit 5",Winder,30680,Clarke,Teens and Kids,Open Hand Atlanta,-83.73363,33.98483,,"210 S. Broad Street, Unit 5,Winder,GA,30680",10
+3,1/1/2018,Middle School,TJ Elder  Middle School,902,902 Linton Rd,Sandersville,31082,Washington,8-Jun,HealthMPowers,-82.81614,33.00281,rooftop,"902 Linton Rd,Sandersville,GA,31082",10
+3,1/1/2018,Elem,Eagle Ridge (3-5),220,Abc Dr,Milledgeville,31061,Baldwin,5-Mar,HealthMPowers,-83.26568,33.08858,bing,"220 Abc Dr,Milledgeville,GA,31061",10
+3,1/1/2018,Middle School,Oak Hill Middle School,356,Blandy Rd NW,Milledgeville,31061,Baldwin,8-Jun,HealthMPowers,-83.26674,33.08344,rooftop,"356 Blandy Rd NW,Milledgeville,GA,31061",10
+3,1/1/2018,Elem,Creekside (K-2),372,Blandy Rd NW,Milledgeville,31061,Baldwin,K-2,HealthMPowers,-83.26932,33.08102,rooftop,"372 Blandy Rd NW,Milledgeville,GA,31061",10
+3,1/1/2018,Elem,Blandy Hills (K-2),375,Blandy Rd NW,Milledgeville,31061,Baldwin,K-2,HealthMPowers,-83.26837,33.08656,range_interpolated,"375 Blandy Rd NW,Milledgeville,GA,31061",10
+3,1/1/2018,Elem,Wilkes Primary,910,E Robert Toombs Ave,Washington,30673,Wilkes,K-3,HealthMPowers,-82.7201,33.72888,rooftop,"910 E Robert Toombs Ave,Washington,GA,30673",10
+3,1/1/2018,Elem,Midway,101,Carl Vinson Rd,Milledgeville,31061,Baldwin,K-5,HealthMPowers,-83.22783,33.01927,rooftop,"101 Carl Vinson Rd,Milledgeville,GA,31061",10
+3,1/1/2018,Food Retail,Dollar General,605,E. McCarty St,Sandersville,31082,Washington,Adults 18+,HealthMPowers,-82.80037,32.98898,rooftop,"605 E. McCarty St,Sandersville,GA,31082",10
+3,1/1/2018,Elem,Wilkes ES,109,East St,Washington,30673,Wilkes,5-Apr,HealthMPowers,-82.72496,33.73458,rooftop,"109 East St,Washington,GA,30673",10
+3,1/1/2018,Food Retail,Dollar General,102,Robins Drive Rd,Milledgeville,31061,Baldwin,Adults 18+,HealthMPowers,-83.16604,33.08099,rooftop,"102 Robins Drive Rd,Milledgeville,GA,31061",10
+3,1/1/2018,Child Care,Davisboro Center,216,Steel Circle,Davisboro,31018,Washington,5 yrs >,HealthMPowers,-82.61122,32.9719,rooftop,"216 Steel Circle,Davisboro,GA,31018",10
+3,1/1/2018,Food Retail,Dollar General,2622,Irwinton Rd,Milledgeville,31061,Baldwin,Adults 18+,HealthMPowers,-83.23487,33.03803,rooftop,"2622 Irwinton Rd,Milledgeville,GA,31061",10
+3,1/1/2018,Child Care,Sandersville Center,815,Jordan Mill Rd.,Sandersville,31082,Washington,5 yrs >,HealthMPowers,-82.79186,32.9909,rooftop,"815 Jordan Mill Rd.,Sandersville,GA,31082",10
+3,1/1/2018,Elem,Ridge Road Elementary,285,Ridge Rd.,Sandersville,31082,Washington,5-Mar,HealthMPowers,-82.78821,32.96823,rooftop,"285 Ridge Rd.,Sandersville,GA,31082",10
+3,1/1/2018,Elem,Ridge Road Primary,285,Ridge Rd.,Sandersville,31082,Washington,K-2,HealthMPowers,-82.78821,32.96823,rooftop,"285 Ridge Rd.,Sandersville,GA,31082",10
+3,1/1/2018,Child Care,Wilkes County Center,115,Lincoln,Washington,30673,Wilkes,5 yrs >,HealthMPowers,-82.76354,33.74126,range_interpolated,"115 Lincoln,Washington,GA,30673",10
+3,1/1/2018,Food Retail,Market Place,821,N. Columbia St,Milledgeville,31061,Baldwin,Adults 18+,HealthMPowers,-83.23618,33.09014,rooftop,"821 N. Columbia St,Milledgeville,GA,31061",10
+3,1/1/2018,Child Care,Butts County Head Start/EHS,565,Recreation Drive,Jackson,30233,Butts,5 yrs >,HealthMPowers,-83.9465,33.30094,rooftop,"565 Recreation Drive,Jackson,GA,30233",10
+3,1/1/2018,Child Care,Johnson County Center,80,Oglethorpe Street,Wrightsville,31096,Johnson,5 yrs >,HealthMPowers,-82.72389,32.72071,rooftop,"80 Oglethorpe Street,Wrightsville,GA,31096",10
+3,1/1/2018,Elem,Oglethorpe Avenue ES,1150,Oglethorpe Avenue,Athens,30606,Clarke,K-5,HealthMPowers,-83.42263,33.96337,rooftop,"1150 Oglethorpe Avenue,Athens,GA,30606",10
+3,1/1/2018,Food Retail,Dollar General,207,Roberson Mill Rd NE,Milledgeville,31061,Baldwin,Adults 18+,HealthMPowers,-83.26034,33.0975,rooftop,"207 Roberson Mill Rd NE,Milledgeville,GA,31061",10
+3,1/1/2018,Food Retail,Dollar General,831,S. Elbert St,Milledgeville,31061,Baldwin,Adults 18+,HealthMPowers,-83.22121,33.07048,rooftop,"831 S. Elbert St,Milledgeville,GA,31061",10
+3,1/1/2018,Food Retail,Dollar General,612,S. Harris St,Sandersville,31082,Washington,Adults 18+,HealthMPowers,-82.81041,32.97326,rooftop,"612 S. Harris St,Sandersville,GA,31082",10
+3,1/1/2018,Middle School,Glascock County Consolidated School (5-8),1230,Panther Way,Gibson,30810,Glascock,K-5,HealthMPowers,-82.61141,33.24182,rooftop,"1230 Panther Way,Gibson,GA,30810",10
+3,1/1/2018,High School,Glascock County Consolidated School (8-12),1230,Panther Way,Gibson,30810,Glascock,K-5,HealthMPowers,-82.61141,33.24182,rooftop,"1230 Panther Way,Gibson,GA,30810",10
+3,1/1/2018,Child Care,Glascock Head Start,1079,School Circle,Gibson,30810,Glascock,5 yrs >,HealthMPowers,-82.60817,33.24313,rooftop,"1079 School Circle,Gibson,GA,30810",10
+3,1/1/2018,Elem,Glascock County Consolidated School (K-5),1230,Panther Way,Gibson,30810,Glascock,K-5,HealthMPowers,-82.61141,33.24182,rooftop,"1230 Panther Way,Gibson,GA,30810",10
+3,1/1/2018,Food Retail,Milledgeville Food and Beverage,1431,W Hancock St,Milledgeville,31061,Baldwin,Adults 18+,HealthMPowers,-83.24785,33.0747,rooftop,"1431 W Hancock St,Milledgeville,GA,31061",10
+3,1/1/2018,High School,Hancock Central HS,11311,GA Highway 15,Sparta,31087,Hancock,12-Sep,HealthMPowers,-82.97102,33.30062,rooftop,"11311 GA Highway 15,Sparta,GA,31087",10
+3,1/1/2018,Middle School,Hancock Central MS,11311,Ga Highway 15,Sparta,31087,Hancock,8-Jun,HealthMPowers,-82.97102,33.30062,rooftop,"11311 Ga Highway 15,Sparta,GA,31087",10
+3,1/1/2018,Child Care,Easter Seals Walton,832,Georgia Highway 11 South,Monroe,30655,Walton,< 5yrs,HealthMPowers,-83.70055,33.76868,rooftop,"832 Georgia Highway 11 South,Monroe,GA,30655",10
+3,1/1/2018,Child Care,Easter Seals Winder,37,South Center Street,Winder,30680,Barrow,< 5yrs,HealthMPowers,-83.72648,33.9905,rooftop,"37 South Center Street,Winder,GA,30680",10
+3,1/1/2018,Food Retail,The Green Market (Farmers Market),222,E Hancock St,Milledgeville,31061,Baldwin,Adults 18+,HealthMPowers,-83.22457,33.0821,rooftop,"222 E Hancock St,Milledgeville,GA,31061",10
+3,1/1/2018,Food Retail,Dollar General,487,GA-15,Tennille,31089,Washington,Adults 18+,HealthMPowers,-82.80576,32.93144,rooftop,"487 GA-15,Tennille,GA,31089",10
+3,1/1/2018,Food Retail,S&T Food Mart,1356,S Harris St,Sandersville,31082,Washington,Adults 18+,HealthMPowers,-82.80921,32.94771,rooftop,"1356 S Harris St,Sandersville,GA,31082",10
+3,1/1/2018,Food Retail,Hometown Market and Meat LLC,115,Warren St,Gibson,30810,Glascock,Adults 18+,HealthMPowers,-82.59534,33.23865,,"115 Warren St,Gibson,GA,30810",10
+3,1/1/2018,Food Retail,Rocky's Food Mart,9111,E Broad St,Sparta,31087,Hancock,Adults 18+,HealthMPowers,-82.96727,33.27439,,"9111 E Broad St,Sparta,GA,31087",10
+3,1/1/2018,Food Retail,Exxon Food Mart,12820,E Broad St,Sparta,31087,Hancock,Adults 18+,HealthMPowers,-82.96591,33.27324,,"12820 E Broad St,Sparta,GA,31087",10
+3,3/29/2018,Food Retail,Dollar General,116,Warran St,Gibson,30810,Glascock,Adults 18+,HealthMPowers,-82.59482,33.23538,,"116 Warran St,Gibson,GA,30810",10
+3,3/29/2018,Food Retail,Dollar General,9632,Jones St,Sparta,31087,Hancock,Adults 18+,HealthMPowers,-82.97616,33.27821,,"9632 Jones St,Sparta,GA,31087",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Baldwin County Extension,320,Linda Drive NE,Milledgeville,31061,Baldwin,10,UGA,-83.22961,33.10119,,"320 Linda Drive NE,Milledgeville,GA,31061",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Barrow County Extension,90,Lanthier Street,Winder,30680,Barrow,10,UGA,-83.72311,33.98607,,"90 Lanthier Street,Winder,GA,30680",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Clarke County Extension,2152,West Broad Street,Athens,30606,Clarke,10,UGA,-83.407,33.95088,,"2152 West Broad Street,Athens,GA,30606",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Glascock County Extension,676,W. Main St.,Gibson,30810,Glascock,10,UGA,-82.59973,33.23339,,"676 W. Main St.,Gibson,GA,30810",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Hancock County Extension,12534,Augusta Hwy,Sparta,31087,Hancock,10,UGA,-82.96667,33.27741,,"12534 Augusta Hwy,Sparta,GA,31087",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Jefferson County Extension,2529,US Hwy. #1 North,Louisville,30434,Jefferson,10,UGA,-82.40516,33.02412,,"2529 US Hwy. #1 North,Louisville,GA,30434",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Johnson County Extension,239,Trojan Way,Wrightsville,31096,Johnson,10,UGA,-82.72965,32.72558,,"239 Trojan Way,Wrightsville,GA,31096",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Lincoln County Extension,288,N. Peachtree St.,Lincolnton,30817,Lincoln,10,UGA,-82.4774,33.79737,,"288 N. Peachtree St.,Lincolnton,GA,30817",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",McDuffie County Extension,377,"Main St., Rm. 108",Thomson,30824,McDuffie,10,UGA,-82.50481,33.47008,,"377 Main St., Rm. 108,Thomson,GA,30824",10
+1,5/10/2018,"FT, FTBU, FeT, FTFM, Outreach",Walton County Extension,100,North Broad St.,Monroe,30655,Walton,10,UGA,-83.7129,33.79497,,"100 North Broad St.,Monroe,GA,30655",10
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Greene County Extension,1180,"Weldon Smith Drive, Suite 110",Greensboro,30642,Greene,10,UGA,-83.1934,33.56613,,"1180 Weldon Smith Drive, Suite 110,Greensboro,GA,30642",10
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Jasper County Extension,162,North Warren Street,Monticello,31064,Jasper,10,UGA,-83.68285,33.30537,,"162 North Warren Street,Monticello,GA,31064",10
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Morgan County Extension,440,Hancock Street,Madison,30650,Morgan,10,UGA,-83.46506,33.59691,,"440 Hancock Street,Madison,GA,30650",10
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Putnam County Extension,663,"Godfrey Rd., Suite 101",Eatonton,31024,Putnam,10,UGA,-83.40318,33.32938,,"663 Godfrey Rd., Suite 101,Eatonton,GA,31024",10
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Warren County Extension,48,Warren St.,Warrenton,30828,Warren,10,UGA,-82.66186,33.40801,,"48 Warren St.,Warrenton,GA,30828",10
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Wilkes County Extension,23,Court Street,Washington,30673,Wilkes,10,UGA,-82.73901,33.73818,,"23 Court Street,Washington,GA,30673",10
+1,1/1/2018,"Food Talk, Food Talk: Better U",DeKalb/Atlanta Senior Center,25,Warren St.,Atlanta,30317,DeKalb,Adults 18+,UGA,-84.3268,33.75279,rooftop,"25 Warren St.,Atlanta,GA,30317",5
+1,1/1/2018,"Food Talk, Food Talk: Better U, Food Talk: Farmers Market",Adams Park Library,2231,"Cambelton Rd., SW",Atlanta,30311,Fulton,Adults 18+,UGA,-84.46168,33.70569,rooftop,"2231 Cambelton Rd., SW,Atlanta,GA,30311",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",Senior Connection,1931,Candler Rd.,Decatur,30032,DeKalb,Adults 18+,UGA,-84.28622,33.73427,rooftop,"1931 Candler Rd.,Decatur,GA,30032",5
+1,1/1/2018,"Food Talk, Food Talk: Better U, Food Talk: Farmers Market",Exchange Recreation Center,2771,Columbia Dr.,Decatur,30034,DeKalb,Adults 18+,UGA,-84.25375,33.70742,rooftop,"2771 Columbia Dr.,Decatur,GA,30034",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",Haven G5,967,Dewey St.,Atlanta,30310,Fulton,Adults 18+,UGA,-84.40752,33.72842,rooftop,"967 Dewey St.,Atlanta,GA,30310",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",Dogwood Seniors,1838,Donald Lee Hollowell Pkwy NW,Atlanta,30318,Fulton,Adults 18+,UGA,-84.44704,33.77404,rooftop,"1838 Donald Lee Hollowell Pkwy NW,Atlanta,GA,30318",5
+1,1/1/2018,"Food Talk, Food Talk:Better U, Food Talk:Farmers Market",Morrow Library,6225,Maddox Rd.,Morrow,30260,Clayton,Adults 18+,UGA,-84.31412,33.58499,rooftop,"6225 Maddox Rd.,Morrow,GA,30260",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",Salvation Army,469,Marietta St.,Atlanta,30313,Fulton,Adults 18+,UGA,-84.39698,33.76569,rooftop,"469 Marietta St.,Atlanta,GA,30313",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",Adamsville Senior Center,3537,"Martin Luther King, Jr.Dr.",Atlanta,30331,Fulton,Adults 18+,UGA,-84.50264,33.75905,rooftop,"3537 Martin Luther King, Jr.Dr.,Atlanta,GA,30331",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",Essence of Hope,2031,Metropolitan Pwky. SW,Atlanta,30315,Fulton,Adults 18+,UGA,-84.4082,33.69875,rooftop,"2031 Metropolitan Pwky. SW,Atlanta,GA,30315",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",DeKalb Court,556,N. McDonough St.,Decatur,30030,DeKalb,Adults 18+,UGA,-84.29722,33.77407,rooftop,"556 N. McDonough St.,Decatur,GA,30030",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",Matthew's Place,565,Larkin St.,Atlanta,30313,Fulton,Adults 18+,UGA,-84.40521,33.74801,range_interpolated,"565 Larkin St.,Atlanta,GA,30313",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",New Horizons,745,Orr St.,Atlanta,30314,Fulton,Adults 18+,UGA,-84.41168,33.76264,rooftop,"745 Orr St.,Atlanta,GA,30314",5
+1,1/1/2018,Housing Services,The Gardens Apartments,899,Park St.,Atlanta,30310,Fulton,Adults 18+,UGA,-84.41721,33.74224,rooftop,"899 Park St.,Atlanta,GA,30310",5
+1,1/1/2018,"Food Talk, Food Talk:Better U",Clayton Community Services Authority,1000,Main St.,Forest Park,30297,Clayton,Adults 18+,UGA,-84.3574,33.62057,rooftop,"1000 Main St.,Forest Park,GA,30297",5
+1,1/1/2018,"Food Talk, Food Talk:Better U",Clayton County Service Authority/Food Pantry,1000,Main St.,Forest Park,30297,Clayton,Adults 18+,UGA,-84.3574,33.62057,rooftop,"1000 Main St.,Forest Park,GA,30297",5
+1,1/1/2018,"Food Talk, Food Talk: Better U",Veranda at Carver,217,Thirkield Ave.,Atlanta,30315,Fulton,Adults 18+,UGA,-84.38331,33.71489,range_interpolated,"217 Thirkield Ave.,Atlanta,GA,30315",5
+1,1/1/2018,"Food Talk, Food Talk:Better U. Food Talk: Farmers Market",Forest Park Library,4812,West St.,Forest Park,30297,Clayton,Adults 18+,UGA,-84.36787,33.62311,rooftop,"4812 West St.,Forest Park,GA,30297",5
+1,1/1/2018,Food Talk and Food Talk: Better U,Atlanta Habitat for Humanity,824,Memorial Dr SE,Atlanta,30316,Fulton,Adults 18+,UGA,-84.36075,33.74678,rooftop,"824 Memorial Dr SE,Atlanta,GA,30316",5
+1,1/1/2018,Food Talk and Food Talk: Better U,Atlanta Habitat for Humanity,824,Memorial Dr SE,Atlanta,30316,Fulton,Adults 18+,UGA,-84.36028,33.7471,rooftop,"824 Memorial Dr SE,Atlanta,GA,30316",5
+1,1/1/2018,Outreach Event,Fall Festival,3499,Rex Rd,Rex,30273,Clayton,Adults 18+,UGA,-84.27673,33.5893,rooftop,"3499 Rex Rd,Rex,GA,30273",5
+1,1/1/2018,Outreach Event,Greater Bethany Baptist Church,786,Thurmond St,Atlanta,30314,Fulton,Adults 18+,UGA,-84.41314,33.76025,rooftop,"786 Thurmond St,Atlanta,GA,30314",5
+1,1/1/2018,Outreach Event,Greater Bethany Baptist Church,786,Thurmond St,Atlanta,30314,Fulton,Adults 18+,UGA,-84.41314,33.76025,rooftop,"786 Thurmond St,Atlanta,GA,30314",5
+1,1/1/2018,Outreach Event,Greater Bethany Baptist Church,786,Thurmond St,Atlanta,30314,Fulton,Adults 18+,UGA,-84.41314,33.76025,rooftop,"786 Thurmond St,Atlanta,GA,30314",5
+1,1/1/2018,Outreach Event,Greater Bethany Baptist Church,786,Thurmond St,Atlanta,30314,Fulton,Adults 18+,UGA,-84.41314,33.76025,rooftop,"786 Thurmond St,Atlanta,GA,30314",5
+1,1/1/2018,Food Talk and Food Talk: Better U,The Kindezi School West,286,Wilson Mill Rd,Atlanta,30331,Fulton,Adults 18+,UGA,-84.51355,33.75479,rooftop,"286 Wilson Mill Rd,Atlanta,GA,30331",5
+1,1/1/2018,FTFM,Greater Works Missionary Baptist Church/Food Pantry,295,Morrow Rd,Forest Park,30297,Clayton,Adults 18+,UGA,-84.38049,33.59122,rooftop,"295 Morrow Rd,Forest Park,GA,30297",5
+1,1/1/2018,"FT,FTBU,FTFM Outreach",Cam Fulton/Truitt 4-H Center,4300,Hershel Road,College Park,30337,Fulton,Adults 18+,UGA,-84.47228,33.63836,rooftop,"4300 Hershel Road,College Park,GA,30337",5
+1,1/1/2018,,Our House,173,Boulevard,Atlanta,30312,Fulton,Adults 18+,UGA,-84.37171,33.75914,rooftop,"173 Boulevard,Atlanta,GA,30312",5
+1,1/1/2018,,The Good Samaritan,1015,Donald Lee Holowell PKWY,Atlanta,30318,Fulton,Adults 18+,UGA,-84.42065,33.77363,rooftop,"1015 Donald Lee Holowell PKWY,Atlanta,GA,30318",5
+1,1/1/2018,Outreach,Gresham Library,2418,2418 Gresham Road SE,Atlanta,30316,DeKalb,Adults 18+,UGA,-84.30979,33.71813,rooftop,"2418 Gresham Road SE,Atlanta,GA,30316",5
+1,1/1/2018,Outreach,Flat Shoals Library,4022,Flat Shoals Pkwy.,Decatur,30034,DeKalb,Adults 18+,UGA,-84.25826,33.69139,rooftop,"4022 Flat Shoals Pkwy.,Decatur,GA,30034",5
+1,1/1/2018,Outreach,Decatur Library,215,Sycamore St,Decatur,30030,DeKalb,Adults 18+,UGA,-84.29404,33.77416,rooftop,"215 Sycamore St,Decatur,GA,30030",5
+1,1/1/2018,Outreach,Scott Candler Library,1917,Candler Rd.,Decatur,30032,DeKalb,Adults 18+,UGA,-84.28608,33.73464,rooftop,"1917 Candler Rd.,Decatur,GA,30032",5
+1,1/1/2018,"FT, FTBU, FTFM, Outreach",Caring Works,4035,"Seven Oak Lane, Apt C",East Point,30344,Fulton,Adults 18+,UGA,-84.49101,33.64494,rooftop,"4035 Seven Oak Lane, Apt C,East Point,GA,30344",5
+1,1/1/2018,"FT, Outreach",Sheltering Arms-East Lake Center,350,East Lake Boulevard,Atlanta,30317,DeKalb,Adults 18+,UGA,-84.31364,33.74184,,"350 East Lake Boulevard,Atlanta,GA,30317",5
+1,1/1/2018,Outreach Event,Greater Bethany Baptist Church,786,Thurmond St,Atlanta,30314,Fulton,Adults 18+,UGA,-84.41314,33.76025,rooftop,"786 Thurmond St,Atlanta,GA,30314",5
+1,1/1/2018,Outreach Event,Greater Bethany Baptist Church,786,Thurmond St,Atlanta,30314,Fulton,Adults 18+,UGA,-84.41314,33.76025,rooftop,"786 Thurmond St,Atlanta,GA,30314",5
+1,1/1/2018,Outreach Event,Greater Bethany Baptist Church,786,Thurmond St,Atlanta,30314,Fulton,Adults 18+,UGA,-84.41314,33.76025,rooftop,"786 Thurmond St,Atlanta,GA,30314",5
+1,1/1/2018,Outreach Event,Greater Bethany Baptist Church,786,Thurmond St,Atlanta,30314,Fulton,Adults 18+,UGA,-84.41314,33.76025,rooftop,"786 Thurmond St,Atlanta,GA,30314",5
+1,1/1/2018,Outreach,East Point Mobile Homes,2848,2848 Veterans Street,East Point,30344,Fulton,Adults 18+,UGA,-84.42907,33.67755,,"2848 Veterans Street,East Point,GA,30344",5
+1,1/1/2018,Outreach,Hurd Homes,3022,3022 Randell St,East Point,30344,Fulton,Adults 18+,UGA,-84.43355,33.67278,,"3022 Randell St,East Point,GA,30344",5
+1,1/1/2018,Outreach,Longview Mobil Home Park,9,9 Longview Drive,Atlanta,30344,Fulton,Adults 18+,UGA,-84.42765,33.67758,,"9 Longview Drive,Atlanta,GA,30344",5
+1,1/1/2018,Outreach,East Point Housing,3047,3047 John Freeman Way,East Point,30344,Fulton,Adults 18+,UGA,-84.42517,33.67222,,"3047 John Freeman Way,East Point,GA,30344",5
+1,4/17/2018,"FT, FTBU, Outreach",The Gardens Apartments,1870,Campbellton Rd,Atlanta,30311,Fulton,,UGA,-84.44848,33.70741,,"1870 Campbellton Rd,Atlanta,GA,30311",5
+1,4/17/2018,"FT, FTBU, Outreach",The Society of St. Vincent de Paul Georgia,1700,Lakewood Avenue SE,Atlanta,30315,Fulton,,UGA,-84.37972,33.70775,,"1700 Lakewood Avenue SE,Atlanta,GA,30315",5
+1,5/7/2018,"FTFM, Outreach",Shrine of the Black Madonna,946,Ralph David Abernathy Boulevard,Atlanta,30310,Fulton,5,UGA,-84.4187,33.73779,,"946 Ralph David Abernathy Boulevard,Atlanta,GA,30310",5
+1,5/7/2018,"FTFM, Outreach",Berean Seventh Day Adventist Church,291,Hamilton E. Holmes Drive,Atlanta,30331,Fulton,5,UGA,-84.46953,33.76303,,"291 Hamilton E. Holmes Drive,Atlanta,GA,30331",5
+1,5/7/2018,"FTFM, Outreach",Mt. Vernon Baptist Church,815,Lynhurst Drive,Atlanta ,30311,Fulton,5,UGA,-84.48931,33.73369,,"815 Lynhurst Drive,Atlanta ,GA,30311",5
+1,5/7/2018,"FTFM, Outreach",Allen Temple AME Church,1625,Simpson Road,Atlanta,30314,Fulton,5,UGA,-84.44192,33.76423,,"1625 Simpson Road,Atlanta,GA,30314",5
+1,5/7/2018,"FTFM, Outreach",Quest Community Development ,878,Rock Street,Atlanta,30314,Fulton,5,UGA,-84.41626,33.76196,,"878 Rock Street,Atlanta,GA,30314",5
+1,5/7/2018,"FTFM, Outreach",Hillside International Truth Center,2450,Cascade Road,Atlanta,30311,Fulton,5,UGA,-84.49774,33.7221,,"2450 Cascade Road,Atlanta,GA,30311",5
+1,5/7/2018,"FTFM, Outreach",St. Mark AME Church,3605,Campbellton Road,Atlanta,30331,Fulton,5,UGA,-84.50673,33.69077,,"3605 Campbellton Road,Atlanta,GA,30331",5
+1,5/7/2018,"FTFM, Outreach",Barge Road Senior Highrise,2440,Barge Road,Atlanta,30331,Fulton,5,UGA,-84.50579,33.68842,,"2440 Barge Road,Atlanta,GA,30331",5
+2,1/1/2018,,MLK Collaborative Community Resource Complex,101,101 Jackson St NE,Atlanta,30312,Fulton,kids -elementary age,Open Hand Atlanta,-84.37396,33.75675,,"101 Jackson St NE,Atlanta,GA,30312",5
+2,1/1/2018,,CHRIS Kids,1017,Fayetville Road SE,Atlanta,30316,Fulton,Aging teens and adults 18+,Open Hand Atlanta,-84.32197,33.72663,rooftop,"1017 Fayetville Road SE,Atlanta,GA,30316",5
+2,1/1/2018,,Emmaus House,1017,"1017 Hank Aaron Drive, SW ",Atlanta,30315-1705,Fulton,Teens 14-18,Open Hand Atlanta,-84.38826,33.7268,rooftop,"1017 Hank Aaron Drive, SW ,Atlanta,GA,30315-1705",5
+2,1/1/2018,,Mental Fitness,1820,"1820 Henry Thomas Dr SE, Atlanta, GA 30315",Atlanta,30315,Fulton,kids,Open Hand Atlanta,-84.35579,33.70392,range_interpolated,"1820 Henry Thomas Dr SE, Atlanta, GA 30315,Atlanta,GA,30315",5
+2,1/1/2018,,Boulevard Coop,386,Pine St NE,Atlanta,30308,Fulton,Adults 18+,Open Hand Atlanta,-84.37459,33.76824,rooftop,"386 Pine St NE,Atlanta,GA,30308",5
+2,1/1/2018,,Well Spring Living Carver,1600,Pryor Rd SW,Atlanta,30315,Fulton,Adults 18+,Open Hand Atlanta,-84.39297,33.71053,rooftop,"1600 Pryor Rd SW,Atlanta,GA,30315",5
+2,1/1/2018,,Intown Collaborative Ministries,1026,Ponce de Leon,Atlanta,30306,Fulton,Adults 18+,Open Hand Atlanta,-84.35463,33.77419,rooftop,"1026 Ponce de Leon,Atlanta,GA,30306",5
+2,1/1/2018,,Wayfield Food,3050,MLK Blvd,Atlanta,30311,Fulton,Adults 18+,Open Hand Atlanta,-84.48643,33.7517,rooftop,"3050 MLK Blvd,Atlanta,GA,30311",5
+2,1/1/2018,,East Point Farmer Market,2757,East Point St,East Point,30344,Fulton,Adults 18+,Open Hand Atlanta,-84.44069,33.68036,rooftop,"2757 East Point St,East Point,GA,30344",5
+2,1/1/2018,,Urban Recipe,645,Grant Street,Atlanta,30312,Fulton,Adults 18+,Open Hand Atlanta,-84.37672,33.73696,rooftop,"645 Grant Street,Atlanta,GA,30312",5
+2,1/1/2018,,Quest Community Development,879,Rock Street,Atlanta,30314,Fulton,Adults 18+,Open Hand Atlanta,-84.41624,33.76251,rooftop,"879 Rock Street,Atlanta,GA,30314",5
+2,1/1/2018,,Raising Expectations,225,James P Brawley Dr NW,Atlanta,30314,Fulton,Teens 14-18,Open Hand Atlanta,-84.4123,33.76102,rooftop,"225 James P Brawley Dr NW,Atlanta,GA,30314",5
+2,1/1/2018,,Veterans Empowerment Organization,373,373 West Lake Ave. NW,Atlanta,30318,Fulton,"Individuals, Families",Open Hand Atlanta,-84.44099,33.76563,range_interpolated,"373 West Lake Ave. NW,Atlanta,GA,30318",5
+2,1/1/2018,,Caring Works,275,275 Washington St,Atlanta,30303,Fulton,Adults 18+,Open Hand Atlanta,-84.3911,33.74728,,"275 Washington St,Atlanta,GA,30303",5
+2,1/1/2018,,Operation Peace,542,542 Boulevard NE,Atlanta,30308,Fulton,Teens 14-18,Open Hand Atlanta,-84.37221,33.76909,,"542 Boulevard NE,Atlanta,GA,30308",5
+2,1/1/2018,,Allegre Point with Mercy Housing,3391,3391 Flat Shoals Road,Decatur,30032,DeKalb,Seniors,Open Hand Atlanta,-84.27549,33.70445,,"3391 Flat Shoals Road,Decatur,GA,30032",5
+2,1/1/2018,,Making a Way House,377,Weschester Boulevard,Atlanta,30314,Fulton,Adults,Open Hand Atlanta,-84.45262,33.76552,rooftop,"377 Weschester Boulevard,Atlanta,GA,30314",5
+2,1/1/2018,,Atlanta Neighborhood Development Partnership at DeLowe Village Housing Project,2360,Delowe Dr,East Point,30344,Fulton,families,Open Hand Atlanta,-84.4569,33.69061,rooftop,"2360 Delowe Dr,East Point,GA,30344",5
+2,1/1/2018,,Center for Working Families,477,Windsor St SW,Atlanta,30312,Fulton,families,Open Hand Atlanta,-84.39971,33.74137,rooftop,"477 Windsor St SW,Atlanta,GA,30312",5
+2,1/1/2018,,Enough to Share Food Pantry- Atlanta Masjid,560,Fayetteville Rd,Atlanta,30315,Fulton,Adults,Open Hand Atlanta,-84.31073,33.73845,rooftop,"560 Fayetteville Rd,Atlanta,GA,30315",5
+2,1/1/2018,,Latin American Association- Family Services Program,2750,2750 Buford Hwy NE,Atlanta,30324,DeKalb/Fulton,Families,Open Hand Atlanta,-84.34607,33.82902,,"2750 Buford Hwy NE,Atlanta,GA,30324",5
+2,1/1/2018,,College Park Housing Authority,2000,Princeton Ave,College Park,30337,Fulton,Adults,Open Hand Atlanta,-84.45428,33.65474,range_interpolated,"2000 Princeton Ave,College Park,GA,30337",5
+2,1/1/2018,,Covenant House Georgia,1559,Johnson Rd. NW,Atlanta,30318,Fulton,teens,Open Hand Atlanta,-84.43799,33.78823,rooftop,"1559 Johnson Rd. NW,Atlanta,GA,30318",5
+2,1/1/2018,Cooking Matters for Adults,Columbia Senior Residences at Edgewood,1281,Caroline Street NE,Atlanta,30307,Fulton,Adults,Open Hand Atlanta,-84.34549,33.75738,rooftop,"1281 Caroline Street NE,Atlanta,GA,30307",5
+2,1/1/2018,Cooking Matters for Adults,Columbia Senior Residences at High Point,220,Bowen Circle SW,Atlanta,30315,Fulton,Adults,Open Hand Atlanta,-84.39571,33.71495,rooftop,"220 Bowen Circle SW,Atlanta,GA,30315",5
+2,1/1/2018,Cooking Matters for Adults,Tretletree Village Apartments,956,Confederate Court SE,Atlanta,30312,Fulton,Adults,Open Hand Atlanta,-84.36217,33.72823,range_interpolated,"956 Confederate Court SE,Atlanta,GA,30312",5
+2,1/1/2018,"Cooking Matters for Adults, ACFB Partnership",Community Friendship,85,Renaissance Pkwy,Atlanta,30308,Fulton,Adults,Open Hand Atlanta,-84.3846,33.7684,rooftop,"85 Renaissance Pkwy,Atlanta,GA,30308",5
+2,1/1/2018,"Cooking Matters for Adults, Teens and Kids",Woodward Elementary,3034,Curtis Drive,Atlanta,30319,DeKalb,"Adults, Teens, Kids",Open Hand Atlanta,-84.33714,33.84134,rooftop,"3034 Curtis Drive,Atlanta,GA,30319",5
+2,1/1/2018,"Section 8 Housing,  100% of residents fall within HUDs definition of low income, CFSP site",Asbury Harris Towers,3033,Continental Colony Parkway,Atlanta,30331,Fulton,"Adults, Families",Open Hand Atlanta,-84.49485,33.6827,rooftop,"3033 Continental Colony Parkway,Atlanta,GA,30331",5
+2,1/1/2018,"CFSP Site, Senior Living Community , Section 8 Housing",Calvin Courts,479,E. Paces Ferry Road N.E.,Atlanta,30305,Fulton,Adults,Open Hand Atlanta,-84.3719,33.83788,rooftop,"479 E. Paces Ferry Road N.E.,Atlanta,GA,30305",5
+2,1/1/2018,,Blackshear- Columbia Residential,14,Meldon Avenue SW,Atlanta,30315,Fulton,"Adults, Families",Open Hand Atlanta,-84.38255,33.71125,rooftop,"14 Meldon Avenue SW,Atlanta,GA,30315",5
+2,1/1/2018,,Hollis innovation academy,225,James P Brawley Dr NW,Atlanta,30314,Fulton,Kids,Open Hand Atlanta,-84.4123,33.76102,rooftop,"225 James P Brawley Dr NW,Atlanta,GA,30314",5
+2,1/1/2018,"Cooking Matters for Teens, ACFB Partnership","COACHES-RYSE Program, Families First",80,Joseph E. Lowery Blvd. NW,Atlanta,30314,Fulton,Teens,Open Hand Atlanta,-84.41789,33.75704,rooftop,"80 Joseph E. Lowery Blvd. NW,Atlanta,GA,30314",5
+2,1/1/2018,,High Tower Manor - Atlanta Housing Authority,2610,Martin Luther King Jr. Dr SW,Atlanta,30311,Fulton,Adults,Open Hand Atlanta,-84.47281,33.75162,rooftop,"2610 Martin Luther King Jr. Dr SW,Atlanta,GA,30311",5
+2,1/1/2018,Cooking Matters for Adults,Norman Berry Village,2840,Norman Berry Dr.,East Point,303344,Fulton,Adults,Open Hand Atlanta,-84.4254,33.67427,,"2840 Norman Berry Dr.,East Point,GA,303344",5
+2,1/1/2018,"Cooking Matters for Adults, Teens and Kids",Decatur Cooperative Minitries,115,Church St.,Decatur,30030,DeKalb,"Adults, Teens, Kids",Open Hand Atlanta,-84.29463,33.77119,,"115 Church St.,Decatur,GA,30030",5
+2,1/1/2018,"Cooking Matters for Kids, Teens and Adults",East Lake Foundation,460,East Lake Blvd SE,Atlanta,30317,DeKalb,"Adults, Teens, Kids",Open Hand Atlanta,-84.31308,33.74074,,"460 East Lake Blvd SE,Atlanta,GA,30317",5
+2,1/1/2018,Cooking Matters for Adults,East Lake YMCA- Active Senior Group,275,East LakeBlvd SE,Atlanta,30317,DeKalb,Adults,Open Hand Atlanta,-84.31483,33.74606,,"275 East LakeBlvd SE,Atlanta,GA,30317",5
+2,1/1/2018,"Cooking Matters for Teens, Kids",Summerhill Community Ministries,521,Kelly Street,Atlanta,30312,Fulton,Teens and Kids,Open Hand Atlanta,-84.38078,33.74044,,"521 Kelly Street,Atlanta,GA,30312",5
+2,1/1/2018,"Cooking Matters for Kids, Adults and Teens","The Family Health Center of Georgia, Inc.",868,"York Avenue, SW",Atlanta,30310,Fulton,,Open Hand Atlanta,-84.41637,33.7368,,"868 York Avenue, SW,Atlanta,GA,30310",5
+2,1/1/2018,Cooking Matters for Adults (FVRx),FVRx Site 1-Big Bethel AME Church,220,Auburn Ave. NE,Atlanta,30303,Fulton,,Open Hand Atlanta,-84.38053,33.75583,,"220 Auburn Ave. NE,Atlanta,GA,30303",5
+2,1/1/2018,Cooking Matters for Adults (FVRx),FVRx Site 2-Atlanta Community Food Bank,732,Joseph E. Lowery Blvd. NW,Atlanta,30318,Fulton,,Open Hand Atlanta,-84.41866,33.7744,,"732 Joseph E. Lowery Blvd. NW,Atlanta,GA,30318",5
+2,1/1/2018,Cooking Matters for Adults (FVRx),FVRX Site 3-Action Ministries,458,Ponce de Leon Ave.,Atlanta,30308,Fulton,,Open Hand Atlanta,-84.37199,33.77389,,"458 Ponce de Leon Ave.,Atlanta,GA,30308",5
+2,3/23/2018,"Cooking Matters for Adults, Teens and Kids",Wylde Center,1503,Hardee Street,Atlanta,30307,Fulton,"Teens, Kids, and Adults",Open Hand Atlanta,-84.33834,33.75526,,"1503 Hardee Street,Atlanta,GA,30307",5
+2,4/16/2018,Cooking Matters for Kids and Teens (Under 18),"Little Ones Learning Academy, After School Program",993,Forest Ave.,Forest Park,30297,Clayton,Ages 6-7,Open Hand Atlanta,-84.35761,33.6233,,"993 Forest Ave.,Forest Park,GA,30297",5
+2,4/16/2018,Cooking Matters for Adults (FVRx),Grady- GSU Urban Life Building,140,Decatur St SE,Atlanta,30303,Fulton,Adults,Open Hand Atlanta,-84.38566,33.75219,,"140 Decatur St SE,Atlanta,GA,30303",5
+2,4/17/2018,Cooking Matters for Adults,National Church Residences- Big Bethel Villages,500,Richard Allen Blvd.,Atlanta,30331,Fulton,Adults,Open Hand Atlanta,-84.51228,33.73984,,"500 Richard Allen Blvd.,Atlanta,GA,30331",5
+2,4/17/2018,"Cooking Matters for Adults, Teens, and Kids","The Study Hall, Inc.",1010,Crew Street,Atlanta,30315,Fulton,Adults,Open Hand Atlanta,-84.3891,33.72772,,"1010 Crew Street,Atlanta,GA,30315",5
+2,5/7/2018,"Cooking Matters for Adults, Kids, and Teens","Urban Health and Wellness at Stewart Methodist Episcopal Church
+",867,Metropolitan Pkwy. SW,Atlanta,30310,Fulton,"Kids, Adults, and Teens",Open Hand Atlanta,-84.40836,33.73133,,"867 Metropolitan Pkwy. SW,Atlanta,GA,30310",5
+2,5/7/2018,"Cooking Matters for Adults, Kids, and Teens",Favor House,1926,John Calvin Ave.,College Park,30337,Fulton,"Kids, Adults and Teens",Open Hand Atlanta,-84.4522,33.65791,,"1926 John Calvin Ave.,College Park,GA,30337",5
+2,5/7/2018,Cooking Matters for Teens and Adults,DeKalb CSB Program- Kirkwood Center,23,Warren St. SE,Atlanta,30317,DeKalb,Teens and Adults,Open Hand Atlanta,-84.32687,33.7529,,"23 Warren St. SE,Atlanta,GA,30317",5
+3,1/1/2018,Middle School,King Middle School,545,Hill St SE,Atlanta,30312,APS,8-Jun,HealthMPowers,-84.37905,33.7389,rooftop,"545 Hill St SE,Atlanta,GA,30312",5
+3,1/1/2018,Middle School,Young Middle School,3116,Benjamin E Mays Dr SW,Atlanta,30311,APS,8-Jun,HealthMPowers,-84.48939,33.73278,rooftop,"3116 Benjamin E Mays Dr SW,Atlanta,GA,30311",5
+3,1/1/2018,Middle School,Price Middle School,1670,Benjamin Weldon Bickers Dr SE,Atlanta,30315,APS,8-Jun,HealthMPowers,-84.38785,33.70903,rooftop,"1670 Benjamin Weldon Bickers Dr SE,Atlanta,GA,30315",5
+3,1/1/2018,after school,Warren Club,790,Berne Street,Atlanta,30316,Fulton,18-May,HealthMPowers,-84.36155,33.73681,range_interpolated,"790 Berne Street,Atlanta,GA,30316",5
+3,1/1/2018,Child Care,Child Care Network # 50,2476,Candler Road,Decatur,30032,Dekalb,5 yrs >,HealthMPowers,-84.27434,33.71786,rooftop,"2476 Candler Road,Decatur,GA,30032",5
+3,1/1/2018,Middle School,Harper Archer Middle School,3399,Collier Dr NW,Atlanta,30331,APS,8-Jun,HealthMPowers,-84.49875,33.76958,rooftop,"3399 Collier Dr NW,Atlanta,GA,30331",5
+3,1/1/2018,Child Care,Felicia Botherson,3135,Dogwood Drive,Hapeville,30354,Fulton,5 yrs >,HealthMPowers,-84.4088,33.66865,rooftop,"3135 Dogwood Drive,Hapeville,GA,30354",5
+3,1/1/2018,after school,Westside Atlanta Charter School,1903,Drew Dr.,Atlanta,30318,Fulton County,18-May,HealthMPowers,-84.45069,33.79367,rooftop,"1903 Drew Dr.,Atlanta,GA,30318",5
+3,1/1/2018,after school,Draper Club,1462,E. Walker Avenue,College Park,30337,Fulton,18-May,HealthMPowers,-84.43634,33.66356,range_interpolated,"1462 E. Walker Avenue,College Park,GA,30337",5
+3,1/1/2018,after school,Jones Club,450,East Lake Drive,Decatur,30030,DeKalb,18-May,HealthMPowers,-84.30875,33.76076,rooftop,"450 East Lake Drive,Decatur,GA,30030",5
+3,1/1/2018,Middle School,Rex Mill Middle School,6380,Evans Dr,Rex,30273,Clayton,8-Jun,HealthMPowers,-84.28279,33.58148,rooftop,"6380 Evans Dr,Rex,GA,30273",5
+3,1/1/2018,Middle School,Forest Park Middle School,930,Finley Dr.,Forest Park,30297,Clayton,8-Jun,HealthMPowers,-84.35938,33.62176,rooftop,"930 Finley Dr.,Forest Park,GA,30297",5
+3,1/1/2018,Child Care,Little Ones Learning Center,993,Forest Ave,Forest Park,30297,Clayton,5 yrs >,HealthMPowers,-84.35759,33.62309,rooftop,"993 Forest Ave,Forest Park,GA,30297",5
+3,1/1/2018,Middle School,Paul D. West Middle School,2376,Headland Dr,East Point,30344,Fulton,8-Jun,HealthMPowers,-84.46569,33.68884,rooftop,"2376 Headland Dr,East Point,GA,30344",5
+3,1/1/2018,after school,Thomasville Heights Club,1835,"Henry Thomas Drive, SE,",Atlanta,30315,Fulton County,18-May,HealthMPowers,-84.35675,33.70436,rooftop,"1835 Henry Thomas Drive, SE,,Atlanta,GA,30315",5
+3,1/1/2018,Elem,Roberta T. Smith,6340,Highway 42 S,Rex,30273,Clayton,K-5,HealthMPowers,-84.28743,33.58169,rooftop,"6340 Highway 42 S,Rex,GA,30273",5
+3,1/1/2018,Child Care,The Learning Station,5135,Hwy 42,Ellenwood,30294,Clayton,5 yrs >,HealthMPowers,-84.30741,33.61519,rooftop,"5135 Hwy 42,Ellenwood,GA,30294",5
+3,1/1/2018,Middle School,Long Middle School,3200,Latona Dr SW,Atlanta,30354,APS,8-Jun,HealthMPowers,-84.39522,33.66668,rooftop,"3200 Latona Dr SW,Atlanta,GA,30354",5
+3,1/1/2018,Child Care,Trinity AME Early LC,604,Lynhurst Dr. SW,Atlanta,30311,Fulton,5 yrs >,HealthMPowers,-84.48943,33.73901,rooftop,"604 Lynhurst Dr. SW,Atlanta,GA,30311",5
+3,1/1/2018,Elem,Thurgood Marshall,5885,Maddox Rd,Morrow,30260,Clayton,K-5,HealthMPowers,-84.31824,33.59381,rooftop,"5885 Maddox Rd,Morrow,GA,30260",5
+3,1/1/2018,after school,Adamsville Club,3201,Martin Luther King Jr Dr. SW,Atlanta,30311,Fulton County,18-May,HealthMPowers,-84.49185,33.75412,rooftop,"3201 Martin Luther King Jr Dr. SW,Atlanta,GA,30311",5
+3,1/1/2018,Elem,Haynie ES,1169,Morrow Rd,Morrow,30260,Clayton,K-5,HealthMPowers,-84.35308,33.58619,rooftop,"1169 Morrow Rd,Morrow,GA,30260",5
+3,1/1/2018,Elem,Mt. Zion Primary,2920,Mount Zion Rd,Jonesboro,30236,Clayton,K-2,HealthMPowers,-84.29498,33.55653,rooftop,"2920 Mount Zion Rd,Jonesboro,GA,30236",5
+3,1/1/2018,Elem,Mt. Zion ES,2984,Mount Zion Rd,Jonesboro,30236,Clayton,5-Mar,HealthMPowers,-84.29328,33.556,rooftop,"2984 Mount Zion Rd,Jonesboro,GA,30236",5
+3,1/1/2018,Middle School,Bunche Middle School,1925,Niskey Lake Rd SW,Atlanta,30331,APS,8-Jun,HealthMPowers,-84.53056,33.70128,rooftop,"1925 Niskey Lake Rd SW,Atlanta,GA,30331",5
+3,1/1/2018,Middle School,Coretta Scott King Middle (replacement),1190,Nortwest Drive NW,Atlanta,30318,APS,8-Jun,HealthMPowers,-84.48283,33.79033,rooftop,"1190 Nortwest Drive NW,Atlanta,GA,30318",5
+3,1/1/2018,Elem,Anderson,4199,Old Rock Cut Rd,Conley,30288,Clayton,K-5,HealthMPowers,-84.3334,33.64051,rooftop,"4199 Old Rock Cut Rd,Conley,GA,30288",5
+3,1/1/2018,Child Care,Tomesha Biggs,2877,Partin Place,Ellenwood,30294,Dekalb,5 yrs >,HealthMPowers,-84.29602,33.59796,rooftop,"2877 Partin Place,Ellenwood,GA,30294",5
+3,1/1/2018,after school,Harland Club,434,Peeples St,Atlanta,30310,Fulton County,18-May,HealthMPowers,-84.42033,33.74262,rooftop,"434 Peeples St,Atlanta,GA,30310",5
+3,1/1/2018,Middle School,Brown Middle School,765,Peeples St SW,Macon,30310,APS,8-Jun,HealthMPowers,-84.42201,33.73422,bing,"765 Peeples St SW,Macon,GA,30310",5
+3,1/1/2018,Elem,Lake City,5354,Phillips Dr,Lake City,30260,Clayton,K-5,HealthMPowers,-84.35529,33.60813,rooftop,"5354 Phillips Dr,Lake City,GA,30260",5
+3,1/1/2018,Elem,College Park,2075,Princeton Ave,College Park,30337,Fulton,K-5,HealthMPowers,-84.45536,33.6546,range_interpolated,"2075 Princeton Ave,College Park,GA,30337",5
+3,1/1/2018,Middle School,Adamson Middle School,3178,Rex Rd,Rex,30273,Clayton,8-Jun,HealthMPowers,-84.28727,33.5907,range_interpolated,"3178 Rex Rd,Rex,GA,30273",5
+3,1/1/2018,Middle School,Babb Middle School,5500,Reynolds Rd,Forest Park,30297,Clayton,8-Jun,HealthMPowers,-84.3533,33.60403,rooftop,"5500 Reynolds Rd,Forest Park,GA,30297",5
+3,1/1/2018,Elem,Morrow ES,6115,Reynolds Rd,Morrow,30260,Clayton,K-5,HealthMPowers,-84.34142,33.5883,rooftop,"6115 Reynolds Rd,Morrow,GA,30260",5
+3,1/1/2018,after school,Woolfolk Club,1642,Richland Road SW,Atlanta,30311,Fulton,18-May,HealthMPowers,-84.44015,33.73184,rooftop,"1642 Richland Road SW,Atlanta,GA,30311",5
+3,1/1/2018,Elem,West Clayton,5580,Riverdale Rd,College Park,30349,Clayton,K-5,HealthMPowers,-84.43053,33.60323,rooftop,"5580 Riverdale Rd,College Park,GA,30349",5
+3,1/1/2018,Elem,Huie,1260,Rockcut Rd,Forest Park,30297,Clayton,K-5,HealthMPowers,-84.34809,33.63882,rooftop,"1260 Rockcut Rd,Forest Park,GA,30297",5
+3,1/1/2018,after school,CNG at the TAG,1654,S Alvarado Terrace SW,Atlanta,30311,Fulton County,18-May,HealthMPowers,-84.44124,33.73094,rooftop,"1654 S Alvarado Terrace SW,Atlanta,GA,30311",5
+3,1/1/2018,Elem,Edmonds,4495,Simpson Rd,Forest Park,30297,Clayton,K-5,HealthMPowers,-84.34964,33.63299,rooftop,"4495 Simpson Rd,Forest Park,GA,30297",5
+3,1/1/2018,Middle School,Sylvan Hills Middle School,1461,Sylvan Rd SW,Atlanta,30310,APS,8-Jun,HealthMPowers,-84.41845,33.71479,rooftop,"1461 Sylvan Rd SW,Atlanta,GA,30310",5
+3,1/1/2018,Middle School,Morrow Middle School,5934,Trammell Rd,Morrow,30260,Clayton,8-Jun,HealthMPowers,-84.31983,33.59402,rooftop,"5934 Trammell Rd,Morrow,GA,30260",5
+3,1/1/2018,Elem,Northcutt ES,5451,W Fayetteville Rd,College Park,30349,Clayton,K-5,HealthMPowers,-84.44765,33.60647,rooftop,"5451 W Fayetteville Rd,College Park,GA,30349",5
+3,1/1/2018,Middle School,North Clayton Middle School,5517,W Fayetteville Rd,College Park,30349,Clayton,8-Jun,HealthMPowers,-84.4476,33.60523,rooftop,"5517 W Fayetteville Rd,College Park,GA,30349",5
+3,1/1/2018,Elem,MLK,5745,W Lees Mill Rd,College Park,30349,Clayton,K-5,HealthMPowers,-84.41232,33.60785,range_interpolated,"5745 W Lees Mill Rd,College Park,GA,30349",5
+3,1/1/2018,after school,Carver Club,20,Warren Street,Atlanta,30317,DeKalb,18-May,HealthMPowers,-84.32636,33.75368,rooftop,"20 Warren Street,Atlanta,GA,30317",5
+3,1/1/2018,Child Care,"Wee Care Early Learning Center, Inc",4200,Washington Road,East Point,30344,Fulton,5 yrs >,HealthMPowers,-84.49001,33.64166,rooftop,"4200 Washington Road,East Point,GA,30344",5
+3,1/1/2018,Elem,Fountain,5215,West St,Forest Park,30297,Clayton,K-5,HealthMPowers,-84.37388,33.61219,rooftop,"5215 West St,Forest Park,GA,30297",5
+3,1/1/2018,Child Care,Angles Sent From Above,2644,Whitesmill Court,Decatur,30034,Dekalb,5 yrs >,HealthMPowers,-84.29766,33.71034,rooftop,"2644 Whitesmill Court,Decatur,GA,30034",5
+3,1/1/2018,after school,Whitehead Club,1900,Lakewood Ave. SE,Atlanta,30315,Fulton,18-May,HealthMPowers,-84.38312,33.70275,rooftop,"1900 Lakewood Ave. SE,Atlanta,GA,30315",5
+3,1/1/2018,Elem,William McGarrah,2201,Lake Harbin Rd,Morrow,30260,Clayton,K-5,HealthMPowers,-84.31839,33.58175,rooftop,"2201 Lake Harbin Rd,Morrow,GA,30260",5
+3,1/1/2018,Elem,East Clayton,2750,Forest Pkwy,Ellenwood,30294,Clayton,K-5,HealthMPowers,-84.30005,33.61293,rooftop,"2750 Forest Pkwy,Ellenwood,GA,30294",5
+3,1/1/2018,after school,,740,Cameron Madison Alexander Blvd NW,Atlanta,30318,Fulton,18-May,HealthMPowers,-84.41159,33.76779,rooftop,"740 Cameron Madison Alexander Blvd NW,Atlanta,GA,30318",5
+3,1/1/2018,after school,,1040,Fair St SW,Atlanta,30314,Fulton,18-May,HealthMPowers,-84.4218,33.74841,rooftop,"1040 Fair St SW,Atlanta,GA,30314",5
+3,1/1/2018,Child Care,Atlanta School of Excellence,180,Memorial Drive,Atlanta,30303,Fulton,< 5yrs,HealthMPowers,-84.39339,33.7466,rooftop,"180 Memorial Drive,Atlanta,GA,30303",5
+3,1/1/2018,Child Care,Easter Seals Brookvalley,1146,Sheridan,Atlanta,30324,Fulton,< 5yrs,HealthMPowers,-84.35027,33.8208,rooftop,"1146 Sheridan,Atlanta,GA,30324",5
+3,1/1/2018,Child Care,Easter Seals Premier,399,Macedonia Road,Atlanta,30354,Fulton,< 5yrs,HealthMPowers,-84.37608,33.66308,rooftop,"399 Macedonia Road,Atlanta,GA,30354",5
+3,1/1/2018,Child Care,Myra Abdus-Saboor,2996,Park Street,East Point,30344,Fulton,< 5yrs,HealthMPowers,-84.44637,33.67357,rooftop,"2996 Park Street,East Point,GA,30344",5
+1,5/16/2018,"FT, FTBU, Outreach",Sheltering Arms East Point Center,2257,Mulberry St,East Point,30344,Fulton,5,UGA,-84.4564,33.69375,,"2257 Mulberry St,East Point,GA,30344",5
+1,5/16/2018,"FT, FTBU, FTFM, Outreach",Southside Medical Center,1046,Ridge Ave,Atlanta,30315,Fulton,5,UGA,-84.3919,33.72706,,"1046 Ridge Ave,Atlanta,GA,30315",5
+1,5/16/2018,FTFM,Southeast Atlanta Library,1463,Pryor Rd,Atlanta,30315,Fulton,5,UGA,-84.39427,33.71479,,"1463 Pryor Rd,Atlanta,GA,30315",5
+1,5/16/2018,FTFM,Hunter Hill First Missionary Baptist Church,166,Edward Street,Atlanta,30314,Fulton,5,UGA,-84.43529,33.75975,,"166 Edward Street,Atlanta,GA,30314",5
+1,5/16/2018,FTFM,Friends of Collier Heights Park,3691,Collier Dr. NW,Atlanta,30331,Fulton,5,UGA,-84.50656,33.76974,,"3691 Collier Dr. NW,Atlanta,GA,30331",5
+1,5/16/2018,FTFM,Marddy's,1017,Fair St SW,Atlanta,30310,Fulton,5,UGA,-84.42114,33.74912,,"1017 Fair St SW,Atlanta,GA,30310",5
+1,5/16/2018,FTFM,Dogwood Senior Center,1953,Donald L. Hollowell Pkwy NW,Atlanta,30318,Fulton,5,UGA,-84.44827,33.776,,"1953 Donald L. Hollowell Pkwy NW,Atlanta,GA,30318",5
+1,5/17/2018,FTFM,"Live Fresh, Inc.",2311,Cascade Rd,Atlanta,30311,Fulton,5,UGA,-84.46434,33.72224,,"2311 Cascade Rd,Atlanta,GA,30311",5
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Fulton County Extension-Camp Truitt,4300,Herschel Rd,College Park,30337,Fulton,5,UGA,-84.47228,33.63836,,"4300 Herschel Rd,College Park,GA,30337",5
+1,5/17/2018,"FT, FTBU, FeT, FTFM, Outreach",Fulton County Extension-South East Point,1757,Washington Rd,East Point,30344,Fulton,5,UGA,-84.44903,33.67605,,"1757 Washington Rd,East Point,GA,30344",5
+2,5/16/2018,Federally Qualified Health Center,HEALing Community Center,2600,M.L.K. Jr Dr SW #100,Atlanta,30311,Fulton,"Families, Adults, Teens, Kids",Open Hand Atlanta,-84.47247,33.75315,,"2600 M.L.K. Jr Dr SW #100,Atlanta,GA,30311",5
+2,5/16/2018,Federally Qualified Health Center,HEALing Community Center- Neighborhood Union,86,86 Sunset Ave NW,Atlanta,30314,Fulton,"Families, Adults, Teens, Kids",Open Hand Atlanta,-84.41048,33.75666,,"86 Sunset Ave NW,Atlanta,GA,30314",5
+2,5/16/2018,Cooking Matters for Teens and Adults,Little House of Love,1397,East Washington Rd.,East Point,30344,Fulton,"Adults, Teens and Kids",Open Hand Atlanta,-84.43462,33.67603,,"1397 East Washington Rd.,East Point,GA,30344",5
+2,6/19/2018,"Cooking Matters for Kids, Teens and Adults",Agape Youth and Family Center,2210,Marietta Blvd. NW,Atlanta,30318,Fulton,"Kids, Teens and Adults",Open Hand Atlanta,-84.44393,33.81503,,"2210 Marietta Blvd. NW,Atlanta,GA,30318",5
+3,6/18/2018,Food Retail,Buddy's Food Mart,5891,Ash St,Forest Park,30297,Clayton,Adults 18+,HealthMPowers,-84.36626,33.59347,,"5891 Ash St,Forest Park,GA,30297",5
+4,5/16/2018,Worksite & Harvest of the Month,APCO,388,Grant Street SE,Atlanta,30312,Fulton,18+; SNAP- eligible,DPH,-84.37614,33.74393,,"388 Grant Street SE,Atlanta,GA,30312",5
+4,5/30/2018,Worksite & Harvest of the Month,APCO,388,Grant Street SE,Atlanta,30312,Fulton,18+; SNAP- eligible,DPH,-84.37614,33.74393,,"388 Grant Street SE,Atlanta,GA,30312",5
+4,5/30/2018,Community Garden & Pick It Try It,Clayton County Head Start,667,South Avenue,Forest Park,30297,Clayton,Families and 18+; SNAP Ed eligible,DPH,-84.36838,33.61472,,"667 South Avenue,Forest Park,GA,30297",5
+4,5/30/2018,Community Garden & Pick It Try It,Clayton County Board of Health,685,Forest Parkway,Forest Park,30297,Clayton,"18+, SNAP- Ed eligible",DPH,-84.36764,33.62062,,"685 Forest Parkway,Forest Park,GA,30297",5
+4,5/30/2018,Community Garden & Pick It Try It,Paradise Community Development Corporation,4234,Hendrix Drive,Forest Park,30297,Clayton,"18+, SNAP- Ed eligible",DPH,-84.37141,33.63865,,"4234 Hendrix Drive,Forest Park,GA,30297",5
+4,6/14/2018,Worksite & Harvest of the Month,Piedmont Hospital Cafeteria,1968,Peachtree Road NW,Atlanta,30309,Fulton,18+; SNAP- eligible,DPH,-84.39637,33.80904,,"1968 Peachtree Road NW,Atlanta,GA,30309",5
+4,6/19/2018,Community Gardens,Lollipop Kids Day Care,4959,West Street,Forest Park,30297,Clayton County,Familes and 18+; SNAP- eligible,DPH,-84.37061,33.61947,,"4959 West Street,Forest Park,GA,30297",5
+1,1/1/2018,Outreach,Chamblee Library,4115,Clairmont Road,Chamblee,30341,DeKalb,Adults 18+,UGA,-84.30874,33.88231,rooftop,"4115 Clairmont Road,Chamblee,GA,30341",6
+1,1/1/2018,Outreach,Doraville Library,3748,Central Ave.,Doraville,30340,DeKalb,Adults 18+,UGA,-84.27833,33.9015,rooftop,"3748 Central Ave.,Doraville,GA,30340",6
+1,1/1/2018,Outreach,Dunwoody Library,5339,Chamblee-Dunwoody Road,Dunwoody,30338,DeKalb,Adults 18+,UGA,-84.33177,33.94465,rooftop,"5339 Chamblee-Dunwoody Road,Dunwoody,GA,30338",6
+1,1/1/2018,Outreach,Embry Hills Library,3733,Chamblee-Tucker Road,Chamblee,30341,DeKalb,Adults 18+,UGA,-84.24152,33.8834,rooftop,"3733 Chamblee-Tucker Road,Chamblee,GA,30341",6
+1,1/1/2018,Outreach,Northlake-Barbara Loar Library,3772,LaVista Road,Tucker,30084,DeKalb,Adults 18+,UGA,-84.26107,33.84184,rooftop,"3772 LaVista Road,Tucker,GA,30084",6
+1,1/1/2018,Outreach,Tucker-Reid H. Cofer Library,5234,LaVista Road,Tucker,30084,DeKalb,Adults 18+,UGA,-84.20875,33.85727,rooftop,"5234 LaVista Road,Tucker,GA,30084",6
+1,1/1/2018,"FT, Outreach",Sheltering Arms-International Village Center,3375,Chamblee Dunwoody Road,Chamblee,30341,DeKalb,Adults 18+,UGA,-84.29702,33.89248,,"3375 Chamblee Dunwoody Road,Chamblee,GA,30341",6
+1,1/1/2018,Outreach,Brookhaven Library,1242,"N. Druid Hills Rd., NE",Atlanta,30319,DeKalb,Adults 18+,UGA,-84.33978,33.85712,,"1242 N. Druid Hills Rd., NE,Atlanta,GA,30319",6
+2,1/1/2018,,Vickery Mills Elementary School,1201,"1201 Alpharetta St, Roswell, GA 30075",Roswell,30075,Fulton,Adults,Open Hand Atlanta,-84.35105,34.03045,rooftop,"1201 Alpharetta St, Roswell, GA 30075,Roswell,GA,30075",6
+2,1/1/2018,,Mercy Care Clinic,3367,Buford Highway,Norcross,30319,Gwinett,Adults 18+,Open Hand Atlanta,-84.26724,33.90859,range_interpolated,"3367 Buford Highway,Norcross,GA,30319",6
+2,1/1/2018,,Community Assistance Center,1130,1130 Hightower Trail,Atlanta,30350 ,Fulton,,Open Hand Atlanta,-84.35011,33.98833,rooftop,"1130 Hightower Trail,Atlanta,GA,30350 ",6
+2,1/1/2018,Cooking Matters for Adults,AHEPA One Apts.,2025,Ludovie Lane,Decatur,30033,DeKalb,Adults,Open Hand Atlanta,-84.26188,33.84308,rooftop,"2025 Ludovie Lane,Decatur,GA,30033",6
+2,1/1/2018,"Cooking Matters for Adults, Teens and Kids",Esther Jackson Elementary,1400,Martin Rd.,Roswell,30076,Fulton,"Adults, Teens, Kids",Open Hand Atlanta,-84.31853,34.01131,rooftop,"1400 Martin Rd.,Roswell,GA,30076",6
+2,1/1/2018,,Oakcliff Elementary School,3150,Willow Oak Way,Atlanta,30340,DeKalb,Adults and  Kids,Open Hand Atlanta,-84.25839,33.90249,rooftop,"3150 Willow Oak Way,Atlanta,GA,30340",6
+2,1/1/2018,Cooking Matters for Adults,Ashford Parkside Apartments-Housing Authority of DeKalb County,3522,Blair Circle NE,Atlanta,30310,Fulton,Adults,Open Hand Atlanta,-84.32396,33.89407,,"3522 Blair Circle NE,Atlanta,GA,30310",6
+2,1/1/2018,Cooking Matters for Adults,Ashford Landing Apartments- Housing Authority of DeKalb County,3521,Blair Circle NE,Atlanta,30310,Fulton,Adults,Open Hand Atlanta,-84.32327,33.89417,,"3521 Blair Circle NE,Atlanta,GA,30310",6
+2,1/1/2018,"Cooking Matters for Adults, Teens and Kids,",Corners Outreach- Dunwoody,6890,Peachtree Industrial Blvd.,Dunwoody,30360,DeKalb,"Teens, Kids, and Adults",Open Hand Atlanta,-84.26644,33.93089,,"6890 Peachtree Industrial Blvd.,Dunwoody,GA,30360",6
+2,1/1/2018,Cooking Matters for Kids,Lockheed Elementary School,1205,Merritt Rd.,Marietta,30062,Cobb,Kids,Open Hand Atlanta,-84.51756,33.97201,,"1205 Merritt Rd.,Marietta,GA,30062",6
+2,4/17/2018,Cooking Matters for Teens and Kids,CPACS,120,Northwood Drive,Sandy Spring,30342,Fulton,Teens and Kids,Open Hand Atlanta,-84.38275,33.91157,,"120 Northwood Drive,Sandy Spring,GA,30342",6
+2,5/7/2018,Cooking Matters for Teens and Adults,DeKalb CSB Program- North DeKalb Center,3807,Clairmont Rd.,Chamblee,30341,DeKalb,Teens and Adults,Open Hand Atlanta,-84.30813,33.87175,,"3807 Clairmont Rd.,Chamblee,GA,30341",6
+3,1/1/2018,Child Care,Samantha Rawlings,9465,Knollcrest Blvd,Alpharetta,30022,Fulton,5 yrs >,HealthMPowers,-84.20849,34.01083,rooftop,"9465 Knollcrest Blvd,Alpharetta,GA,30022",6
+3,1/1/2018,Middle School,Ridgeview Middle School,5340,5340 S Trimble Rd,Atlanta,30342,Fulton,8-Jun,HealthMPowers,-84.3594,33.89814,rooftop,"5340 S Trimble Rd,Atlanta,GA,30342",6
+3,1/1/2018,after school,Brookhaven Club,1330,N. Druid Hills Rd,Atlanta,30319,Dekalb County,18-May,HealthMPowers,-84.33873,33.85448,rooftop,"1330 N. Druid Hills Rd,Atlanta,GA,30319",6
+3,1/1/2018,Child Care,Water Oak Academy,600,Rocky Creek Drive,Roswell,30075,Fulton,5 yrs >,HealthMPowers,-84.34493,34.03041,rooftop,"600 Rocky Creek Drive,Roswell,GA,30075",6
+3,1/1/2018,Elem,Huntley Hills,2112,Seaman Cir,Chamblee,30341,Dekalb,k-5,HealthMPowers,-84.30274,33.91155,rooftop,"2112 Seaman Cir,Chamblee,GA,30341",6
+3,1/1/2018,Child Care,Easter Seals Warsaw,1240,Wasrsaw Rd.,Roswell,30076,Fulton,< 5yrs,HealthMPowers,-84.33316,34.03089,rooftop,"1240 Wasrsaw Rd.,Roswell,GA,30076",6
+3,1/1/2018,Child Care,Maria Ortega (My Little Geniuses),1096,Allgood Road,Marietta,30062,Cobb,< 5yrs,HealthMPowers,-84.52191,33.97743,rooftop,"1096 Allgood Road,Marietta,GA,30062",6
+3,1/1/2018,after school,Chamblee (was Brookhaven) Club,2880,Dresden Drive,Chamblee,30341,DeKalb,18-May,HealthMPowers,-84.27718,33.87679,,"2880 Dresden Drive,Chamblee,GA,30341",6
