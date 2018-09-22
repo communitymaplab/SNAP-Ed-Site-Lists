@@ -36,6 +36,9 @@
         <script src="js/leaflet-search.js"></script>
         <script src="data/QualifiedAreas_0.js"></script>
         <script src="data/GeocodedSiteListsFY17_FY18_1.js"></script>
+	<script src="data/GeocodedSiteListsFY17_FY18_2.js"></script>
+	<script src="data/GeocodedSiteListsFY17_FY18_3.js"></script>
+	<script src="data/GeocodedSiteListsFY17_FY18_4.js"></script>
         <script>
         var map = L.map('map', {
             zoomControl:true, maxZoom:28, minZoom:1
@@ -69,7 +72,7 @@
                 fillColor: 'rgba(255,237,196,0.3)',
             }
         }
-
+			
         function pop_GeocodedSiteListsFY17_FY18_1(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
@@ -142,6 +145,223 @@
           }
         }
 		
+       
+	function pop_GeocodedSiteListsFY17_FY18_2(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <th scope="row">Name</th>\
+                        <td>' + (feature.properties['Name_of_Lo'] !== null ? Autolinker.link(String(feature.properties['Name_of_Lo'])) : '') + '</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Project</th>\
+                        <td>' + (feature.properties['Project'] !== null ? Autolinker.link(String(feature.properties['Project'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Address</th>\
+                        <td>' + (feature.properties['search_add'] !== null ? Autolinker.link(String(feature.properties['search_add'])) : '') + '</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Agency</th>\
+                        <td>' + (feature.properties['Agency_name'] !== null ? Autolinker.link(String(feature.properties['Agency_name'])) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+        function style_GeocodedSiteListsFY17_FY18_2_0(feature) {
+            switch(String(feature.properties['Agency_name'])) {
+                case 'DPH':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_2',
+            }
+                    break;
+                case 'HealthMPowers':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_2',
+            }
+                    break;
+                case 'Open Hand Atlanta':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_2',
+            }
+                    break;
+                case 'UGA':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_2',
+            }
+                    break;
+                default:
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_2',
+            }
+                    break;
+            }
+        }
+		
+		function getColor(agtype) {
+          switch (agtype) {
+            case 'DPH':
+              return '#4646f2';
+			  
+            case 'HealthMPowers':
+              return '#9e45f4';
+			  
+            case 'Open Hand Atlanta':
+              return '#04a80c';
+			  
+            case 'UGA':
+              return '#ea2724';
+			  
+            default:
+              return 'white';
+			  
+			  break;
+          }
+        }
+		
+	function pop_GeocodedSiteListsFY17_FY18_3(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <th scope="row">Name</th>\
+                        <td>' + (feature.properties['Name_of_Lo'] !== null ? Autolinker.link(String(feature.properties['Name_of_Lo'])) : '') + '</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Project</th>\
+                        <td>' + (feature.properties['Project'] !== null ? Autolinker.link(String(feature.properties['Project'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Address</th>\
+                        <td>' + (feature.properties['search_add'] !== null ? Autolinker.link(String(feature.properties['search_add'])) : '') + '</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Agency</th>\
+                        <td>' + (feature.properties['Agency_name'] !== null ? Autolinker.link(String(feature.properties['Agency_name'])) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+        function style_GeocodedSiteListsFY17_FY18_3_0(feature) {
+            switch(String(feature.properties['Agency_name'])) {
+                case 'DPH':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_3',
+            }
+                    break;
+                case 'HealthMPowers':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_3',
+            }
+                    break;
+                case 'Open Hand Atlanta':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_3',
+            }
+                    break;
+                case 'UGA':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_3',
+            }
+                    break;
+                default:
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_3',
+            }
+                    break;
+            }
+        }
+		
+		function getColor(agtype) {
+          switch (agtype) {
+            case 'DPH':
+              return '#4646f2';
+			  
+            case 'HealthMPowers':
+              return '#9e45f4';
+			  
+            case 'Open Hand Atlanta':
+              return '#04a80c';
+			  
+            case 'UGA':
+              return '#ea2724';
+			  
+            default:
+              return 'white';
+			  
+			  break;
+          }
+        }
+
+	function pop_GeocodedSiteListsFY17_FY18_4(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <th scope="row">Name</th>\
+                        <td>' + (feature.properties['Name_of_Lo'] !== null ? Autolinker.link(String(feature.properties['Name_of_Lo'])) : '') + '</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Project</th>\
+                        <td>' + (feature.properties['Project'] !== null ? Autolinker.link(String(feature.properties['Project'])) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Address</th>\
+                        <td>' + (feature.properties['search_add'] !== null ? Autolinker.link(String(feature.properties['search_add'])) : '') + '</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Agency</th>\
+                        <td>' + (feature.properties['Agency_name'] !== null ? Autolinker.link(String(feature.properties['Agency_name'])) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+        function style_GeocodedSiteListsFY17_FY18_4_0(feature) {
+            switch(String(feature.properties['Agency_name'])) {
+                case 'DPH':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_4',
+            }
+                    break;
+                case 'HealthMPowers':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_4',
+            }
+                    break;
+                case 'Open Hand Atlanta':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_4',
+            }
+                    break;
+                case 'UGA':
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_4',
+            }
+                    break;
+                default:
+                    return {
+                pane: 'pane_GeocodedSiteListsFY17_FY18_4',
+            }
+                    break;
+            }
+        }
+		
+		function getColor(agtype) {
+          switch (agtype) {
+            case 'DPH':
+              return '#4646f2';
+			  
+            case 'HealthMPowers':
+              return '#9e45f4';
+			  
+            case 'Open Hand Atlanta':
+              return '#04a80c';
+			  
+            case 'UGA':
+              return '#ea2724';
+			  
+            default:
+              return 'white';
+			  
+			  break;
+          }
+        }
+		
         map.createPane('pane_GeocodedSiteListsFY17_FY18_1');
         var layer_GeocodedSiteListsFY17_FY18_1 = new L.geoJson(json_GeocodedSiteListsFY17_FY18_1, {
             attribution: '<a href=""></a>',
@@ -161,7 +381,68 @@
         });
         bounds_group.addLayer(layer_GeocodedSiteListsFY17_FY18_1);
         map.addLayer(layer_GeocodedSiteListsFY17_FY18_1);
-        map.createPane('pane_QualifiedAreas_0');
+        
+	map.createPane('pane_GeocodedSiteListsFY17_FY18_2');
+        var layer_GeocodedSiteListsFY17_FY18_2 = new L.geoJson(json_GeocodedSiteListsFY17_FY18_2, {
+            attribution: '<a href=""></a>',
+            pane: 'pane_GeocodedSiteListsFY17_FY18_2',
+            onEachFeature: pop_GeocodedSiteListsFY17_FY18_2,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, {radius: 4, 
+                                                fillOpacity: 0.9, 
+                                                color: getColor(String(feature.properties['Agency_name'])), 
+                                                fillColor: getColor(String(feature.properties['Agency_name'])), 
+                                                weight: 1,});
+            },
+        });
+        bounds_group.addLayer(layer_GeocodedSiteListsFY17_FY18_2);
+        map.addLayer(layer_GeocodedSiteListsFY17_FY18_2);
+		
+	map.createPane('pane_GeocodedSiteListsFY17_FY18_3');
+        var layer_GeocodedSiteListsFY17_FY18_3 = new L.geoJson(json_GeocodedSiteListsFY17_FY18_3, {
+            attribution: '<a href=""></a>',
+            pane: 'pane_GeocodedSiteListsFY17_FY18_3',
+            onEachFeature: pop_GeocodedSiteListsFY17_FY18_3,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, {radius: 4, 
+                                                fillOpacity: 0.9, 
+                                                color: getColor(String(feature.properties['Agency_name'])), 
+                                                fillColor: getColor(String(feature.properties['Agency_name'])), 
+                                                weight: 1,});
+            },
+        });
+        bounds_group.addLayer(layer_GeocodedSiteListsFY17_FY18_3);
+        map.addLayer(layer_GeocodedSiteListsFY17_FY18_3);	
+	
+	map.createPane('pane_GeocodedSiteListsFY17_FY18_4');
+        var layer_GeocodedSiteListsFY17_FY18_4 = new L.geoJson(json_GeocodedSiteListsFY17_FY18_4, {
+            attribution: '<a href=""></a>',
+            pane: 'pane_GeocodedSiteListsFY17_FY18_4',
+            onEachFeature: pop_GeocodedSiteListsFY17_FY18_4,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, {radius: 4, 
+                                                fillOpacity: 0.9, 
+                                                color: getColor(String(feature.properties['Agency_name'])), 
+                                                fillColor: getColor(String(feature.properties['Agency_name'])), 
+                                                weight: 1,});
+            },
+        });
+        bounds_group.addLayer(layer_GeocodedSiteListsFY17_FY18_4);
+        map.addLayer(layer_GeocodedSiteListsFY17_FY18_4);
+		
+	map.createPane('pane_QualifiedAreas_0');
         var layer_QualifiedAreas_0 = new L.geoJson(json_QualifiedAreas_0, {
             attribution: '<a href=""></a>',
             pane: 'pane_QualifiedAreas_0',
@@ -183,6 +464,30 @@
 		
         map.addControl(new L.Control.Search({
             layer: layer_GeocodedSiteListsFY17_FY18_1,
+            initial: false,
+            hideMarkerOnCollapse: true,
+            propertyName: 'Name_of_Lo'}));
+			
+		var info = L.control({position:'bottomleft'});
+	
+	map.addControl(new L.Control.Search({
+            layer: layer_GeocodedSiteListsFY17_FY18_2,
+            initial: false,
+            hideMarkerOnCollapse: true,
+            propertyName: 'Name_of_Lo'}));
+			
+		var info = L.control({position:'bottomleft'});
+		
+	 map.addControl(new L.Control.Search({
+            layer: layer_GeocodedSiteListsFY17_FY18_3,
+            initial: false,
+            hideMarkerOnCollapse: true,
+            propertyName: 'Name_of_Lo'}));
+			
+		var info = L.control({position:'bottomleft'});
+		
+	 map.addControl(new L.Control.Search({
+            layer: layer_GeocodedSiteListsFY17_FY18_4,
             initial: false,
             hideMarkerOnCollapse: true,
             propertyName: 'Name_of_Lo'}));
