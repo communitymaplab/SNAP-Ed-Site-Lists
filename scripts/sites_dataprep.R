@@ -3,6 +3,8 @@ library(tidyverse)
 library(ggmap)
 library(sf)
 
+## devtools::install_github("dkahle/ggmap")
+
 source("scripts/api_key.R")
 
 ##Read in most recent data #####
@@ -19,11 +21,11 @@ date<-bind_rows(list.geojson.date) %>%
   gather() %>%
   summarize(max=max(value))
 date<-as.character(date[1,1])
-recentfile<-paste("data/geocodedsitelist_",date,".geojson",sep)
+recentfile<-paste("data/geocodedsitelist_",date,".geojson",sep = "")
 
 sites_xy<-st_read(recentfile) %>% #Replace with current file
   select(Name_of_Lo,Address,City,lon,lat,loctype) %>%
-  distinct()
+  distinct() ## retain only unique/distinct rows from an input tbl
 
 st_geometry(sites_xy)<-NULL
 
@@ -88,3 +90,23 @@ write_csv(sites_new,paste("data/geocodedsitelist_",Sys.Date(),".csv",sep=""))
 sites_new_sf<-st_as_sf(sites_new,coords=c("lon","lat"),crs=4326,remove=FALSE)
 filename=paste("data/geocodedsitelist_",Sys.Date(),".geojson",sep="")
 st_write(sites_new_sf,filename)
+
+## Create multiple files for each agency
+file <- sites_new_sf
+df <- as.data.frame(file)
+
+for(i in unique(df$Agency)){
+  num <- paste("df", i, sep="")
+  assign(num, df[df$Agency==i,])
+}
+
+list_df <- list(df1=df1, df2=df2, df3=df3, df4=df4)
+for(i in names(list_df)){
+  write.csv(list_df[[i]], paste("data/geocodedsitelist_",Sys.Date(),"_",i,".csv",sep=""))
+}
+
+for(i in 1:4){
+  agy_new_sf<-st_as_sf(list_df[[i]],coords=c("lon","lat"),crs=4326,remove=FALSE)
+  filename=paste("data/geocodedsitelist_",Sys.Date(),"_",i,".geojson",sep="")
+  st_write(agy_new_sf,filename)
+}
