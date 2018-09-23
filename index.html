@@ -456,6 +456,12 @@
         });
         bounds_group.addLayer(layer_QualifiedAreas_0);
         map.addLayer(layer_QualifiedAreas_0);
+	var osmGeocoder = new L.Control.OSMGeocoder({
+            collapsed: false,
+            position: 'bottomleft',
+            text: 'Search',
+        });
+        osmGeocoder.addTo(map);
    
         var baseMaps = {};
 	
@@ -467,16 +473,8 @@
 		"HealthMPowers":layer_GeocodedSiteListsFY17_FY18_3,
 		"DPH":layer_GeocodedSiteListsFY17_FY18_4,
 		},{collapsed:false}).addTo(map);
-        setBounds();
-		
-        map.addControl(new L.Control.Search({
-            layer: layer_GeocodedSiteListsFY17_FY18_0,
-            initial: false,
-            hideMarkerOnCollapse: true,
-            propertyName: 'Name_of_Lo'}));
-			
-	var info = L.control({position:'bottomleft'});
-				
+        setBounds();		
+      
 info.onAdd = function (map) {
     this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
     this.update();
