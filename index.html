@@ -459,7 +459,15 @@
         });
         osmGeocoder.addTo(map);
         var baseMaps = {};
-        L.control.layers(baseMaps,{'<img src="legend/QualifiedAreas_0.png" /> <b>Qualified Areas</b>': layer_QualifiedAreas_0,'<b>SNAP-Ed sites</b> <br /><table><tr><td style="text-align: center;"><img src="legend/GeocodedSiteListsFY17_FY18_1_DPH0.png" /></td><td>DPH</td></tr><tr><td style="text-align: center;"><img src="legend/GeocodedSiteListsFY17_FY18_1_HealthMPowers1.png" /></td><td>HealthMPowers</td></tr><tr><td style="text-align: center;"><img src="legend/GeocodedSiteListsFY17_FY18_1_OpenHandAtlanta2.png" /></td><td>Open Hand Atlanta</td></tr><tr><td style="text-align: center;"><img src="legend/GeocodedSiteListsFY17_FY18_1_UGA3.png" /></td><td>UGA</td></tr></table>': layer_GeocodedSiteListsFY17_FY18_1,},{collapsed:false}).addTo(map);
+	
+	//Layer Control
+        L.control.layers(baseMaps,{
+		"Qualified Areas":layer_QualifiedAreas_0,
+		"UGA":layer_GeocodedSiteListsFY17_FY18_1_0,
+		"Open Hand Atlanta":layer_GeocodedSiteListsFY17_FY18_2_0,
+		"HealthMPowers":layer_GeocodedSiteListsFY17_FY18_3_0,
+		"DPH":layer_GeocodedSiteListsFY17_FY18_4_0,
+		},{collapsed:false}).addTo(map);
         setBounds();
 		
         map.addControl(new L.Control.Search({
