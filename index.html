@@ -88,7 +88,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">Address</th>\
-                        <td>' + (feature.properties['search_add'] !== null ? Autolinker.link(String(feature.properties['search_add'])) : '') + '</td>\
+                        <td>' + (feature.properties['Address'] !== null ? Autolinker.link(String(feature.properties['Address'])) : '') + '</td>\
                     </tr>\
 					<tr>\
                         <th scope="row">Agency</th>\
@@ -161,7 +161,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">Address</th>\
-                        <td>' + (feature.properties['search_add'] !== null ? Autolinker.link(String(feature.properties['search_add'])) : '') + '</td>\
+                        <td>' + (feature.properties['Address'] !== null ? Autolinker.link(String(feature.properties['Address'])) : '') + '</td>\
                     </tr>\
 					<tr>\
                         <th scope="row">Agency</th>\
@@ -233,7 +233,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">Address</th>\
-                        <td>' + (feature.properties['search_add'] !== null ? Autolinker.link(String(feature.properties['search_add'])) : '') + '</td>\
+                        <td>' + (feature.properties['Address'] !== null ? Autolinker.link(String(feature.properties['Address'])) : '') + '</td>\
                     </tr>\
 					<tr>\
                         <th scope="row">Agency</th>\
@@ -305,7 +305,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">Address</th>\
-                        <td>' + (feature.properties['search_add'] !== null ? Autolinker.link(String(feature.properties['search_add'])) : '') + '</td>\
+                        <td>' + (feature.properties['Address'] !== null ? Autolinker.link(String(feature.properties['Address'])) : '') + '</td>\
                     </tr>\
 					<tr>\
                         <th scope="row">Agency</th>\
@@ -511,6 +511,38 @@ info.onAdd = function (map) {
     return this._div;
 };
 
+		//Add GeoSearch box
+		var GeoSearchControl = window.GeoSearch.GeoSearchControl;
+		var GoogleProvider = window.GeoSearch.GoogleProvider;
+		var myProvider = new GoogleProvider;
+		var searchControl = new GeoSearchControl({
+				provider: myProvider,           // required
+				showMarker: true,               // optional: true|false  - default true
+				marker: {                       // optional: L.Marker    - default L.Icon.Default
+					icon: new L.Icon.Default(),
+					draggable: false,
+				},
+				maxMarkers: 1,                  // optional: number      - default 1
+				retainZoomLevel:true,
+				style: 'button',                   // optional: bar|button  - default button
+				autoComplete: true,             // optional: true|false  - default true
+				autoCompleteDelay: 250,         // optional: number      - default 250
+				searchLabel: 'Enter address',   // optional: string      - default 'Enter address'
+				keepResult: true              // optional: true|false  - default false
+		});
+		map.addControl(searchControl);
+		//update info box if a point is searched
+		map.on('geosearch/showlocation', function(result) {
+			if (ClickMarker){
+				map.removeLayer(ClickMarker);
+			}
+			SearchResultsUpdate(result.location.x,result.location.y);
+		});
+		
+		//Set bounds
+		setBounds();		
+		
+		
 // method that we will use to update the control based on feature properties passed
 info.update = function (props) {
     this._div.innerHTML = 'Data last updated 6/28/18; Map by the UGA <a href="https://cmlab.weebly.com/" target="_new">Community Mapping Lab</a>';
