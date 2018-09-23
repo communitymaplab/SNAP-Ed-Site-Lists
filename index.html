@@ -35,6 +35,7 @@
         <script src="js/Control.OSMGeocoder.js"></script>
         <script src="js/leaflet-search.js"></script>
         <script src="data/QualifiedAreas_0.js"></script>
+	<script src="data/GeocodedSiteListsFY17_FY18_0.js"></script>
         <script src="data/GeocodedSiteListsFY17_FY18_1.js"></script>
 	<script src="data/GeocodedSiteListsFY17_FY18_2.js"></script>
 	<script src="data/GeocodedSiteListsFY17_FY18_3.js"></script>
@@ -469,12 +470,12 @@
         setBounds();
 		
         map.addControl(new L.Control.Search({
-            layer: layer_GeocodedSiteListsFY17_FY18_1; layer_GeocodedSiteListsFY17_FY18_2; layer_GeocodedSiteListsFY17_FY18_3; layer_GeocodedSiteListsFY17_FY18_4,
+            layer: layer_GeocodedSiteListsFY17_FY18_0,
             initial: false,
             hideMarkerOnCollapse: true,
             propertyName: 'Name_of_Lo'}));
 			
-		var info = L.control({position:'bottomleft'});
+	var info = L.control({position:'bottomleft'});
 				
 info.onAdd = function (map) {
     this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
