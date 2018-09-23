@@ -56,6 +56,9 @@
                 map.fitBounds(bounds_group.getBounds());
             }
         }
+		
+		//Add layers
+		
         function pop_QualifiedAreas_0(feature, layer) {
         }
         function style_QualifiedAreas_0_0() {
@@ -94,7 +97,7 @@
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});
         }
-        function style_GeocodedSiteListsFY17_FY18_1_0(feature) {
+        function style_GeocodedSiteListsFY17_FY18_1(feature) {
             switch(String(feature.properties['Agency_name'])) {
                 case 'DPH':
                     return {
@@ -167,7 +170,7 @@
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});
         }
-        function style_GeocodedSiteListsFY17_FY18_2_0(feature) {
+        function style_GeocodedSiteListsFY17_FY18_2(feature) {
             switch(String(feature.properties['Agency_name'])) {
                 case 'DPH':
                     return {
@@ -239,7 +242,7 @@
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});
         }
-        function style_GeocodedSiteListsFY17_FY18_3_0(feature) {
+        function style_GeocodedSiteListsFY17_FY18_3(feature) {
             switch(String(feature.properties['Agency_name'])) {
                 case 'DPH':
                     return {
@@ -311,7 +314,7 @@
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});
         }
-        function style_GeocodedSiteListsFY17_FY18_4_0(feature) {
+        function style_GeocodedSiteListsFY17_FY18_4(feature) {
             switch(String(feature.properties['Agency_name'])) {
                 case 'DPH':
                     return {
@@ -463,10 +466,10 @@
 	//Layer Control
         L.control.layers(baseMaps,{
 		"Qualified Areas":layer_QualifiedAreas_0,
-		"UGA":layer_GeocodedSiteListsFY17_FY18_1_0,
-		"Open Hand Atlanta":layer_GeocodedSiteListsFY17_FY18_2_0,
-		"HealthMPowers":layer_GeocodedSiteListsFY17_FY18_3_0,
-		"DPH":layer_GeocodedSiteListsFY17_FY18_4_0,
+		"UGA":layer_GeocodedSiteListsFY17_FY18_1,
+		"Open Hand Atlanta":layer_GeocodedSiteListsFY17_FY18_2,
+		"HealthMPowers":layer_GeocodedSiteListsFY17_FY18_3,
+		"DPH":layer_GeocodedSiteListsFY17_FY18_4,
 		},{collapsed:false}).addTo(map);
         setBounds();
 		
