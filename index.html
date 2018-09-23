@@ -469,74 +469,18 @@
         setBounds();
 		
         map.addControl(new L.Control.Search({
-            layer: layer_GeocodedSiteListsFY17_FY18_1,
+            layer: layer_GeocodedSiteListsFY17_FY18_1; layer_GeocodedSiteListsFY17_FY18_2; layer_GeocodedSiteListsFY17_FY18_3; layer_GeocodedSiteListsFY17_FY18_4,
             initial: false,
             hideMarkerOnCollapse: true,
             propertyName: 'Name_of_Lo'}));
 			
 		var info = L.control({position:'bottomleft'});
-	
-	map.addControl(new L.Control.Search({
-            layer: layer_GeocodedSiteListsFY17_FY18_2,
-            initial: false,
-            hideMarkerOnCollapse: true,
-            propertyName: 'Name_of_Lo'}));
-			
-		var info = L.control({position:'bottomleft'});
-		
-	 map.addControl(new L.Control.Search({
-            layer: layer_GeocodedSiteListsFY17_FY18_3,
-            initial: false,
-            hideMarkerOnCollapse: true,
-            propertyName: 'Name_of_Lo'}));
-			
-		var info = L.control({position:'bottomleft'});
-		
-	 map.addControl(new L.Control.Search({
-            layer: layer_GeocodedSiteListsFY17_FY18_4,
-            initial: false,
-            hideMarkerOnCollapse: true,
-            propertyName: 'Name_of_Lo'}));
-			
-		var info = L.control({position:'bottomleft'});
-			
+				
 info.onAdd = function (map) {
     this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
     this.update();
     return this._div;
 };
-
-		//Add GeoSearch box
-		var GeoSearchControl = window.GeoSearch.GeoSearchControl;
-		var GoogleProvider = window.GeoSearch.GoogleProvider;
-		var myProvider = new GoogleProvider;
-		var searchControl = new GeoSearchControl({
-				provider: myProvider,           // required
-				showMarker: true,               // optional: true|false  - default true
-				marker: {                       // optional: L.Marker    - default L.Icon.Default
-					icon: new L.Icon.Default(),
-					draggable: false,
-				},
-				maxMarkers: 1,                  // optional: number      - default 1
-				retainZoomLevel:true,
-				style: 'button',                   // optional: bar|button  - default button
-				autoComplete: true,             // optional: true|false  - default true
-				autoCompleteDelay: 250,         // optional: number      - default 250
-				searchLabel: 'Enter address',   // optional: string      - default 'Enter address'
-				keepResult: true              // optional: true|false  - default false
-		});
-		map.addControl(searchControl);
-		//update info box if a point is searched
-		map.on('geosearch/showlocation', function(result) {
-			if (ClickMarker){
-				map.removeLayer(ClickMarker);
-			}
-			SearchResultsUpdate(result.location.x,result.location.y);
-		});
-		
-		//Set bounds
-		setBounds();		
-		
 		
 // method that we will use to update the control based on feature properties passed
 info.update = function (props) {
