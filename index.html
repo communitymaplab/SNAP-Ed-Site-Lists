@@ -92,13 +92,13 @@
                     </tr>\
 					<tr>\
                         <th scope="row">Agency</th>\
-                        <td>' + (feature.properties['Agency_name'] !== null ? Autolinker.link(String(feature.properties['Agency_name'])) : '') + '</td>\
+                        <td>' + (feature.properties['Agency_nam'] !== null ? Autolinker.link(String(feature.properties['Agency_nam'])) : '') + '</td>\
                     </tr>\
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});
         }
         function style_GeocodedSiteListsFY17_FY18_1(feature) {
-            switch(String(feature.properties['Agency_name'])) {
+            switch(String(feature.properties['Agency_nam'])) {
                 case 'DPH':
                     return {
                 pane: 'pane_GeocodedSiteListsFY17_FY18_1',
@@ -165,13 +165,13 @@
                     </tr>\
 					<tr>\
                         <th scope="row">Agency</th>\
-                        <td>' + (feature.properties['Agency_name'] !== null ? Autolinker.link(String(feature.properties['Agency_name'])) : '') + '</td>\
+                        <td>' + (feature.properties['Agency_nam'] !== null ? Autolinker.link(String(feature.properties['Agency_nam'])) : '') + '</td>\
                     </tr>\
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});
         }
         function style_GeocodedSiteListsFY17_FY18_2(feature) {
-            switch(String(feature.properties['Agency_name'])) {
+            switch(String(feature.properties['Agency_nam'])) {
                 case 'DPH':
                     return {
                 pane: 'pane_GeocodedSiteListsFY17_FY18_2',
@@ -237,13 +237,13 @@
                     </tr>\
 					<tr>\
                         <th scope="row">Agency</th>\
-                        <td>' + (feature.properties['Agency_name'] !== null ? Autolinker.link(String(feature.properties['Agency_name'])) : '') + '</td>\
+                        <td>' + (feature.properties['Agency_nam'] !== null ? Autolinker.link(String(feature.properties['Agency_nam'])) : '') + '</td>\
                     </tr>\
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});
         }
         function style_GeocodedSiteListsFY17_FY18_3(feature) {
-            switch(String(feature.properties['Agency_name'])) {
+            switch(String(feature.properties['Agency_nam'])) {
                 case 'DPH':
                     return {
                 pane: 'pane_GeocodedSiteListsFY17_FY18_3',
@@ -309,13 +309,13 @@
                     </tr>\
 					<tr>\
                         <th scope="row">Agency</th>\
-                        <td>' + (feature.properties['Agency_name'] !== null ? Autolinker.link(String(feature.properties['Agency_name'])) : '') + '</td>\
+                        <td>' + (feature.properties['Agency_nam'] !== null ? Autolinker.link(String(feature.properties['Agency_nam'])) : '') + '</td>\
                     </tr>\
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});
         }
         function style_GeocodedSiteListsFY17_FY18_4(feature) {
-            switch(String(feature.properties['Agency_name'])) {
+            switch(String(feature.properties['Agency_nam'])) {
                 case 'DPH':
                     return {
                 pane: 'pane_GeocodedSiteListsFY17_FY18_4',
@@ -377,8 +377,8 @@
                 };
                 return L.circleMarker(latlng, {radius: 4, 
                                                 fillOpacity: 0.9, 
-                                                color: getColor(String(feature.properties['Agency_name'])), 
-                                                fillColor: getColor(String(feature.properties['Agency_name'])), 
+                                                color: getColor(String(feature.properties['Agency_nam'])), 
+                                                fillColor: getColor(String(feature.properties['Agency_nam'])), 
                                                 weight: 1,});
             },
         });
@@ -397,8 +397,8 @@
                 };
                 return L.circleMarker(latlng, {radius: 4, 
                                                 fillOpacity: 0.9, 
-                                                color: getColor(String(feature.properties['Agency_name'])), 
-                                                fillColor: getColor(String(feature.properties['Agency_name'])), 
+                                                color: getColor(String(feature.properties['Agency_nam'])), 
+                                                fillColor: getColor(String(feature.properties['Agency_nam'])), 
                                                 weight: 1,});
             },
         });
@@ -417,8 +417,8 @@
                 };
                 return L.circleMarker(latlng, {radius: 4, 
                                                 fillOpacity: 0.9, 
-                                                color: getColor(String(feature.properties['Agency_name'])), 
-                                                fillColor: getColor(String(feature.properties['Agency_name'])), 
+                                                color: getColor(String(feature.properties['Agency_nam'])), 
+                                                fillColor: getColor(String(feature.properties['Agency_nam'])), 
                                                 weight: 1,});
             },
         });
@@ -437,8 +437,8 @@
                 };
                 return L.circleMarker(latlng, {radius: 4, 
                                                 fillOpacity: 0.9, 
-                                                color: getColor(String(feature.properties['Agency_name'])), 
-                                                fillColor: getColor(String(feature.properties['Agency_name'])), 
+                                                color: getColor(String(feature.properties['Agency_nam'])), 
+                                                fillColor: getColor(String(feature.properties['Agency_nam'])), 
                                                 weight: 1,});
             },
         });
